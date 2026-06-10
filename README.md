@@ -218,9 +218,7 @@ The dataset contains **2,000 sales transaction records** with real-world data qu
 [YOUR_EXCEL_DASHBOARD_LINK_HERE](https://github.com/bhagyashrininawe/Sales-Revenue-Dashboard-Excel/blob/main/Sales%20Revenue.xlsx)
 
 ### 📁 Dataset File
-[Download Dataset]([YOUR_DATASET_LINK_HERE](https://github.com/bhagyashrininawe/Sales-Revenue-Dashboard-Excel/blob/main/Corporate_Messy_Dataset_2000_Rows.csv
-
-))
+[YOUR_DATASET_LINK_HERE](https://github.com/bhagyashrininawe/Sales-Revenue-Dashboard-Excel/blob/main/Corporate_Messy_Dataset_2000_Rows.csv)
 
 ---
 
