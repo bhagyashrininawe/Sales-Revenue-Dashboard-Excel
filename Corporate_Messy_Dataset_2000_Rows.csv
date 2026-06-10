@@ -1,0 +1,2001 @@
+OrderID,OrderDate,CustomerName,Product,Region,Salesperson,Quantity,UnitPrice,Revenue,OrderStatus,PaymentMethod
+ORD10000,32/13/2024,    ,Mouse   ,North,Amit,-7,1200,,Shipped,Cash
+ORD10001,2025-07-29,Customer_341,Headset,South,Neha,1,800,800,delivered,Debit Card
+ORD10002,2025-12-19,Customer_252,Keyboard,east,Priya,1,2500,2500,delivered,Net Banking
+ORD10003,2024-03-12,Customer_7,Headset,North,Priya,8,500,4000, Returned,Credit Card
+ORD10004,2024-05-09,Customer_22,Printer,West,Vikas,7,5000,35000,Shipped,UPI
+ORD10005,2024-11-08,Customer_352,Webcam,east,Neha,8,800,6400,Delivered,Net Banking
+ORD10006,2025-10-23,Customer_526,Tablet,east,Pooja,9,12000,108000,delivered,cash 
+ORD10007,2025-03-05,Customer_384,Webcam,east,Rahul,1,25000,25000, Returned,UPI
+ORD10008,2025-05-13,Customer_269,Keyboard,north ,Karan,6,1200,7200,Delivered,cash 
+ORD10009,2025-04-12,Customer_397,Speaker,South,Priya,6,500,3000, Returned,Debit Card
+ORD10010,2024-01-14,Customer_361,Monitor,north ,Amit,7,5000,35000, Returned,Debit Card
+ORD10011,2025-05-21,Customer_239,Webcam,South,Pooja,8,800,6400,Shipped,Net Banking
+ORD10012,2024-02-15,Customer_11,Keyboard,North,Vikas,8,800,6400,Returned,cash 
+ORD10013,2024-10-05,Customer_445,Tablet,north ,Priya,1,500,500,delivered,Debit Card
+ORD10014,2025-12-25,Customer_91,Mouse,east,Karan,7,500,3500,Delivered,Cash
+ORD10015,2025-12-11,Customer_414,Laptop,West,Amit,6,1200,7200,delivered,Debit Card
+ORD10016,2025-02-28,Customer_357,Laptop,North,Rahul,3,2500,7500,Returned,cash 
+ORD10017,2024-08-28,Customer_81,Laptop,north ,Vikas,9,2500,22500,Cancelled,cash 
+ORD10018,2024-10-25,Customer_399,Headset,East,Priya,3,5000,15000, Returned,Credit Card
+ORD10019,2025-08-26,Customer_396,Tablet,South,Pooja,1,12000,12000, Returned,UPI
+ORD10020,2024-12-23,Customer_461,SSD,east,Amit,5,2500,12500,Cancelled,Cash
+ORD10021,2024-11-28,Customer_530,Webcam,East,Priya,9,800,7200,delivered,cash 
+ORD10022,2025-01-12,Customer_231,Speaker,East,Sneha,6,500,3000,Cancelled,Debit Card
+ORD10023,2024-09-27,Customer_408,Laptop,South,Sneha,9,500,4500,Delivered,Credit Card
+ORD10024,2024-10-01,Customer_579,Monitor,East,Priya,2,5000,10000,Returned,Cash
+ORD10025,2025-07-04,Customer_137,Webcam,West,Pooja,3,25000,75000, Returned,Net Banking
+ORD10026,2024-01-29,Customer_264,Speaker,West,Sneha,8,1200,9600,delivered,Credit Card
+ORD10027,2025-09-16,Customer_7,Speaker,East,Priya,10,2500,25000, Returned,UPI
+ORD10028,2025-01-04,Customer_472,Headset,East,Sneha,7,1200,8400,Shipped,Debit Card
+ORD10029,2024-07-16,Customer_186,Tablet,West,Karan,1,25000,25000,delivered,Debit Card
+ORD10030,2024-06-28,Customer_573,Tablet,East,Priya,6,500,3000,Returned,Cash
+ORD10031,2025-09-11,Customer_330,Laptop,north ,Karan,7,500,3500,Returned,UPI
+ORD10032,2025-04-21,Customer_588,Headset,West,Vikas,4,12000,48000,Shipped,Cash
+ORD10033,2025-08-08,,Monitor,north ,Vikas,8,5000,40000,Returned,UPI
+ORD10034,2024-07-05,Customer_127,Laptop,West,Rahul,7,12000,84000,Shipped,Cash
+ORD10035,2024-02-13,Customer_482,Webcam,east,Neha,3,1200,3600,Cancelled,Cash
+ORD10036,2024-02-02,Customer_475,Webcam,East,Amit,10,25000,250000,Returned,cash 
+ORD10037,2025-01-30,Customer_234,Mouse,South,Karan,5,1200,6000,Returned,Net Banking
+ORD10038,2024-02-14,Customer_14,SSD,North,Vikas,3,800,2400,delivered,Credit Card
+ORD10039,2025-06-27,Customer_199,Printer,West,Sneha,8,25000,200000,Returned,Cash
+ORD10039,2024-04-04,Customer_106,SSD,north ,Vikas,10,5000,50000,Cancelled,Cash
+ORD10041,2024-03-10,Customer_402,Tablet,North,Karan,8,500,4000, Returned,Net Banking
+ORD10042,2025-06-13,Customer_366,Keyboard,South,Sneha,8,800,6400,Cancelled,UPI
+ORD10043,2024-09-07,Customer_214,Mouse,North,Karan,7,500,3500, Returned,Debit Card
+ORD10044,2025-07-14,Customer_31,Laptop   ,east,Karan,4,12000,48000, Returned,Debit Card
+ORD10045,2024-07-09,Customer_312,Mouse, SOUTH,Neha,5,12000,60000,Cancelled,Cash
+ORD10046,2024-01-27,Customer_371,Keyboard,West,Sneha,8,800,6400,delivered,cash 
+ORD10047,2025-03-21,Customer_401,Webcam,North,Pooja,4,2500,10000,Delivered,Debit Card
+ORD10048,2024-05-22,Customer_488,Mouse,West,Neha,3,500,1500,delivered,Cash
+ORD10049,2024-01-18,Customer_456,Webcam,East,Sneha,6,1200,7200,Shipped,UPI
+ORD10050,2024-04-18,Customer_521,Mouse,East,Priya,10,12000,120000, Returned,Credit Card
+ORD10051,2025-01-28,Customer_185,Tablet,South,Amit,3,2500,7500,Cancelled,UPI
+ORD10052,2024-12-04,Customer_34,Mouse,West,Karan,3,800,,Cancelled,cash 
+ORD10053,2025-02-18,Customer_62,Laptop,West,Priya,3,500,1500,Cancelled,cash 
+ORD10054,2024-02-12,Customer_368,SSD,South,Sneha,4,25000,100000,Shipped,Debit Card
+ORD10055,18/11/2025,Customer_147,Mouse,East,Karan,1,1200,1200,Returned,Credit Card
+ORD10056,2024-03-03,Customer_60,Webcam,South,Vikas,2,500,1000,Cancelled,Credit Card
+ORD10057,2025-07-24,Customer_1,Speaker,West,Neha,9,1200,10800,Returned,cash 
+ORD10058,2024-05-13,Customer_427,Laptop,East,Neha,10,1200,12000, Returned,UPI
+ORD10059,2024-12-24,Customer_519,Laptop,West,Rahul,5,500,2500,delivered,Debit Card
+ORD10060,2025-03-31,Customer_108,Speaker,West,Priya,9,800,7200,Cancelled,Credit Card
+ORD10061,2025-01-01,Customer_438,SSD,north ,Rahul,5,12000,60000,Shipped,UPI
+ORD10062,2024-09-23,Customer_32,Keyboard,South,Priya,4,1200,4800,Cancelled,cash 
+ORD10063,2025-09-11,Customer_104,Printer,East,Amit,2,500,1000,Returned,Debit Card
+ORD10064,2024-05-13,Customer_259,Tablet,East,Priya,2,5000,10000, Returned,Cash
+ORD10065,2024-05-03,Customer_338,Printer,South,Amit,5,2500,12500,Delivered,UPI
+ORD10066,2025-09-26,,SSD,East,Rahul,-7,25000,-175000,Cancelled,Net Banking
+ORD10067,2024-01-01,Customer_426,Monitor,east,Karan,4,500,2000,Cancelled,UPI
+ORD10068,2024-06-27,Customer_549,Printer,east,Karan,7,800,5600,Returned,UPI
+ORD10069,2024-01-25,Customer_125,Speaker,north ,Amit,7,1200,8400, Returned,cash 
+ORD10070,2025-07-10,Customer_193,Printer,north ,Neha,5,5000,25000,Delivered,cash 
+ORD10071,2024-05-28,Customer_316,Printer,South,Pooja,4,2500,10000,Delivered,Net Banking
+ORD10072,2024-03-08,Customer_158,Keyboard,South,Priya,1,5000,5000,Shipped,Cash
+ORD10073,2024-07-13,Customer_411,Speaker,north ,Neha,7,12000,84000,Delivered,Credit Card
+ORD10074,2024-04-01,Customer_450,Laptop, SOUTH,Amit,9,1200,10800,Cancelled,cash 
+ORD10075,2024-02-06,Customer_160,Webcam,North,Karan,2,12000,24000, Returned,Net Banking
+ORD10076,2025-09-22,Customer_394,Headset, SOUTH,Karan,3,12000,36000,Shipped,cash 
+ORD10077,2025-11-27,  Customer_107  ,Mouse,South,Rahul,1,800,800, Returned,cash 
+ORD10078,2025-08-20,Customer_310,Headset, SOUTH,Vikas,9,2500,22500,Returned,Net Banking
+ORD10079,2024-07-07,Customer_547,Webcam,east,Amit,9,500,4500,delivered,Cash
+ORD10079,2025-12-27,Customer_148,Webcam,north ,Priya,10,12000,120000,Shipped,cash 
+ORD10081,2024-09-09,Customer_565,SSD,East,Pooja,1,1200,1200,Returned,cash 
+ORD10082,2024-10-18,Customer_552,Speaker,east,Neha,10,12000,120000,Cancelled,Credit Card
+ORD10083,2024-02-10,Customer_384,Laptop,West,Neha,10,500,5000,Shipped,cash 
+ORD10084,2024-06-30,Customer_108,Speaker,north ,Karan,2,800,1600,Cancelled,Cash
+ORD10085,2025-11-26,Customer_102,SSD,South,Pooja,9,25000,225000,Returned,Debit Card
+ORD10086,2025-09-11,Customer_427,Printer,West,Rahul,6,12000,72000,Cancelled,UPI
+ORD10087,2025-12-30,Customer_55,Webcam,North,Rahul,3,1200,3600,Cancelled,cash 
+ORD10088,2024-06-20,Customer_409,Keyboard   ,north ,Rahul,9,800,7200,Shipped,Cash
+ORD10089,2025-11-15,Customer_6,SSD,East,Pooja,3,1200,3600,Cancelled,UPI
+ORD10090,2025-03-13,Customer_484,Tablet, SOUTH,Karan,6,500,3000,Shipped,cash 
+ORD10091,2024-03-31,Customer_336,SSD,North,Amit,8,500,#VALUE!, Returned,Debit Card
+ORD10092,2025-01-08,Customer_329,Monitor, SOUTH,Pooja,9,12000,108000, Returned,Cash
+ORD10093,2025-12-12,Customer_350,Monitor,South,Pooja,1,800,800,Cancelled,cash 
+ORD10094,2025-04-25,Customer_439,Laptop,South,Vikas,6,12000,72000,Returned,Cash
+ORD10095,2024-11-14,Customer_74,Headset,North,Priya,4,25000,100000,delivered,Credit Card
+ORD10096,2025-06-13,Customer_11,Speaker,West,Karan,8,5000,40000, Returned,Net Banking
+ORD10097,2024-03-06,Customer_193,Keyboard,East,Karan,6,800,4800, Returned,Net Banking
+ORD10098,2024-04-29,Customer_406,Mouse,West,Priya,6,5000,30000,Cancelled,Debit Card
+ORD10099,2024-04-01,,Headset,North,Priya,3,800,2400,Shipped,cash 
+ORD10100,2025-11-01,Customer_460,Tablet,North,Karan,8,12000,96000,Delivered,UPI
+ORD10101,2024-11-02,Customer_520,Tablet,east,Neha,7,25000,175000,Returned,Debit Card
+ORD10102,2024-03-05,Customer_342,Speaker,North,Pooja,3,500,1500,Shipped,Cash
+ORD10103,2024-11-25,Customer_34,Monitor, SOUTH,Vikas,5,1200,6000,Cancelled,Debit Card
+ORD10104,2025-09-11,Customer_484,Headset,east,Amit,4,5000,,delivered,Net Banking
+ORD10105,2024-06-08,Customer_213,Headset,West,Sneha,4,12000,48000,Returned,Credit Card
+ORD10106,2024-07-20,Customer_475,SSD, SOUTH,Pooja,6,2500,15000,Shipped,Debit Card
+ORD10107,2025-03-22,Customer_301,Mouse,West,Priya,7,25000,175000,delivered,Debit Card
+ORD10108,2025-01-26,Customer_580,Speaker,South,Sneha,10,5000,50000,Delivered,Credit Card
+ORD10109,2025-12-13,Customer_427,Webcam,north ,Vikas,8,12000,96000,delivered,Credit Card
+ORD10110,24/10/2024,Customer_180,Webcam,West,Priya,4,12000,48000,delivered,Net Banking
+ORD10111,32/13/2024,Customer_65,Headset, SOUTH,Rahul,8,12000,96000,Cancelled,Debit Card
+ORD10112,2025-12-17,Customer_132,Keyboard,South,Rahul,5,2500,12500,Shipped,Debit Card
+ORD10113,2025-09-23,Customer_238,Speaker,South,Amit,4,1200,4800,Returned,Credit Card
+ORD10114,2025-09-17,Customer_459,Laptop,east,Neha,3,800,2400,delivered,cash 
+ORD10115,2024-06-14,Customer_334,Laptop,North,Neha,2,800,1600,Cancelled,UPI
+ORD10116,2024-06-27,Customer_473,Tablet,north ,Amit,3,500,1500,delivered,cash 
+ORD10117,2024-08-30,Customer_105,Tablet, SOUTH,Vikas,3,800,2400,Cancelled,Net Banking
+ORD10118,2024-05-10,Customer_596,Headset,north ,Pooja,7,500,3500,Returned,Net Banking
+ORD10119,2025-03-18,Customer_164,Speaker,South,Vikas,3,800,2400, Returned,cash 
+ORD10119,2025-03-27,Customer_518,Keyboard,east,Sneha,10,12000,120000,Cancelled,Cash
+ORD10121,2024-06-21,Customer_238,SSD,East,Rahul,2,500,1000, Returned,UPI
+ORD10122,2025-05-25,Customer_415,Monitor,east,Sneha,9,12000,108000,delivered,Net Banking
+ORD10123,2024-03-20,Customer_275,Printer,East,Sneha,9,1200,10800,Cancelled,Cash
+ORD10124,2024-07-28,Customer_195,Laptop,north ,Vikas,2,2500,5000,Shipped,UPI
+ORD10125,2024-07-08,Customer_477,Headset,West,Vikas,9,500,4500,Delivered,Net Banking
+ORD10126,2025-10-14,Customer_25,Keyboard,South,Pooja,5,1200,6000, Returned,cash 
+ORD10127,2025-04-23,Customer_310,Mouse,East,Neha,8,2500,20000,Delivered,Credit Card
+ORD10128,2025-01-02,Customer_261,Printer,North,Priya,10,5000,50000,Delivered,cash 
+ORD10129,2025-12-31,Customer_356,Headset,West,Rahul,8,2500,20000,Cancelled,Credit Card
+ORD10130,2024-07-02,Customer_341,Monitor,South,Sneha,8,25000,200000, Returned,Net Banking
+ORD10131,2025-01-15,Customer_387,Keyboard,East,Karan,5,5000,25000,delivered,cash 
+ORD10132,2025-03-19,,Monitor   , SOUTH,Sneha,-8,800,-6400,Cancelled,Cash
+ORD10133,2024-12-18,Customer_456,Speaker,North,Pooja,6,12000,72000,Returned,Net Banking
+ORD10134,2025-11-15,Customer_56,Monitor,South,Vikas,1,1200,1200,Cancelled,Net Banking
+ORD10135,2024-07-05,Customer_164,Monitor,South,Vikas,9,800,7200,Shipped,Cash
+ORD10136,2025-04-30,Customer_58,Tablet,East,Neha,10,2500,25000,Cancelled,UPI
+ORD10137,2024-08-25,Customer_449,Printer,South,Karan,2,1200,2400,Returned,Net Banking
+ORD10138,2025-07-10,Customer_493,Speaker,South,Rahul,1,500,500,Shipped,Net Banking
+ORD10139,2024-08-22,Customer_106,Webcam,east,Neha,8,500,4000,Cancelled,Credit Card
+ORD10140,2024-08-15,Customer_21,Mouse,north ,Pooja,2,5000,10000,delivered,cash 
+ORD10141,2025-05-23,Customer_299,Monitor,West,Sneha,6,25000,150000,delivered,Cash
+ORD10142,2024-08-06,Customer_198,Laptop, SOUTH,Vikas,9,800,7200,Returned,Net Banking
+ORD10143,2024-10-20,Customer_141,Webcam,South,Sneha,7,1200,8400,Cancelled,UPI
+ORD10144,2025-01-16,Customer_239,Headset,West,Amit,2,5000,10000, Returned,UPI
+ORD10145,2025-01-13,Customer_579,Laptop, SOUTH,Neha,10,2500,25000, Returned,UPI
+ORD10146,2024-06-24,Customer_201,Printer,West,Vikas,7,800,5600,Cancelled,Cash
+ORD10147,2024-12-04,Customer_289,SSD,east,Vikas,10,12000,120000, Returned,Net Banking
+ORD10148,2025-01-12,Customer_522,Speaker,West,Pooja,6,800,4800,delivered,UPI
+ORD10149,2025-10-23,Customer_137,Keyboard,North,Neha,7,12000,84000,Shipped,cash 
+ORD10150,2025-05-19,Customer_217,Monitor,South,Sneha,6,500,3000,Cancelled,Cash
+ORD10151,2024-05-10,Customer_269,Monitor,north ,Karan,7,800,5600,Shipped,cash 
+ORD10152,2024-07-13,Customer_6,Mouse,north ,Sneha,10,12000,120000, Returned,Credit Card
+ORD10153,2024-09-09,Customer_56,SSD,South,Karan,6,1200,7200,Shipped,Cash
+ORD10154,2024-03-07,  Customer_551  ,Printer,South,Karan,7,12000,84000,Cancelled,Debit Card
+ORD10155,2024-08-18,Customer_367,Webcam, SOUTH,Amit,10,5000,50000,Cancelled,Net Banking
+ORD10156,2025-10-16,Customer_350,SSD,West,Amit,2,500,,delivered,cash 
+ORD10157,2024-02-28,Customer_412,Mouse,North,Rahul,3,12000,36000,Returned,cash 
+ORD10158,2024-07-13,Customer_262,Monitor,South,Pooja,4,25000,100000,Delivered,UPI
+ORD10159,2024-03-12,Customer_520,Monitor,north ,Rahul,8,1200,9600, Returned,Credit Card
+ORD10159,2025-05-24,Customer_491,Speaker,North,Karan,10,800,8000,Delivered,Net Banking
+ORD10161,2024-03-06,Customer_360,Mouse,north ,Sneha,3,2500,7500,delivered,Credit Card
+ORD10162,2024-09-12,Customer_229,Monitor,east,Vikas,3,500,1500,delivered,Debit Card
+ORD10163,2024-04-07,Customer_248,Monitor,East,Neha,1,12000,12000,Returned,UPI
+ORD10164,2024-09-01,Customer_527,Printer,North,Vikas,1,25000,25000,Delivered,cash 
+ORD10165,09/12/2025,,Webcam,East,Neha,7,800,5600,Shipped,Cash
+ORD10166,2024-08-02,Customer_570,Tablet,North,Amit,8,500,4000,Delivered,UPI
+ORD10167,2025-04-29,Customer_401,Monitor, SOUTH,Amit,9,25000,225000,delivered,cash 
+ORD10168,2025-11-10,Customer_209,Headset, SOUTH,Rahul,3,800,2400,delivered,Cash
+ORD10169,2025-10-18,Customer_310,Printer,West,Amit,2,25000,50000,Delivered,Debit Card
+ORD10170,2025-05-28,Customer_80,Printer, SOUTH,Pooja,7,12000,84000,Returned,UPI
+ORD10171,2024-05-09,Customer_476,Keyboard,north ,Vikas,10,5000,50000,delivered,cash 
+ORD10172,2025-07-28,Customer_334,SSD,South,Sneha,10,1200,12000,Cancelled,cash 
+ORD10173,2025-04-10,Customer_323,Mouse,east,Sneha,2,2500,5000,Shipped,Net Banking
+ORD10174,2024-08-28,Customer_399,Printer,east,Vikas,6,5000,30000, Returned,Cash
+ORD10175,2025-08-28,Customer_563,Laptop,West,Rahul,9,500,4500,Cancelled,Net Banking
+ORD10176,2025-03-14,Customer_143,SSD   ,East,Rahul,2,25000,50000,Cancelled,UPI
+ORD10177,2024-04-11,Customer_599,Printer,East,Karan,6,800,4800,Returned,UPI
+ORD10178,2024-09-09,Customer_581,Laptop,East,Karan,9,2500,22500, Returned,UPI
+ORD10179,2024-09-25,Customer_229,Printer,north ,Sneha,8,12000,96000,Shipped,UPI
+ORD10180,2024-08-02,Customer_224,Keyboard, SOUTH,Vikas,9,25000,225000,Cancelled,Debit Card
+ORD10181,2024-07-07,Customer_291,Mouse,east,Sneha,7,1200,8400,Shipped,cash 
+ORD10182,2025-04-04,Customer_163,Laptop,north ,Amit,5,5000,#VALUE!, Returned,Credit Card
+ORD10183,2025-03-24,Customer_447,Keyboard,East,Amit,5,1200,6000, Returned,Credit Card
+ORD10184,2025-03-28,Customer_232,Laptop,East,Rahul,1,1200,1200,Shipped,cash 
+ORD10185,2025-11-13,Customer_589,Mouse,West,Rahul,4,25000,100000,Delivered,Cash
+ORD10186,2024-05-31,Customer_126,Keyboard,north ,Amit,3,25000,75000,Delivered,UPI
+ORD10187,2024-09-05,Customer_477,SSD,East,Rahul,9,5000,45000, Returned,Net Banking
+ORD10188,2025-05-13,Customer_97,Laptop,South,Karan,10,1200,12000,delivered,cash 
+ORD10189,2024-12-17,Customer_517,Speaker,South,Rahul,1,5000,5000,Cancelled,Debit Card
+ORD10190,2024-07-01,Customer_512,Laptop,South,Neha,7,25000,175000,delivered,Net Banking
+ORD10191,2025-07-04,Customer_471,Printer,North,Sneha,3,25000,75000,delivered,Net Banking
+ORD10192,2025-12-19,Customer_334,Mouse, SOUTH,Amit,4,1200,4800,Cancelled,Debit Card
+ORD10193,2025-05-26,Customer_419,Laptop,east,Pooja,10,25000,250000,Shipped,Credit Card
+ORD10194,2024-07-30,Customer_391,Mouse,north ,Karan,10,5000,50000,Returned,UPI
+ORD10195,2025-10-31,Customer_195,Monitor,north ,Sneha,1,800,800,Cancelled,Debit Card
+ORD10196,2025-02-26,Customer_294,Keyboard,North,Vikas,10,500,5000,delivered,Debit Card
+ORD10197,2025-03-21,Customer_84,Laptop,West,Karan,6,12000,72000, Returned,Cash
+ORD10198,2024-12-22,,Printer,West,Karan,-8,25000,-200000,Cancelled,cash 
+ORD10199,2024-07-04,Customer_95,Tablet,South,Amit,2,1200,2400, Returned,UPI
+ORD10199,2025-02-20,Customer_178,Speaker,East,Neha,2,800,1600,delivered,Debit Card
+ORD10201,2025-08-07,Customer_167,Printer,north ,Pooja,9,800,7200,delivered,UPI
+ORD10202,2024-11-04,Customer_295,Printer, SOUTH,Priya,7,500,3500,delivered,UPI
+ORD10203,2025-01-01,Customer_88,Printer,South,Amit,2,5000,10000,delivered,Cash
+ORD10204,2025-12-05,Customer_471,Webcam,East,Vikas,1,800,800,Returned,Cash
+ORD10205,2025-03-01,Customer_279,Speaker,South,Sneha,3,5000,15000,delivered,Net Banking
+ORD10206,2025-02-24,Customer_252,Laptop,West,Pooja,3,1200,3600,Delivered,Debit Card
+ORD10207,2024-10-18,Customer_533,Laptop,South,Neha,4,2500,10000, Returned,Debit Card
+ORD10208,2025-01-14,Customer_332,Webcam,north ,Amit,6,25000,,Delivered,cash 
+ORD10209,2025-11-20,Customer_600,Keyboard,South,Neha,6,1200,7200, Returned,cash 
+ORD10210,2025-11-08,Customer_256,SSD,north ,Sneha,5,12000,60000,Returned,cash 
+ORD10211,2025-05-19,Customer_357,Tablet,West,Pooja,6,25000,150000,Delivered,Cash
+ORD10212,2025-09-22,Customer_104,Tablet,north ,Vikas,9,800,7200,Shipped,UPI
+ORD10213,2024-10-07,Customer_294,Mouse,West,Neha,2,800,1600,Cancelled,cash 
+ORD10214,2025-10-05,Customer_370,Mouse,North,Karan,4,1200,4800,Delivered,cash 
+ORD10215,2025-10-31,Customer_443,Laptop,South,Sneha,8,12000,96000,Delivered,Credit Card
+ORD10216,2025-06-19,Customer_164,Keyboard, SOUTH,Amit,1,12000,12000,delivered,Credit Card
+ORD10217,2024-05-01,Customer_252,Headset, SOUTH,Sneha,1,5000,5000,Shipped,Net Banking
+ORD10218,2024-12-19,Customer_189,Headset,West,Sneha,1,800,800,delivered,UPI
+ORD10219,2024-10-06,Customer_67,Webcam,north ,Priya,2,500,1000,Returned,Credit Card
+ORD10220,25/11/2025,Customer_450,Webcam   ,North,Amit,7,2500,17500,Cancelled,UPI
+ORD10221,2025-10-06,Customer_171,Laptop,east,Sneha,7,25000,175000,Cancelled,Cash
+ORD10222,32/13/2024,Customer_304,Speaker,West,Pooja,1,2500,2500,Shipped,Debit Card
+ORD10223,2024-04-04,Customer_136,Tablet,South,Priya,8,12000,96000,delivered,Net Banking
+ORD10224,2024-12-25,Customer_514,Monitor,East,Rahul,7,1200,8400,Returned,UPI
+ORD10225,2025-10-17,Customer_64,Tablet,north ,Vikas,2,2500,5000,delivered,Debit Card
+ORD10226,2024-11-20,Customer_503,Speaker,East,Amit,2,5000,10000,Cancelled,Net Banking
+ORD10227,2025-02-20,Customer_385,SSD,East,Neha,9,1200,10800,delivered,Net Banking
+ORD10228,2024-08-19,Customer_592,SSD,West,Priya,6,12000,72000,Returned,Debit Card
+ORD10229,2024-08-31,Customer_208,Mouse,north ,Neha,4,12000,48000,delivered,cash 
+ORD10230,2025-03-13,Customer_39,SSD,East,Amit,3,2500,7500,Delivered,Net Banking
+ORD10231,2024-02-17,    ,Mouse,South,Neha,7,5000,35000,Cancelled,Debit Card
+ORD10232,2025-10-12,Customer_138,Mouse,North,Neha,3,5000,15000,Returned,Cash
+ORD10233,2024-07-15,Customer_389,SSD,north ,Priya,5,800,4000,Returned,Debit Card
+ORD10234,2024-05-23,Customer_385,Printer, SOUTH,Amit,10,25000,250000,Delivered,UPI
+ORD10235,2024-08-16,Customer_476,Laptop,West,Priya,4,800,3200,Returned,Net Banking
+ORD10236,2024-04-30,Customer_297,Laptop,north ,Sneha,1,12000,12000,Cancelled,Debit Card
+ORD10237,2025-11-11,Customer_574,Printer,north ,Neha,6,1200,7200,Shipped,Cash
+ORD10238,2025-04-22,Customer_274,Webcam,east,Karan,2,500,1000,Returned,UPI
+ORD10239,2024-07-24,Customer_260,Tablet,East,Karan,3,1200,3600,Cancelled,Credit Card
+ORD10239,2024-06-23,Customer_349,Printer,West,Pooja,4,25000,100000,delivered,Debit Card
+ORD10241,2025-07-23,Customer_557,Webcam,east,Neha,6,1200,7200, Returned,Cash
+ORD10242,2024-09-04,Customer_54,Headset,east,Pooja,1,800,800,Delivered,Credit Card
+ORD10243,2025-10-20,Customer_32,Mouse,South,Pooja,3,800,2400,Cancelled,UPI
+ORD10244,2024-08-25,Customer_549,Webcam,north ,Rahul,1,500,500,Cancelled,cash 
+ORD10245,2024-04-24,Customer_404,Speaker,South,Pooja,4,5000,20000,Cancelled,UPI
+ORD10246,2024-03-16,Customer_487,Headset, SOUTH,Priya,4,12000,48000, Returned,Cash
+ORD10247,2025-01-25,Customer_427,Headset,North,Amit,6,5000,30000, Returned,UPI
+ORD10248,2025-10-17,Customer_520,Printer, SOUTH,Pooja,10,5000,50000,Returned,UPI
+ORD10249,2025-05-03,Customer_545,Headset,North,Neha,7,12000,84000,Returned,Credit Card
+ORD10250,2025-04-07,Customer_267,Webcam,South,Amit,6,25000,150000,Shipped,cash 
+ORD10251,2024-01-22,Customer_179,SSD, SOUTH,Pooja,1,2500,2500, Returned,Cash
+ORD10252,2024-06-17,Customer_431,Tablet,East,Pooja,10,12000,120000,delivered,Debit Card
+ORD10253,2024-12-08,Customer_382,Speaker,East,Neha,5,5000,25000,delivered,Debit Card
+ORD10254,2025-11-05,Customer_391,Monitor,north ,Amit,10,800,8000, Returned,Credit Card
+ORD10255,2025-11-28,Customer_327,Mouse,West,Vikas,10,25000,250000,Delivered,Debit Card
+ORD10256,2024-11-25,Customer_588,Mouse,east,Rahul,5,5000,25000,delivered,Debit Card
+ORD10257,2025-01-01,Customer_5,SSD,north ,Neha,5,500,2500,Cancelled,Net Banking
+ORD10258,2024-02-27,Customer_41,Speaker,North,Vikas,7,12000,84000,Cancelled,cash 
+ORD10259,2024-05-17,Customer_588,Monitor,North,Neha,5,2500,12500,Delivered,UPI
+ORD10260,2025-04-29,Customer_333,SSD,West,Sneha,2,5000,, Returned,Debit Card
+ORD10261,2024-09-02,Customer_337,Mouse, SOUTH,Karan,5,5000,25000,Shipped,cash 
+ORD10262,2024-08-22,Customer_271,Keyboard,north ,Vikas,2,1200,2400,Returned,Cash
+ORD10263,2025-12-13,Customer_291,Monitor,South,Pooja,6,500,3000, Returned,UPI
+ORD10264,2024-11-03,,Laptop   ,North,Pooja,-10,2500,-25000,Delivered,cash 
+ORD10265,2024-09-09,Customer_483,Tablet,South,Vikas,2,500,1000,Returned,Net Banking
+ORD10266,2024-03-13,Customer_562,Monitor,West,Pooja,7,25000,175000,delivered,cash 
+ORD10267,2025-05-20,Customer_226,Tablet,West,Priya,6,2500,15000, Returned,Net Banking
+ORD10268,2025-05-07,Customer_299,Monitor,West,Pooja,3,12000,36000,delivered,Net Banking
+ORD10269,2024-11-02,Customer_7,SSD,north ,Vikas,9,5000,45000,Shipped,Cash
+ORD10270,2024-04-22,Customer_342,Tablet,East,Amit,2,5000,10000,Delivered,UPI
+ORD10271,2025-11-22,Customer_114,Printer,north ,Priya,4,800,3200,Cancelled,Cash
+ORD10272,2025-05-31,Customer_56,Monitor,North,Pooja,8,12000,96000,Returned,UPI
+ORD10273,2024-04-30,Customer_379,SSD,North,Sneha,3,500,#VALUE!, Returned,UPI
+ORD10274,2024-12-12,Customer_175,Laptop,east,Priya,5,25000,125000,Cancelled,Debit Card
+ORD10275,14/03/2024,Customer_301,SSD,South,Neha,2,500,1000, Returned,Net Banking
+ORD10276,2025-04-19,Customer_447,Monitor,North,Sneha,2,1200,2400,delivered,Credit Card
+ORD10277,2024-10-18,Customer_77,Keyboard,West,Karan,1,2500,2500,Cancelled,Net Banking
+ORD10278,2024-10-21,Customer_381,Tablet,north ,Sneha,10,1200,12000,Shipped,Credit Card
+ORD10279,2025-04-16,Customer_266,Tablet,North,Karan,6,1200,7200,Returned,cash 
+ORD10279,2025-08-29,Customer_279,Printer,north ,Rahul,7,25000,175000,Cancelled,UPI
+ORD10281,2025-02-01,Customer_47,Keyboard,South,Pooja,9,800,7200,Returned,Cash
+ORD10282,2024-08-21,Customer_495,Headset,East,Sneha,5,2500,12500,Shipped,Debit Card
+ORD10283,2025-04-29,Customer_599,Mouse,east,Priya,5,5000,25000, Returned,Cash
+ORD10284,2024-08-19,Customer_539,Speaker,north ,Rahul,4,500,2000,Cancelled,Credit Card
+ORD10285,2025-03-07,Customer_77,SSD,east,Pooja,1,5000,5000, Returned,cash 
+ORD10286,2024-12-01,Customer_143,Printer, SOUTH,Neha,9,500,4500,Returned,Credit Card
+ORD10287,2024-11-27,Customer_1,Tablet,East,Neha,5,12000,60000,Cancelled,Net Banking
+ORD10288,2024-02-15,Customer_592,Printer,South,Rahul,10,12000,120000,Returned,UPI
+ORD10289,2024-04-22,Customer_436,SSD, SOUTH,Neha,9,5000,45000,Cancelled,cash 
+ORD10290,2024-09-08,Customer_577,Monitor,east,Amit,8,5000,40000,delivered,cash 
+ORD10291,2024-01-13,Customer_223,Speaker,East,Amit,7,2500,17500,Cancelled,Net Banking
+ORD10292,2024-03-18,Customer_306,Keyboard, SOUTH,Neha,9,12000,108000,Shipped,cash 
+ORD10293,2024-09-08,Customer_428,Keyboard, SOUTH,Priya,4,1200,4800,Delivered,Debit Card
+ORD10294,2025-06-27,Customer_70,Laptop,East,Amit,8,25000,200000, Returned,UPI
+ORD10295,2025-09-30,Customer_89,Keyboard,South,Karan,7,12000,84000,Returned,Cash
+ORD10296,2024-07-09,Customer_547,Headset, SOUTH,Vikas,1,1200,1200,Delivered,cash 
+ORD10297,2024-05-22,,Laptop,South,Vikas,7,25000,175000,Cancelled,UPI
+ORD10298,2025-01-27,Customer_364,Monitor,east,Sneha,10,800,8000, Returned,Cash
+ORD10299,2025-06-13,Customer_393,Webcam,north ,Neha,1,12000,12000, Returned,UPI
+ORD10300,2025-03-15,Customer_121,SSD, SOUTH,Karan,1,800,800, Returned,cash 
+ORD10301,2025-07-21,Customer_231,Mouse,East,Rahul,5,2500,12500,delivered,Debit Card
+ORD10302,2024-11-29,Customer_282,Keyboard,South,Amit,10,1200,12000, Returned,Net Banking
+ORD10303,2024-04-06,Customer_210,SSD, SOUTH,Vikas,2,500,1000,delivered,Debit Card
+ORD10304,2025-03-17,Customer_197,Keyboard, SOUTH,Rahul,9,500,4500,Cancelled,Net Banking
+ORD10305,2024-06-10,Customer_24,Webcam,South,Rahul,3,800,2400,delivered,Debit Card
+ORD10306,2024-08-28,Customer_253,Speaker,north ,Vikas,2,12000,24000,Delivered,UPI
+ORD10307,2024-08-09,Customer_491,Mouse,North,Rahul,10,1200,12000,Returned,Credit Card
+ORD10308,2024-08-18,  Customer_460  ,Tablet   ,north ,Priya,8,800,6400,Delivered,Net Banking
+ORD10309,2025-12-14,Customer_380,Speaker,east,Amit,7,500,3500,Returned,cash 
+ORD10310,2025-06-08,Customer_528,Laptop,South,Sneha,7,25000,175000,Cancelled,Cash
+ORD10311,2024-06-08,Customer_122,Webcam,West,Vikas,3,25000,75000,Returned,UPI
+ORD10312,2024-05-03,Customer_587,Headset,South,Vikas,8,500,,Returned,Credit Card
+ORD10313,2024-05-14,Customer_124,Speaker, SOUTH,Sneha,5,2500,12500,Shipped,Cash
+ORD10314,2024-01-24,Customer_92,SSD,South,Karan,3,12000,36000,Shipped,UPI
+ORD10315,2025-04-19,Customer_22,SSD,North,Karan,1,800,800,Delivered,Cash
+ORD10316,2024-09-28,Customer_70,Monitor,South,Pooja,9,800,7200,Cancelled,Cash
+ORD10317,2025-06-16,Customer_419,Monitor,East,Sneha,3,800,2400,Shipped,Cash
+ORD10318,2024-10-31,Customer_586,Keyboard,North,Sneha,1,800,800,Cancelled,Credit Card
+ORD10319,2024-03-24,Customer_79,Laptop,South,Priya,8,12000,96000,Shipped,Credit Card
+ORD10319,2025-09-22,Customer_505,Monitor, SOUTH,Amit,9,2500,22500,Delivered,UPI
+ORD10321,2024-03-18,Customer_380,Headset,South,Rahul,8,800,6400,Shipped,UPI
+ORD10322,2025-07-12,Customer_323,Monitor,West,Karan,9,800,7200,Returned,Debit Card
+ORD10323,2025-08-31,Customer_13,Mouse,north ,Sneha,9,5000,45000,Shipped,Debit Card
+ORD10324,2024-11-11,Customer_151,Tablet,east,Amit,6,25000,150000, Returned,Credit Card
+ORD10325,2024-11-15,Customer_308,Printer, SOUTH,Pooja,6,25000,150000,Delivered,cash 
+ORD10326,2024-02-04,Customer_39,Speaker, SOUTH,Priya,1,25000,25000, Returned,Net Banking
+ORD10327,2025-06-20,Customer_377,Mouse,north ,Priya,10,800,8000,Cancelled,Debit Card
+ORD10328,2024-12-20,Customer_51,Printer, SOUTH,Sneha,4,2500,10000,delivered,Debit Card
+ORD10329,2025-03-25,Customer_9,SSD,South,Priya,8,2500,20000,Cancelled,Net Banking
+ORD10330,13/04/2024,,Keyboard,North,Karan,-5,1200,-6000,Returned,Net Banking
+ORD10331,2024-05-05,Customer_280,Webcam,South,Pooja,7,800,5600,Shipped,Cash
+ORD10332,2025-11-22,Customer_96,Laptop,east,Karan,5,2500,12500,Shipped,Net Banking
+ORD10333,32/13/2024,Customer_326,SSD,West,Rahul,6,25000,150000,delivered,Credit Card
+ORD10334,2025-10-14,Customer_201,Laptop,East,Sneha,1,500,500,Delivered,Net Banking
+ORD10335,2025-05-03,Customer_368,Tablet,West,Vikas,6,1200,7200,Delivered,Cash
+ORD10336,2024-08-28,Customer_153,Speaker,north ,Pooja,3,800,2400,delivered,UPI
+ORD10337,2024-02-03,Customer_156,Printer, SOUTH,Vikas,9,2500,22500,Delivered,UPI
+ORD10338,2025-12-30,Customer_243,Webcam, SOUTH,Neha,9,5000,45000,Shipped,UPI
+ORD10339,2025-07-09,Customer_423,Tablet, SOUTH,Priya,5,5000,25000,Delivered,cash 
+ORD10340,2025-01-08,Customer_202,SSD, SOUTH,Neha,1,5000,5000,Delivered,Debit Card
+ORD10341,2024-03-12,Customer_419,Keyboard,West,Neha,2,25000,50000,Delivered,Credit Card
+ORD10342,2025-04-02,Customer_282,SSD,West,Vikas,1,1200,1200,Shipped,Cash
+ORD10343,2025-11-23,Customer_77,Laptop,South,Priya,9,12000,108000,Delivered,Credit Card
+ORD10344,2025-01-06,Customer_89,Printer,South,Karan,7,800,5600,Delivered,UPI
+ORD10345,2025-03-29,Customer_330,Mouse,West,Sneha,7,800,5600,Cancelled,Cash
+ORD10346,2024-06-14,Customer_159,Speaker,North,Sneha,2,2500,5000,Delivered,cash 
+ORD10347,2024-09-22,Customer_39,Mouse,east,Vikas,3,12000,36000, Returned,Credit Card
+ORD10348,2024-08-15,Customer_314,Webcam,East,Amit,5,5000,25000, Returned,Credit Card
+ORD10349,2025-06-10,Customer_569,Headset,South,Vikas,4,5000,20000,Shipped,UPI
+ORD10350,2025-04-21,Customer_551,Printer, SOUTH,Amit,9,500,4500,delivered,Debit Card
+ORD10351,2024-09-13,Customer_397,Laptop, SOUTH,Vikas,2,500,1000,Shipped,cash 
+ORD10352,2024-03-24,Customer_189,Tablet   ,North,Amit,3,5000,15000,Delivered,Net Banking
+ORD10353,2024-05-02,Customer_277,Printer,North,Pooja,1,2500,2500,Shipped,cash 
+ORD10354,2025-02-19,Customer_390,Laptop,South,Priya,7,12000,84000,Shipped,Debit Card
+ORD10355,2024-06-06,Customer_522,Headset,South,Neha,6,12000,72000,Returned,Debit Card
+ORD10356,2024-05-29,Customer_403,Headset,North,Amit,3,500,1500,Shipped,cash 
+ORD10357,2024-08-22,Customer_582,Speaker, SOUTH,Priya,1,5000,5000,Shipped,UPI
+ORD10358,2025-02-24,Customer_169,Webcam,West,Priya,7,500,3500, Returned,cash 
+ORD10359,2024-08-13,Customer_22,Mouse,South,Sneha,7,500,3500,Returned,Net Banking
+ORD10359,2025-10-25,Customer_272,Headset,north ,Sneha,8,12000,96000,delivered,Net Banking
+ORD10361,2025-12-18,Customer_432,Tablet, SOUTH,Pooja,7,2500,17500,Delivered,Credit Card
+ORD10362,2025-02-01,Customer_178,Laptop,east,Priya,5,2500,12500,delivered,Debit Card
+ORD10363,2025-12-13,,Speaker,North,Amit,10,25000,250000, Returned,Credit Card
+ORD10364,2024-04-30,Customer_228,Mouse,South,Sneha,6,1200,,Shipped,Debit Card
+ORD10365,2024-04-05,Customer_507,Monitor,north ,Priya,7,25000,175000,Shipped,Credit Card
+ORD10366,2024-09-12,Customer_182,Laptop,east,Sneha,4,25000,100000,Shipped,Cash
+ORD10367,2025-02-25,Customer_579,SSD,north ,Karan,2,800,1600,delivered,Debit Card
+ORD10368,2025-05-19,Customer_62,Headset,east,Rahul,9,2500,22500,Returned,Net Banking
+ORD10369,2024-11-22,Customer_153,Keyboard,West,Vikas,10,500,5000,Shipped,Debit Card
+ORD10370,2024-10-18,Customer_471,SSD,South,Priya,1,500,500,Cancelled,Debit Card
+ORD10371,2024-06-27,Customer_369,Tablet,north ,Amit,5,800,4000,Returned,cash 
+ORD10372,2024-11-10,Customer_539,Headset,North,Neha,3,25000,75000,Shipped,Debit Card
+ORD10373,2025-04-21,Customer_286,SSD,east,Vikas,2,800,1600, Returned,Credit Card
+ORD10374,2024-05-21,Customer_66,Headset,South,Rahul,5,1200,6000,Delivered,Net Banking
+ORD10375,2025-02-22,Customer_324,Mouse,South,Sneha,4,25000,100000,Returned,Debit Card
+ORD10376,2024-05-29,Customer_213,Mouse,South,Rahul,9,500,4500,Shipped,UPI
+ORD10377,2025-11-08,Customer_497,Keyboard,north ,Karan,8,500,4000,Returned,UPI
+ORD10378,2025-12-15,Customer_457,Laptop,South,Vikas,9,2500,22500,Returned,Debit Card
+ORD10379,2025-08-22,Customer_572,Monitor,North,Rahul,8,1200,9600,Shipped,Credit Card
+ORD10380,2025-09-06,Customer_460,Headset,West,Vikas,3,1200,3600, Returned,cash 
+ORD10381,2025-01-12,Customer_177,Webcam,North,Pooja,5,2500,12500,Returned,UPI
+ORD10382,2025-10-21,Customer_289,Headset,East,Amit,2,800,1600,Returned,Net Banking
+ORD10383,2025-10-24,Customer_242,Speaker,east,Priya,10,1200,12000,Cancelled,Cash
+ORD10384,2024-08-19,Customer_190,Mouse,east,Karan,2,12000,24000, Returned,Cash
+ORD10385,26/10/2025,  Customer_215  ,Tablet,North,Karan,3,500,1500,Cancelled,Cash
+ORD10386,2024-06-25,Customer_350,Mouse,North,Karan,7,2500,17500, Returned,UPI
+ORD10387,2025-03-04,Customer_297,Speaker,East,Pooja,8,1200,9600,Cancelled,Net Banking
+ORD10388,2024-12-28,Customer_3,Webcam, SOUTH,Priya,1,5000,5000,Returned,UPI
+ORD10389,2024-01-17,Customer_545,Keyboard,north ,Neha,4,1200,4800,delivered,Cash
+ORD10390,2025-04-10,Customer_39,Speaker, SOUTH,Pooja,10,1200,12000,Shipped,UPI
+ORD10391,2025-06-02,Customer_460,Printer,north ,Pooja,4,25000,100000,Delivered,Cash
+ORD10392,2024-01-13,Customer_465,SSD,South,Priya,6,500,3000,Cancelled,Net Banking
+ORD10393,2024-01-14,Customer_36,Headset,West,Vikas,6,1200,7200,Cancelled,cash 
+ORD10394,2025-09-19,Customer_259,Monitor,east,Pooja,7,5000,35000, Returned,cash 
+ORD10395,2024-04-03,Customer_198,Keyboard,East,Karan,9,25000,225000, Returned,UPI
+ORD10396,2025-09-02,,Speaker   ,South,Rahul,-6,1200,-7200, Returned,Debit Card
+ORD10397,2025-01-20,Customer_538,Keyboard, SOUTH,Neha,8,500,4000,delivered,Cash
+ORD10398,2025-05-01,Customer_471,Laptop,West,Amit,10,25000,250000,Delivered,Net Banking
+ORD10399,2025-03-15,Customer_74,Monitor,North,Sneha,1,1200,1200,Shipped,UPI
+ORD10399,2024-02-21,Customer_88,Monitor, SOUTH,Priya,6,25000,150000,delivered,UPI
+ORD10401,2025-05-06,Customer_580,Printer,East,Pooja,4,25000,100000,delivered,Net Banking
+ORD10402,2024-04-26,Customer_568,Monitor, SOUTH,Amit,6,25000,150000,Delivered,cash 
+ORD10403,2024-07-04,Customer_449,Monitor,South,Priya,3,5000,15000,Returned,UPI
+ORD10404,2025-08-07,Customer_274,Monitor,East,Amit,1,800,800, Returned,Net Banking
+ORD10405,2024-09-20,Customer_63,Monitor,West,Neha,9,500,4500, Returned,UPI
+ORD10406,2024-04-14,Customer_430,Laptop,north ,Vikas,8,25000,200000, Returned,UPI
+ORD10407,2024-04-28,Customer_201,Mouse,East,Sneha,6,5000,30000, Returned,cash 
+ORD10408,2025-07-18,Customer_238,Monitor,North,Priya,4,1200,4800,Cancelled,Cash
+ORD10409,2025-11-29,Customer_207,Webcam,north ,Priya,8,2500,20000,Delivered,Cash
+ORD10410,2025-06-01,Customer_196,Webcam,West,Amit,1,800,800, Returned,Net Banking
+ORD10411,2024-09-02,Customer_454,Mouse,West,Pooja,2,12000,24000,delivered,Cash
+ORD10412,2024-06-27,Customer_131,Tablet, SOUTH,Amit,6,1200,7200,Returned,cash 
+ORD10413,2024-12-11,Customer_269,Mouse,east,Priya,10,25000,250000,Shipped,Net Banking
+ORD10414,2024-05-07,Customer_485,Speaker,North,Neha,9,500,4500,Returned,Debit Card
+ORD10415,2025-05-25,Customer_438,SSD,East,Rahul,4,800,3200,Shipped,UPI
+ORD10416,2024-06-24,Customer_302,Monitor,north ,Pooja,3,800,,Cancelled,Net Banking
+ORD10417,2024-11-11,Customer_118,Printer,East,Pooja,4,1200,4800,delivered,Credit Card
+ORD10418,2025-11-13,Customer_63,Speaker,east,Rahul,8,25000,200000,Returned,Cash
+ORD10419,2024-12-06,Customer_284,Tablet,West,Karan,3,800,2400,Cancelled,Debit Card
+ORD10420,2025-10-16,Customer_576,Headset, SOUTH,Pooja,1,2500,2500, Returned,Cash
+ORD10421,2025-07-31,Customer_84,Webcam,East,Rahul,5,500,2500,Shipped,Credit Card
+ORD10422,2025-12-02,Customer_60,Keyboard,North,Rahul,6,25000,150000,delivered,Debit Card
+ORD10423,2024-05-30,Customer_484,Keyboard,East,Pooja,2,12000,24000,delivered,Cash
+ORD10424,2025-11-26,Customer_508,Headset,North,Neha,2,500,1000,Cancelled,Net Banking
+ORD10425,2025-03-30,Customer_470,Laptop,West,Sneha,2,12000,24000,Shipped,Debit Card
+ORD10426,2025-03-19,Customer_520,Speaker, SOUTH,Pooja,1,2500,2500,delivered,Debit Card
+ORD10427,2025-06-26,Customer_324,SSD,north ,Neha,7,500,3500,Returned,cash 
+ORD10428,2025-09-14,Customer_454,Keyboard,east,Priya,9,800,7200,delivered,Cash
+ORD10429,2024-10-30,,Headset,east,Karan,10,1200,12000, Returned,UPI
+ORD10430,2025-05-01,Customer_561,Headset,South,Vikas,1,2500,2500,Shipped,Net Banking
+ORD10431,2024-04-12,Customer_450,Mouse,North,Sneha,6,12000,72000,delivered,Net Banking
+ORD10432,2025-02-14,Customer_430,Tablet,east,Rahul,1,5000,5000,Delivered,Credit Card
+ORD10433,2024-06-09,Customer_399,SSD, SOUTH,Pooja,8,2500,20000,Shipped,Net Banking
+ORD10434,2025-07-07,Customer_100,Laptop,east,Sneha,5,5000,25000,Cancelled,Credit Card
+ORD10435,2024-12-01,Customer_452,Tablet,East,Pooja,5,5000,25000,Delivered,cash 
+ORD10436,2025-12-19,Customer_384,SSD,East,Karan,2,500,1000,delivered,cash 
+ORD10437,2025-01-22,Customer_434,Laptop,east,Neha,4,5000,20000,Delivered,Net Banking
+ORD10438,2025-08-05,Customer_583,Headset,east,Vikas,9,2500,22500,Cancelled,cash 
+ORD10439,2024-10-16,Customer_162,Keyboard,South,Vikas,9,500,4500,Delivered,cash 
+ORD10439,22/07/2024,Customer_134,Laptop   ,north ,Rahul,7,1200,8400,Returned,Credit Card
+ORD10441,2024-04-19,Customer_159,Tablet,South,Priya,7,12000,84000, Returned,Credit Card
+ORD10442,2024-09-22,Customer_533,Speaker, SOUTH,Priya,5,5000,25000, Returned,UPI
+ORD10443,2025-09-05,Customer_428,Speaker, SOUTH,Priya,5,2500,12500,Delivered,Credit Card
+ORD10444,32/13/2024,Customer_111,Monitor,north ,Pooja,10,5000,50000, Returned,Debit Card
+ORD10445,2025-08-05,Customer_253,Keyboard,east,Rahul,5,500,2500,Cancelled,cash 
+ORD10446,2024-02-06,Customer_188,Headset,east,Priya,2,500,1000,delivered,Credit Card
+ORD10447,2025-01-18,Customer_162,Webcam,North,Karan,3,1200,3600, Returned,Debit Card
+ORD10448,2025-09-02,Customer_424,Keyboard,north ,Sneha,4,500,2000,Shipped,cash 
+ORD10449,2024-05-27,Customer_434,Headset,West,Pooja,10,500,5000,Delivered,cash 
+ORD10450,2024-07-29,Customer_199,Keyboard,east,Karan,1,2500,2500,Cancelled,Net Banking
+ORD10451,2025-01-24,Customer_250,Tablet,east,Karan,8,2500,20000, Returned,Credit Card
+ORD10452,2024-06-05,Customer_205,Monitor,North,Priya,6,25000,150000, Returned,Debit Card
+ORD10453,2024-03-07,Customer_27,Tablet,South,Pooja,6,800,4800, Returned,Net Banking
+ORD10454,2025-07-25,Customer_209,Webcam,north ,Priya,9,5000,45000,Shipped,Net Banking
+ORD10455,2024-10-01,Customer_99,Laptop,East,Vikas,6,25000,#VALUE!,delivered,Credit Card
+ORD10456,2024-05-30,Customer_17,Printer,North,Amit,6,1200,7200,Cancelled,Debit Card
+ORD10457,2025-03-14,Customer_593,Webcam,east,Priya,6,1200,7200,delivered,Cash
+ORD10458,2025-03-24,Customer_419,Headset,east,Amit,9,12000,108000, Returned,Credit Card
+ORD10459,2024-04-15,Customer_518,Speaker,east,Priya,4,800,3200,Delivered,UPI
+ORD10460,2024-11-10,Customer_389,Speaker,East,Vikas,7,500,3500,Returned,cash 
+ORD10461,2025-08-18,Customer_112,Monitor,South,Neha,7,800,5600,Shipped,Cash
+ORD10462,2025-05-08,    ,Webcam,east,Pooja,-6,5000,-30000,Shipped,Net Banking
+ORD10463,2025-01-03,Customer_413,Tablet,East,Neha,5,5000,25000,Returned,Cash
+ORD10464,2024-08-05,Customer_473,Keyboard,South,Pooja,1,800,800,Cancelled,Cash
+ORD10465,2025-11-21,Customer_380,Printer,West,Priya,3,25000,75000,Returned,UPI
+ORD10466,2025-03-24,Customer_575,Printer,east,Karan,7,1200,8400,Delivered,Debit Card
+ORD10467,2025-09-10,Customer_507,Monitor,east,Sneha,3,1200,3600, Returned,Cash
+ORD10468,2024-12-13,Customer_322,SSD,east,Rahul,6,1200,,delivered,UPI
+ORD10469,2024-03-22,Customer_218,Laptop,South,Amit,10,500,5000, Returned,UPI
+ORD10470,2024-10-25,Customer_484,Laptop,east,Amit,2,12000,24000,Cancelled,cash 
+ORD10471,2025-01-13,Customer_140,SSD, SOUTH,Priya,3,2500,7500,Delivered,cash 
+ORD10472,2024-03-15,Customer_1,Webcam,east,Vikas,8,1200,9600,delivered,UPI
+ORD10473,2024-11-29,Customer_316,Headset,north ,Pooja,6,25000,150000, Returned,cash 
+ORD10474,2024-06-22,Customer_296,SSD, SOUTH,Amit,2,25000,50000, Returned,Cash
+ORD10475,2024-09-15,Customer_573,Printer,South,Amit,8,500,4000,Returned,UPI
+ORD10476,2025-07-21,Customer_391,Mouse,east,Karan,9,12000,108000,Cancelled,Cash
+ORD10477,2024-08-14,Customer_130,Speaker,East,Pooja,9,12000,108000,Delivered,Credit Card
+ORD10478,2025-08-01,Customer_445,Laptop,West,Karan,7,5000,35000, Returned,Debit Card
+ORD10479,2025-08-18,Customer_457,SSD,north ,Vikas,10,500,5000,Cancelled,UPI
+ORD10479,2025-11-30,Customer_70,Monitor,West,Sneha,9,25000,225000,Returned,Net Banking
+ORD10481,2024-08-24,Customer_61,Keyboard,east,Vikas,4,2500,10000,Shipped,Net Banking
+ORD10482,2024-10-14,Customer_475,Tablet,north ,Neha,1,800,800,Returned,cash 
+ORD10483,2025-08-07,Customer_594,Speaker,South,Sneha,7,25000,175000, Returned,Debit Card
+ORD10484,2024-07-11,Customer_72,Webcam   ,West,Neha,10,500,5000,Delivered,Credit Card
+ORD10485,2025-09-08,Customer_53,Laptop,South,Pooja,3,25000,75000,Returned,Debit Card
+ORD10486,2024-09-29,Customer_405,Keyboard,South,Priya,6,500,3000,Cancelled,Net Banking
+ORD10487,2024-06-29,Customer_539,Laptop,east,Neha,7,2500,17500, Returned,Debit Card
+ORD10488,2024-05-29,Customer_566,Laptop,East,Rahul,1,500,500,Returned,Net Banking
+ORD10489,2024-08-01,Customer_519,SSD,East,Priya,2,2500,5000,Shipped,cash 
+ORD10490,2024-06-15,Customer_536,Headset,West,Karan,3,500,1500,Delivered,UPI
+ORD10491,2024-08-18,Customer_459,SSD, SOUTH,Sneha,1,1200,1200,delivered,cash 
+ORD10492,2024-11-21,Customer_372,Headset,east,Rahul,9,2500,22500,Cancelled,Net Banking
+ORD10493,2024-09-25,Customer_242,SSD,North,Vikas,3,1200,3600,Cancelled,cash 
+ORD10494,2025-09-03,Customer_573,Keyboard,east,Vikas,5,5000,25000,Delivered,Debit Card
+ORD10495,15/12/2024,,Tablet,South,Sneha,2,25000,50000,Returned,UPI
+ORD10496,2025-05-27,Customer_548,Printer,North,Vikas,2,1200,2400,Delivered,Net Banking
+ORD10497,2025-10-02,Customer_324,Monitor,East,Priya,1,500,500,Delivered,Credit Card
+ORD10498,2025-05-22,Customer_526,SSD,East,Pooja,4,2500,10000, Returned,cash 
+ORD10499,2024-09-16,Customer_4,Keyboard, SOUTH,Rahul,2,12000,24000,Delivered,Debit Card
+ORD10500,2025-05-13,Customer_337,Headset,North,Amit,9,25000,225000,Shipped,Credit Card
+ORD10501,2024-09-22,Customer_429,Speaker,north ,Amit,1,800,800,Returned,Credit Card
+ORD10502,2025-11-05,Customer_133,Mouse,West,Vikas,3,500,1500,Returned,Credit Card
+ORD10503,2025-08-11,Customer_222,Headset,North,Amit,8,5000,40000,Shipped,UPI
+ORD10504,2024-12-21,Customer_568,Headset,South,Vikas,3,25000,75000, Returned,Credit Card
+ORD10505,2025-11-07,Customer_361,Webcam,South,Amit,3,12000,36000,Shipped,UPI
+ORD10506,2025-05-04,Customer_279,Webcam,West,Karan,8,500,4000,delivered,Credit Card
+ORD10507,2024-07-21,Customer_78,Speaker,North,Priya,8,25000,200000,Delivered,Debit Card
+ORD10508,2024-11-20,Customer_337,Printer,east,Amit,10,25000,250000,Shipped,UPI
+ORD10509,2024-06-09,Customer_155,Mouse,East,Karan,1,5000,5000,Shipped,cash 
+ORD10510,2024-11-18,Customer_84,Speaker,East,Neha,7,25000,175000,Returned,Credit Card
+ORD10511,2025-12-18,Customer_7,Monitor,East,Vikas,8,5000,40000,Returned,Net Banking
+ORD10512,2024-08-30,Customer_424,Mouse,East,Amit,1,25000,25000,Cancelled,Debit Card
+ORD10513,2025-05-25,Customer_91,Speaker,east,Neha,10,800,8000,Cancelled,cash 
+ORD10514,2024-04-20,Customer_27,Keyboard,North,Priya,9,12000,108000, Returned,Debit Card
+ORD10515,2024-01-22,Customer_409,Monitor,South,Priya,7,800,5600,Returned,Cash
+ORD10516,2024-02-09,Customer_163,Printer,West,Amit,2,25000,50000,Cancelled,Cash
+ORD10517,2024-06-07,Customer_38,Mouse,east,Karan,10,500,5000,Returned,cash 
+ORD10518,2024-10-16,Customer_196,SSD,East,Rahul,10,5000,50000,Cancelled,cash 
+ORD10519,2025-01-15,Customer_326,Keyboard,South,Rahul,9,800,7200,Shipped,Credit Card
+ORD10519,2024-12-31,Customer_70,Headset,east,Vikas,1,12000,, Returned,Net Banking
+ORD10521,2024-01-25,Customer_397,Printer,North,Karan,3,800,2400,Returned,Credit Card
+ORD10522,2025-09-19,Customer_377,Keyboard,South,Neha,10,1200,12000,Returned,cash 
+ORD10523,2024-06-26,Customer_571,Speaker,East,Karan,4,25000,100000,Returned,Net Banking
+ORD10524,2024-10-18,Customer_148,SSD,South,Amit,6,2500,15000,Delivered,cash 
+ORD10525,2024-10-19,Customer_282,Webcam,east,Vikas,10,800,8000, Returned,Cash
+ORD10526,2025-04-21,Customer_8,Monitor,east,Amit,8,800,6400,Shipped,Debit Card
+ORD10527,2025-11-13,Customer_323,Tablet,West,Sneha,2,5000,10000,Shipped,UPI
+ORD10528,2025-01-02,,Keyboard   , SOUTH,Priya,-9,800,-7200,delivered,UPI
+ORD10529,2025-05-16,Customer_294,Monitor,East,Neha,6,1200,7200,Returned,cash 
+ORD10530,2024-12-20,Customer_470,Keyboard,East,Pooja,7,2500,17500, Returned,Net Banking
+ORD10531,2024-08-25,Customer_501,SSD,West,Vikas,10,500,5000,Delivered,Cash
+ORD10532,2024-02-15,Customer_37,Laptop,East,Pooja,7,1200,8400,Cancelled,Net Banking
+ORD10533,2025-07-05,Customer_170,SSD,north ,Sneha,1,12000,12000,Cancelled,Debit Card
+ORD10534,2025-07-15,Customer_456,Keyboard,East,Sneha,8,25000,200000, Returned,Net Banking
+ORD10535,2025-01-30,Customer_452,Tablet,South,Vikas,3,25000,75000,Returned,Credit Card
+ORD10536,2024-12-26,Customer_504,Keyboard, SOUTH,Neha,3,5000,15000,Returned,Cash
+ORD10537,2025-04-07,Customer_586,Monitor,east,Vikas,7,1200,8400,delivered,Cash
+ORD10538,2024-10-08,Customer_491,Monitor, SOUTH,Amit,10,800,8000, Returned,Debit Card
+ORD10539,2025-10-28,  Customer_550  ,Laptop,North,Amit,5,25000,125000,Cancelled,cash 
+ORD10540,2025-09-14,Customer_39,Monitor,east,Rahul,2,12000,24000,delivered,Debit Card
+ORD10541,2025-01-23,Customer_35,Tablet, SOUTH,Priya,10,2500,25000, Returned,Cash
+ORD10542,2025-08-13,Customer_444,Monitor,east,Pooja,3,25000,75000,Shipped,Net Banking
+ORD10543,2024-08-20,Customer_499,Speaker,east,Karan,9,1200,10800,Returned,Debit Card
+ORD10544,2025-12-07,Customer_90,Headset,north ,Sneha,1,2500,2500, Returned,UPI
+ORD10545,2024-12-03,Customer_507,Mouse,South,Priya,3,500,1500,delivered,Debit Card
+ORD10546,2024-02-16,Customer_81,Laptop,West,Karan,8,1200,#VALUE!,Delivered,UPI
+ORD10547,2024-04-28,Customer_345,Keyboard,North,Vikas,10,800,8000,Cancelled,Cash
+ORD10548,2025-09-18,Customer_280,SSD,East,Rahul,8,25000,200000,Delivered,Net Banking
+ORD10549,2025-01-10,Customer_394,SSD,South,Priya,2,800,1600,Cancelled,Net Banking
+ORD10550,22/11/2025,Customer_423,Printer, SOUTH,Vikas,1,12000,12000,Shipped,Cash
+ORD10551,2025-04-25,Customer_368,Printer,West,Sneha,5,5000,25000,delivered,UPI
+ORD10552,2024-09-09,Customer_209,Keyboard,east,Sneha,8,2500,20000,delivered,Debit Card
+ORD10553,2025-04-17,Customer_296,Webcam,east,Rahul,9,800,7200,Cancelled,Cash
+ORD10554,2024-11-29,Customer_360,Mouse,east,Sneha,10,25000,250000, Returned,Cash
+ORD10555,32/13/2024,Customer_372,Laptop,east,Vikas,9,500,4500, Returned,Cash
+ORD10556,2024-05-21,Customer_593,Webcam,North,Amit,1,800,800,delivered,UPI
+ORD10557,2025-04-27,Customer_477,Tablet,north ,Pooja,6,5000,30000,Returned,cash 
+ORD10558,2024-02-18,Customer_457,Headset,north ,Amit,4,12000,48000,delivered,Debit Card
+ORD10559,2024-08-05,Customer_585,SSD,east,Vikas,6,25000,150000, Returned,cash 
+ORD10559,2024-05-11,Customer_524,Mouse,East,Priya,3,12000,36000,Shipped,UPI
+ORD10561,2025-04-22,,Laptop,North,Neha,3,2500,7500,Cancelled,cash 
+ORD10562,2025-12-17,Customer_302,SSD,north ,Priya,5,12000,60000,Returned,Net Banking
+ORD10563,2024-01-25,Customer_417,SSD,West,Neha,9,12000,108000,Cancelled,cash 
+ORD10564,2025-03-19,Customer_581,Printer,South,Vikas,2,2500,5000,delivered,Credit Card
+ORD10565,2024-05-16,Customer_170,Printer, SOUTH,Karan,7,500,3500,Returned,cash 
+ORD10566,2025-08-28,Customer_91,Laptop,north ,Neha,10,800,8000,Cancelled,Net Banking
+ORD10567,2024-03-14,Customer_585,Headset,West,Karan,3,25000,75000,Shipped,Credit Card
+ORD10568,2025-01-15,Customer_510,Printer,West,Rahul,6,5000,30000,Delivered,Credit Card
+ORD10569,2024-04-03,Customer_100,Keyboard,east,Karan,4,500,2000,Delivered,Debit Card
+ORD10570,2024-08-25,Customer_128,Webcam,North,Priya,2,800,1600,Returned,Cash
+ORD10571,2025-03-16,Customer_262,Printer,East,Neha,3,12000,36000,delivered,UPI
+ORD10572,2025-12-26,Customer_331,Laptop   ,East,Priya,5,25000,,Cancelled,Credit Card
+ORD10573,2025-10-26,Customer_482,Speaker, SOUTH,Priya,8,2500,20000,delivered,Credit Card
+ORD10574,2024-07-03,Customer_14,Headset,north ,Rahul,9,25000,225000,Delivered,Cash
+ORD10575,2024-02-29,Customer_159,Monitor,West,Sneha,5,500,2500,Shipped,Cash
+ORD10576,2025-10-20,Customer_19,Webcam,North,Vikas,10,1200,12000,Shipped,Net Banking
+ORD10577,2024-04-14,Customer_182,Headset,North,Amit,9,2500,22500,Cancelled,Credit Card
+ORD10578,2025-03-08,Customer_167,Keyboard,east,Amit,10,2500,25000,Returned,Net Banking
+ORD10579,2025-08-17,Customer_129,Laptop, SOUTH,Amit,1,1200,1200,Shipped,Cash
+ORD10580,2024-10-30,Customer_491,Headset,east,Neha,6,500,3000, Returned,Credit Card
+ORD10581,2025-09-28,Customer_166,Webcam,South,Pooja,5,5000,25000,Cancelled,Debit Card
+ORD10582,2024-10-24,Customer_69,Monitor,North,Priya,4,2500,10000,delivered,Net Banking
+ORD10583,2024-11-01,Customer_491,Keyboard,South,Neha,4,25000,100000, Returned,Cash
+ORD10584,2025-04-10,Customer_129,Monitor,South,Pooja,8,800,6400, Returned,Net Banking
+ORD10585,2024-08-17,Customer_84,Headset,South,Amit,2,5000,10000,Returned,Cash
+ORD10586,2024-07-04,Customer_587,Headset,South,Rahul,6,2500,15000,delivered,Debit Card
+ORD10587,2024-01-15,Customer_315,Mouse,West,Amit,7,25000,175000,Shipped,Credit Card
+ORD10588,2025-02-02,Customer_111,Keyboard,South,Neha,7,25000,175000,Cancelled,Cash
+ORD10589,2024-08-22,Customer_299,Tablet,South,Priya,10,500,5000,Shipped,Debit Card
+ORD10590,2024-05-27,Customer_69,Monitor,north ,Amit,4,800,3200,Returned,cash 
+ORD10591,2025-04-14,Customer_149,Headset, SOUTH,Neha,1,2500,2500,Shipped,cash 
+ORD10592,2025-03-21,Customer_75,Keyboard,West,Priya,10,2500,25000,Returned,Cash
+ORD10593,2025-12-08,Customer_324,Mouse,north ,Pooja,8,2500,20000,delivered,Net Banking
+ORD10594,2025-09-25,,Tablet,north ,Vikas,-3,5000,-15000, Returned,Cash
+ORD10595,2025-11-27,Customer_373,Monitor,West,Priya,3,2500,7500,Shipped,Cash
+ORD10596,2025-11-22,Customer_213,Webcam,east,Pooja,6,2500,15000, Returned,UPI
+ORD10597,2025-05-17,Customer_72,Monitor,East,Pooja,3,500,1500,Cancelled,Net Banking
+ORD10598,2025-08-26,Customer_198,Speaker, SOUTH,Sneha,10,12000,120000, Returned,Credit Card
+ORD10599,2024-05-13,Customer_142,Speaker,east,Neha,2,25000,50000,Cancelled,cash 
+ORD10599,2025-07-29,Customer_462,SSD, SOUTH,Priya,3,12000,36000,Returned,Credit Card
+ORD10601,2025-07-21,Customer_96,Headset,north ,Karan,10,500,5000,Delivered,cash 
+ORD10602,2025-01-26,Customer_547,Webcam,North,Amit,7,1200,8400,Shipped,Debit Card
+ORD10603,2025-12-05,Customer_500,SSD,North,Amit,7,12000,84000,Cancelled,Debit Card
+ORD10604,2024-01-19,Customer_8,Headset,east,Sneha,10,25000,250000,Shipped,Cash
+ORD10605,17/07/2025,Customer_407,SSD,East,Amit,1,12000,12000,Returned,Net Banking
+ORD10606,2024-11-07,Customer_521,Mouse,north ,Karan,1,5000,5000,Returned,Debit Card
+ORD10607,2025-05-01,Customer_369,SSD,East,Karan,10,12000,120000,Delivered,Cash
+ORD10608,2025-05-24,Customer_488,Printer,North,Vikas,10,1200,12000,delivered,UPI
+ORD10609,2025-05-16,Customer_543,Laptop,South,Sneha,10,800,8000,Returned,Credit Card
+ORD10610,2024-09-02,Customer_43,Headset, SOUTH,Vikas,8,2500,20000,delivered,cash 
+ORD10611,2025-06-12,Customer_310,Mouse,South,Rahul,8,12000,96000, Returned,Cash
+ORD10612,2024-02-16,Customer_236,Headset,north ,Amit,6,25000,150000,delivered,Cash
+ORD10613,2025-08-03,Customer_112,Laptop,north ,Vikas,10,25000,250000,Delivered,UPI
+ORD10614,2024-02-01,Customer_534,Speaker,East,Vikas,4,500,2000, Returned,Credit Card
+ORD10615,2025-10-07,Customer_66,Printer,North,Neha,6,25000,150000,Returned,Credit Card
+ORD10616,2025-12-14,  Customer_133  ,Keyboard   ,South,Neha,7,25000,175000,Delivered,Cash
+ORD10617,2024-02-10,Customer_1,Speaker,West,Neha,7,500,3500,Delivered,Debit Card
+ORD10618,2025-05-17,Customer_140,Laptop, SOUTH,Karan,5,500,2500,Shipped,Net Banking
+ORD10619,2024-07-30,Customer_352,SSD,north ,Neha,4,12000,48000, Returned,UPI
+ORD10620,2024-04-14,Customer_185,Tablet,east,Rahul,10,500,5000,Delivered,UPI
+ORD10621,2024-08-15,Customer_250,Keyboard,East,Amit,7,800,5600, Returned,UPI
+ORD10622,2024-02-21,Customer_276,Webcam,North,Rahul,5,25000,125000,Cancelled,cash 
+ORD10623,2024-01-27,Customer_36,Laptop,east,Priya,9,5000,45000,Shipped,Debit Card
+ORD10624,2025-07-25,Customer_538,Printer,North,Rahul,1,25000,, Returned,UPI
+ORD10625,2025-12-25,Customer_481,Speaker,east,Vikas,9,5000,45000,Delivered,Cash
+ORD10626,2025-04-19,Customer_523,Monitor,East,Vikas,3,2500,7500, Returned,cash 
+ORD10627,2024-10-28,,Keyboard,East,Rahul,9,25000,225000,Cancelled,Debit Card
+ORD10628,2025-10-23,Customer_387,Printer,North,Rahul,5,2500,12500,delivered,Net Banking
+ORD10629,2025-02-12,Customer_496,Webcam, SOUTH,Rahul,4,5000,20000,delivered,Net Banking
+ORD10630,2025-09-28,Customer_311,Laptop,east,Neha,8,12000,96000, Returned,cash 
+ORD10631,2025-09-03,Customer_288,SSD,north ,Rahul,5,1200,6000,Shipped,UPI
+ORD10632,2024-04-27,Customer_578,Mouse, SOUTH,Pooja,10,800,8000,Cancelled,Debit Card
+ORD10633,2024-01-25,Customer_50,Headset, SOUTH,Rahul,2,800,1600, Returned,Net Banking
+ORD10634,2024-09-20,Customer_191,Headset,North,Rahul,1,800,800,Returned,Debit Card
+ORD10635,2025-10-19,Customer_577,Mouse,east,Sneha,8,12000,96000,Shipped,Net Banking
+ORD10636,2024-03-31,Customer_269,Keyboard, SOUTH,Amit,6,12000,72000,Shipped,UPI
+ORD10637,2024-12-17,Customer_151,Laptop,West,Rahul,5,1200,#VALUE!,delivered,cash 
+ORD10638,2024-11-28,Customer_525,SSD,South,Sneha,10,5000,50000, Returned,cash 
+ORD10639,2025-10-09,Customer_316,Monitor,North,Priya,5,800,4000,Cancelled,Cash
+ORD10639,2024-09-27,Customer_506,Mouse,North,Vikas,10,1200,12000,Delivered,Net Banking
+ORD10641,2025-05-16,Customer_348,Printer,east,Priya,4,500,2000,Shipped,cash 
+ORD10642,2025-07-17,Customer_369,Speaker,East,Neha,3,2500,7500,Shipped,UPI
+ORD10643,2025-11-19,Customer_103,Laptop,east,Vikas,9,500,4500,Delivered,Cash
+ORD10644,2025-03-30,Customer_488,Printer,North,Sneha,1,800,800,Shipped,UPI
+ORD10645,2025-05-07,Customer_218,Tablet, SOUTH,Vikas,4,25000,100000, Returned,Debit Card
+ORD10646,2025-10-21,Customer_436,Laptop,North,Priya,2,1200,2400,Shipped,Net Banking
+ORD10647,2024-06-12,Customer_181,Keyboard,South,Priya,9,1200,10800,Returned,UPI
+ORD10648,2024-06-20,Customer_190,Keyboard,West,Karan,3,1200,3600,delivered,Debit Card
+ORD10649,2025-09-02,Customer_56,Speaker,South,Amit,10,800,8000,delivered,Cash
+ORD10650,2025-05-01,Customer_23,Tablet,North,Karan,9,25000,225000,Returned,Credit Card
+ORD10651,2024-09-19,Customer_389,Headset,South,Sneha,5,5000,25000,Returned,Net Banking
+ORD10652,2024-05-13,Customer_242,Keyboard,north ,Sneha,3,500,1500,Cancelled,Credit Card
+ORD10653,2024-01-24,Customer_86,SSD,east,Amit,10,2500,25000,Delivered,Credit Card
+ORD10654,2024-09-22,Customer_220,Laptop,North,Rahul,9,800,7200,Cancelled,Credit Card
+ORD10655,2025-03-04,Customer_428,Monitor,North,Priya,7,2500,17500,Delivered,cash 
+ORD10656,2025-10-02,Customer_194,Speaker,east,Rahul,4,2500,10000,delivered,UPI
+ORD10657,2025-06-20,Customer_587,SSD, SOUTH,Vikas,3,12000,36000,delivered,cash 
+ORD10658,2025-08-01,Customer_211,Headset,east,Neha,6,25000,150000,Returned,Credit Card
+ORD10659,2024-04-18,Customer_447,Tablet, SOUTH,Rahul,1,25000,25000,Shipped,UPI
+ORD10660,27/01/2024,,Mouse   ,North,Priya,-8,12000,-96000,Returned,Net Banking
+ORD10661,2025-02-05,Customer_325,Monitor,South,Sneha,3,1200,3600,Returned,Net Banking
+ORD10662,2024-04-03,Customer_148,Headset,East,Vikas,2,5000,10000,Delivered,Debit Card
+ORD10663,2024-01-18,Customer_593,Speaker, SOUTH,Rahul,6,2500,15000,Returned,UPI
+ORD10664,2025-02-05,Customer_103,Keyboard, SOUTH,Neha,1,25000,25000,Shipped,UPI
+ORD10665,2024-03-08,Customer_492,Headset,South,Sneha,9,500,4500, Returned,UPI
+ORD10666,32/13/2024,Customer_210,Printer,West,Pooja,6,2500,15000,delivered,Debit Card
+ORD10667,2025-12-13,Customer_507,Keyboard, SOUTH,Priya,8,5000,40000,delivered,Debit Card
+ORD10668,2024-12-31,Customer_242,Webcam,East,Vikas,2,12000,24000,Returned,Net Banking
+ORD10669,2025-08-29,Customer_496,Webcam,North,Neha,6,25000,150000,Shipped,Cash
+ORD10670,2025-05-06,Customer_18,Keyboard,South,Karan,1,12000,12000,Cancelled,Cash
+ORD10671,2025-06-14,Customer_212,Mouse,north ,Vikas,7,12000,84000,Delivered,UPI
+ORD10672,2024-06-05,Customer_210,Laptop,east,Karan,5,1200,6000,Shipped,Debit Card
+ORD10673,2025-07-19,Customer_11,SSD,West,Karan,5,2500,12500,Cancelled,UPI
+ORD10674,2024-03-02,Customer_108,Headset, SOUTH,Sneha,1,2500,2500, Returned,Debit Card
+ORD10675,2024-10-05,Customer_558,Monitor,East,Karan,8,500,4000,Delivered,cash 
+ORD10676,2025-01-05,Customer_482,Monitor,East,Vikas,9,5000,,Shipped,Credit Card
+ORD10677,2025-09-23,Customer_294,Headset,north ,Vikas,9,5000,45000,Cancelled,Net Banking
+ORD10678,2024-07-23,Customer_242,Speaker,South,Rahul,8,12000,96000,Delivered,Debit Card
+ORD10679,2025-03-13,Customer_256,Laptop,East,Pooja,1,500,500,delivered,Credit Card
+ORD10679,2024-05-30,Customer_534,Speaker,East,Priya,6,25000,150000, Returned,UPI
+ORD10681,2025-05-23,Customer_393,Tablet,West,Amit,7,500,3500,Shipped,Debit Card
+ORD10682,2024-06-30,Customer_76,Monitor,north ,Amit,8,500,4000,Shipped,Cash
+ORD10683,2025-05-25,Customer_60,SSD,East,Amit,6,5000,30000,Shipped,Credit Card
+ORD10684,2025-06-05,Customer_158,Tablet,North,Sneha,2,25000,50000, Returned,cash 
+ORD10685,2024-06-03,Customer_284,Headset,South,Priya,1,800,800,Returned,UPI
+ORD10686,2025-07-02,Customer_205,SSD,north ,Amit,10,25000,250000,Cancelled,Net Banking
+ORD10687,2024-09-20,Customer_498,Printer, SOUTH,Karan,8,1200,9600,Shipped,Debit Card
+ORD10688,2025-09-13,Customer_596,Laptop,South,Priya,4,1200,4800,delivered,Cash
+ORD10689,2024-08-13,Customer_251,Monitor,North,Priya,7,25000,175000,Cancelled,Net Banking
+ORD10690,2025-02-14,Customer_447,Webcam,North,Sneha,7,1200,8400,delivered,cash 
+ORD10691,2024-03-15,Customer_570,Laptop,West,Karan,9,25000,225000,Delivered,Debit Card
+ORD10692,2024-06-18,Customer_528,Webcam,east,Rahul,6,800,4800, Returned,Debit Card
+ORD10693,2025-07-11,    ,Speaker,West,Sneha,5,1200,6000, Returned,Net Banking
+ORD10694,2024-10-11,Customer_526,Monitor, SOUTH,Pooja,5,800,4000,Returned,cash 
+ORD10695,2025-08-14,Customer_85,SSD, SOUTH,Karan,3,500,1500,Delivered,UPI
+ORD10696,2024-10-19,Customer_50,Keyboard,North,Sneha,4,1200,4800,delivered,cash 
+ORD10697,2024-03-16,Customer_419,Monitor,North,Priya,2,25000,50000, Returned,Net Banking
+ORD10698,2025-12-16,Customer_240,Tablet, SOUTH,Rahul,2,25000,50000,Returned,Net Banking
+ORD10699,2024-11-17,Customer_136,Webcam,East,Vikas,10,12000,120000,Returned,Credit Card
+ORD10700,2025-04-18,Customer_496,Tablet, SOUTH,Sneha,2,500,1000, Returned,Debit Card
+ORD10701,2025-10-10,Customer_197,Mouse,South,Rahul,1,5000,5000,delivered,Debit Card
+ORD10702,2024-07-12,Customer_127,Speaker,South,Vikas,10,25000,250000,Delivered,Credit Card
+ORD10703,2025-10-22,Customer_537,Keyboard,north ,Rahul,3,12000,36000,Returned,UPI
+ORD10704,2025-02-06,Customer_8,Tablet   , SOUTH,Vikas,7,25000,175000, Returned,Credit Card
+ORD10705,2024-08-24,Customer_98,Mouse,South,Neha,8,1200,9600,Cancelled,Cash
+ORD10706,2024-02-19,Customer_446,SSD,East,Sneha,1,12000,12000,Delivered,UPI
+ORD10707,2025-12-19,Customer_82,Webcam,East,Sneha,4,25000,100000,delivered,Debit Card
+ORD10708,2024-05-13,Customer_1,Speaker,West,Pooja,3,800,2400,Delivered,UPI
+ORD10709,2024-12-31,Customer_1,Laptop,North,Vikas,5,12000,60000,Cancelled,cash 
+ORD10710,2025-08-02,Customer_2,Headset,South,Karan,6,1200,7200,delivered,Cash
+ORD10711,2024-07-30,Customer_266,Keyboard,East,Pooja,3,500,1500,Cancelled,Net Banking
+ORD10712,2025-04-19,Customer_213,Monitor,north ,Vikas,8,25000,200000,delivered,UPI
+ORD10713,2024-06-09,Customer_254,Keyboard, SOUTH,Sneha,1,12000,12000,Cancelled,Cash
+ORD10714,2025-11-04,Customer_320,Keyboard,East,Karan,8,1200,9600,Delivered,cash 
+ORD10715,06/11/2025,Customer_21,Printer,West,Sneha,7,25000,175000,delivered,Debit Card
+ORD10716,2025-01-05,Customer_600,Printer,East,Amit,10,800,8000, Returned,Net Banking
+ORD10717,2024-07-31,Customer_128,Mouse,north ,Rahul,10,500,5000, Returned,Credit Card
+ORD10718,2024-06-27,Customer_26,Keyboard,South,Sneha,2,1200,2400,Returned,Net Banking
+ORD10719,2024-08-05,Customer_491,Mouse,South,Amit,9,25000,225000,Shipped,Debit Card
+ORD10719,2025-06-28,Customer_62,Printer,South,Neha,9,800,7200,delivered,Cash
+ORD10721,2025-06-07,Customer_480,Headset, SOUTH,Rahul,3,25000,75000,Returned,Credit Card
+ORD10722,2024-09-23,Customer_276,Tablet,north ,Pooja,8,500,4000, Returned,Cash
+ORD10723,2025-04-11,Customer_110,Speaker,South,Vikas,10,500,5000, Returned,Cash
+ORD10724,2025-08-06,Customer_139,Mouse,east,Vikas,8,12000,96000,delivered,Cash
+ORD10725,2025-05-14,Customer_88,Monitor,North,Vikas,10,12000,120000,Cancelled,Cash
+ORD10726,2024-07-04,,Laptop,East,Amit,-7,1200,-8400,Delivered,cash 
+ORD10727,2024-01-04,Customer_537,Speaker,east,Vikas,5,2500,12500,Shipped,cash 
+ORD10728,2024-12-05,Customer_576,Mouse,South,Vikas,6,1200,,Shipped,UPI
+ORD10729,2025-03-27,Customer_32,Speaker,West,Amit,3,800,2400,Shipped,Debit Card
+ORD10730,2025-08-13,Customer_2,Tablet,north ,Vikas,7,2500,17500,Returned,Credit Card
+ORD10731,2024-01-04,Customer_2,Speaker,North,Pooja,5,12000,60000,Shipped,cash 
+ORD10732,2024-11-13,Customer_336,Headset, SOUTH,Priya,8,5000,40000,Shipped,Net Banking
+ORD10733,2024-10-14,Customer_514,Speaker,east,Neha,6,800,4800,Cancelled,Debit Card
+ORD10734,2024-02-12,Customer_446,Speaker,East,Priya,10,800,8000,delivered,UPI
+ORD10735,2025-04-25,Customer_293,Laptop,East,Neha,5,12000,60000,Returned,Cash
+ORD10736,2024-05-03,Customer_503,Webcam,north ,Vikas,4,5000,20000,delivered,Credit Card
+ORD10737,2025-08-09,Customer_204,Speaker, SOUTH,Vikas,3,800,2400, Returned,Credit Card
+ORD10738,2025-03-01,Customer_526,Speaker,North,Sneha,4,5000,20000,Returned,Debit Card
+ORD10739,2024-08-04,Customer_520,Printer,North,Karan,7,5000,35000,Cancelled,Debit Card
+ORD10740,2025-03-29,Customer_229,Printer,north ,Rahul,1,800,800,Returned,UPI
+ORD10741,2025-12-20,Customer_509,Keyboard,north ,Sneha,10,2500,25000,delivered,cash 
+ORD10742,2024-06-08,Customer_207,Printer,east,Neha,4,2500,10000,Cancelled,Cash
+ORD10743,2025-07-26,Customer_367,SSD,North,Vikas,8,2500,20000,Cancelled,Net Banking
+ORD10744,2024-05-03,Customer_270,Webcam,East,Karan,4,2500,10000,Shipped,UPI
+ORD10745,2025-07-15,Customer_293,Laptop, SOUTH,Neha,2,1200,2400,Cancelled,UPI
+ORD10746,2025-06-01,Customer_363,Webcam,North,Rahul,7,25000,175000,Returned,UPI
+ORD10747,2025-10-14,Customer_8,Speaker, SOUTH,Amit,9,800,7200, Returned,Credit Card
+ORD10748,2025-05-28,Customer_384,Speaker   ,West,Priya,10,5000,50000,delivered,Debit Card
+ORD10749,2024-01-03,Customer_261,Keyboard,East,Sneha,2,25000,50000, Returned,Net Banking
+ORD10750,2024-07-30,Customer_395,Speaker, SOUTH,Rahul,6,800,4800,Cancelled,Credit Card
+ORD10751,2024-02-02,Customer_473,Headset,East,Pooja,8,25000,200000,Shipped,UPI
+ORD10752,2024-08-03,Customer_497,Mouse,east,Rahul,5,1200,6000,Returned,Debit Card
+ORD10753,2025-10-01,Customer_325,Tablet,East,Priya,7,2500,17500,Shipped,Credit Card
+ORD10754,2024-02-14,Customer_454,Headset,West,Rahul,8,25000,200000,Delivered,Debit Card
+ORD10755,2025-10-04,Customer_420,Mouse, SOUTH,Neha,8,1200,9600,Cancelled,Credit Card
+ORD10756,2025-07-15,Customer_360,Printer,North,Amit,9,500,4500,Cancelled,Credit Card
+ORD10757,2024-12-11,Customer_369,Webcam,east,Sneha,8,500,4000, Returned,Debit Card
+ORD10758,2025-08-30,Customer_220,Mouse,east,Priya,9,25000,225000,delivered,Credit Card
+ORD10759,2024-03-03,,Laptop,East,Karan,3,500,1500, Returned,Cash
+ORD10759,2024-07-11,Customer_406,Printer,North,Amit,10,5000,50000,delivered,Net Banking
+ORD10761,2025-05-09,Customer_340,Mouse, SOUTH,Neha,2,2500,5000,Cancelled,Debit Card
+ORD10762,2024-08-25,Customer_226,SSD, SOUTH,Rahul,1,12000,12000,Returned,Debit Card
+ORD10763,2024-07-18,Customer_292,Headset,North,Pooja,1,500,500,Delivered,cash 
+ORD10764,2025-07-16,Customer_259,Mouse,West,Sneha,8,500,4000,Delivered,Cash
+ORD10765,2024-04-18,Customer_256,Webcam,north ,Pooja,7,12000,84000,Shipped,Cash
+ORD10766,2024-04-22,Customer_112,Webcam,North,Karan,4,5000,20000,Returned,UPI
+ORD10767,2025-01-29,Customer_448,Speaker,South,Rahul,6,5000,30000, Returned,Cash
+ORD10768,2025-06-27,Customer_394,Mouse,north ,Pooja,8,12000,96000,Delivered,Credit Card
+ORD10769,2024-09-07,Customer_291,Mouse,east,Vikas,2,12000,24000,Shipped,Debit Card
+ORD10770,24/04/2024,  Customer_516  ,Laptop,North,Karan,7,1200,8400,delivered,Credit Card
+ORD10771,2025-09-22,Customer_557,Tablet,north ,Priya,5,800,4000,Cancelled,Credit Card
+ORD10772,2025-02-20,Customer_440,Laptop,north ,Neha,4,1200,4800,Shipped,Cash
+ORD10773,2025-08-20,Customer_553,SSD,South,Vikas,2,12000,24000, Returned,cash 
+ORD10774,2024-01-23,Customer_580,Keyboard,North,Priya,7,12000,84000,Returned,Net Banking
+ORD10775,2025-11-19,Customer_580,Speaker,east,Pooja,6,12000,72000,Returned,cash 
+ORD10776,2025-05-23,Customer_13,Printer,East,Pooja,2,1200,2400,delivered,UPI
+ORD10777,32/13/2024,Customer_238,Mouse,East,Vikas,3,5000,15000,Cancelled,Net Banking
+ORD10778,2024-02-25,Customer_406,Tablet, SOUTH,Pooja,7,2500,17500,Cancelled,Net Banking
+ORD10779,2024-02-11,Customer_513,Keyboard,South,Priya,1,12000,12000,Cancelled,cash 
+ORD10780,2024-07-05,Customer_399,Keyboard,North,Priya,5,12000,,Returned,Debit Card
+ORD10781,2025-09-20,Customer_205,Laptop, SOUTH,Rahul,6,1200,7200,Returned,Debit Card
+ORD10782,2024-04-18,Customer_180,Mouse,north ,Karan,2,12000,24000,delivered,Credit Card
+ORD10783,2024-12-30,Customer_581,Printer,West,Karan,7,2500,17500,Delivered,Net Banking
+ORD10784,2024-12-24,Customer_415,Laptop,South,Sneha,1,12000,12000, Returned,Credit Card
+ORD10785,2025-03-16,Customer_594,Mouse,East,Vikas,3,12000,36000, Returned,Net Banking
+ORD10786,2025-10-07,Customer_106,SSD,east,Neha,10,25000,250000,delivered,Net Banking
+ORD10787,2025-04-16,Customer_261,Mouse,South,Amit,1,500,500,delivered,Credit Card
+ORD10788,2024-03-27,Customer_208,Speaker,east,Vikas,5,2500,12500,Shipped,cash 
+ORD10789,2024-07-13,Customer_200,Monitor,West,Pooja,7,500,3500,Returned,Debit Card
+ORD10790,2025-02-17,Customer_138,SSD,West,Karan,9,12000,108000,Returned,Credit Card
+ORD10791,2025-08-30,Customer_413,Keyboard,West,Neha,6,25000,150000,Shipped,cash 
+ORD10792,2025-08-05,,Printer   ,South,Rahul,-1,25000,-25000,delivered,Net Banking
+ORD10793,2025-01-29,Customer_514,Keyboard,North,Amit,10,25000,250000, Returned,UPI
+ORD10794,2025-03-14,Customer_29,Tablet,north ,Karan,2,800,1600,Shipped,cash 
+ORD10795,2024-02-01,Customer_223,Laptop,North,Priya,9,5000,45000,Delivered,Credit Card
+ORD10796,2025-10-01,Customer_534,Mouse,West,Neha,6,25000,150000,delivered,cash 
+ORD10797,2024-02-25,Customer_163,Speaker,West,Rahul,9,500,4500,Returned,cash 
+ORD10798,2025-12-06,Customer_344,Tablet,North,Vikas,2,1200,2400, Returned,UPI
+ORD10799,2025-11-04,Customer_299,Webcam,North,Pooja,8,800,6400, Returned,Debit Card
+ORD10799,2025-12-01,Customer_524,Tablet, SOUTH,Pooja,9,1200,10800,Returned,Debit Card
+ORD10801,2024-01-15,Customer_380,Headset,East,Priya,4,500,2000, Returned,cash 
+ORD10802,2024-12-31,Customer_361,SSD,north ,Sneha,2,5000,10000,Delivered,cash 
+ORD10803,2025-10-09,Customer_139,SSD,east,Vikas,1,12000,12000,delivered,Cash
+ORD10804,2024-06-08,Customer_245,Monitor,East,Amit,6,1200,7200,delivered,Cash
+ORD10805,2024-11-30,Customer_428,Mouse, SOUTH,Sneha,1,1200,1200,delivered,cash 
+ORD10806,2024-08-13,Customer_61,Printer, SOUTH,Priya,9,2500,22500,Delivered,UPI
+ORD10807,2024-10-20,Customer_475,SSD,North,Pooja,2,12000,24000, Returned,UPI
+ORD10808,2025-10-12,Customer_339,Laptop,West,Sneha,10,1200,12000,Delivered,Cash
+ORD10809,2024-04-15,Customer_266,Keyboard,West,Priya,5,1200,6000,Delivered,cash 
+ORD10810,2025-02-24,Customer_102,Printer,north ,Sneha,5,800,4000,delivered,Net Banking
+ORD10811,2024-12-20,Customer_196,Headset, SOUTH,Pooja,1,500,500,delivered,Debit Card
+ORD10812,2024-01-31,Customer_566,Keyboard,East,Vikas,2,800,1600, Returned,Debit Card
+ORD10813,2025-02-24,Customer_200,SSD,north ,Vikas,6,500,3000, Returned,Credit Card
+ORD10814,2025-08-13,Customer_88,Mouse,north ,Pooja,2,1200,2400,delivered,Net Banking
+ORD10815,2025-11-04,Customer_514,Printer,West,Pooja,5,1200,6000,Cancelled,Debit Card
+ORD10816,2024-01-05,Customer_29,Monitor,north ,Pooja,9,12000,108000, Returned,cash 
+ORD10817,2025-04-08,Customer_331,Webcam,east,Amit,3,25000,75000,Delivered,cash 
+ORD10818,2024-11-10,Customer_140,Speaker,north ,Karan,9,1200,10800,Delivered,Net Banking
+ORD10819,2025-05-08,Customer_414,Webcam, SOUTH,Neha,8,1200,#VALUE!,Shipped,Credit Card
+ORD10820,2025-11-29,Customer_508,SSD,north ,Vikas,5,12000,60000, Returned,Cash
+ORD10821,2024-06-17,Customer_219,Tablet,east,Amit,9,5000,45000,Delivered,Net Banking
+ORD10822,2024-12-14,Customer_95,Headset,north ,Neha,10,500,5000, Returned,Net Banking
+ORD10823,2025-10-24,Customer_589,Laptop,east,Amit,4,12000,48000,Delivered,Debit Card
+ORD10824,2025-12-25,Customer_290,Printer,South,Pooja,8,800,6400,Cancelled,cash 
+ORD10825,17/05/2024,,Laptop,South,Rahul,4,500,2000, Returned,Cash
+ORD10826,2024-07-18,Customer_585,Printer,North,Neha,4,500,2000,Delivered,Net Banking
+ORD10827,2025-09-28,Customer_353,Mouse,east,Vikas,4,12000,48000,Returned,cash 
+ORD10828,2025-04-02,Customer_484,Speaker,West,Vikas,2,1200,2400,delivered,cash 
+ORD10829,2025-10-05,Customer_62,Tablet,North,Vikas,5,25000,125000,Delivered,Credit Card
+ORD10830,2024-05-07,Customer_243,Laptop, SOUTH,Pooja,5,2500,12500,Delivered,Net Banking
+ORD10831,2024-01-26,Customer_451,Printer,North,Neha,9,800,7200,Shipped,Cash
+ORD10832,2024-11-16,Customer_247,SSD,east,Pooja,1,800,, Returned,Credit Card
+ORD10833,2025-04-03,Customer_272,Headset,north ,Pooja,6,5000,30000,Shipped,Net Banking
+ORD10834,2024-10-20,Customer_133,Tablet,West,Neha,7,25000,175000,Delivered,Debit Card
+ORD10835,2024-06-01,Customer_160,Laptop,north ,Priya,10,5000,50000,Returned,UPI
+ORD10836,2024-11-28,Customer_536,Printer   ,north ,Amit,8,2500,20000,Cancelled,UPI
+ORD10837,2024-11-29,Customer_577,Webcam,north ,Neha,10,800,8000,delivered,Credit Card
+ORD10838,2024-06-12,Customer_233,Tablet,east,Amit,8,12000,96000,Returned,UPI
+ORD10839,2025-11-20,Customer_353,Tablet,West,Neha,4,25000,100000, Returned,UPI
+ORD10839,2025-04-09,Customer_446,Printer,West,Vikas,1,1200,1200,delivered,cash 
+ORD10841,2025-01-17,Customer_512,Laptop, SOUTH,Priya,2,25000,50000,Returned,UPI
+ORD10842,2024-09-16,Customer_426,Monitor,east,Priya,4,12000,48000,Returned,Cash
+ORD10843,2025-08-01,Customer_15,Speaker,North,Amit,4,500,2000,delivered,cash 
+ORD10844,2025-06-23,Customer_435,Laptop,north ,Sneha,3,2500,7500,Shipped,cash 
+ORD10845,2025-10-10,Customer_38,Mouse,north ,Pooja,7,12000,84000,Shipped,cash 
+ORD10846,2025-10-16,Customer_470,Webcam,North,Amit,3,5000,15000,Returned,Debit Card
+ORD10847,2025-10-24,  Customer_538  ,Tablet,South,Pooja,7,1200,8400,Returned,UPI
+ORD10848,2024-12-18,Customer_261,Mouse,north ,Sneha,5,800,4000, Returned,Cash
+ORD10849,2025-08-18,Customer_170,Printer,east,Pooja,5,5000,25000,Delivered,Credit Card
+ORD10850,2025-09-23,Customer_208,Printer,South,Amit,6,25000,150000,Shipped,UPI
+ORD10851,2024-06-23,Customer_520,Monitor,West,Sneha,9,12000,108000,delivered,cash 
+ORD10852,2025-03-13,Customer_80,Keyboard,East,Pooja,2,12000,24000,Returned,cash 
+ORD10853,2025-11-23,Customer_524,SSD,West,Karan,6,12000,72000,Delivered,Cash
+ORD10854,2025-12-31,Customer_206,Tablet,South,Rahul,9,500,4500,Returned,Debit Card
+ORD10855,2025-09-16,Customer_7,Webcam,East,Amit,3,12000,36000, Returned,Credit Card
+ORD10856,2024-11-28,Customer_51,Mouse,north ,Vikas,9,800,7200,Delivered,Credit Card
+ORD10857,2025-02-06,Customer_497,Printer,east,Sneha,6,500,3000,Delivered,Credit Card
+ORD10858,2024-11-06,,Laptop,South,Amit,-2,12000,-24000,Cancelled,Debit Card
+ORD10859,2024-08-16,Customer_24,Webcam,South,Sneha,7,2500,17500, Returned,Debit Card
+ORD10860,2025-07-18,Customer_264,Speaker,West,Neha,2,5000,10000,Delivered,Cash
+ORD10861,2024-12-26,Customer_284,Laptop,West,Vikas,2,1200,2400,Shipped,cash 
+ORD10862,2024-09-20,Customer_375,Monitor,East,Amit,3,500,1500,delivered,cash 
+ORD10863,2024-01-07,Customer_192,Laptop,South,Vikas,3,2500,7500,Cancelled,UPI
+ORD10864,2024-08-18,Customer_281,Monitor,east,Priya,3,2500,7500,Delivered,Debit Card
+ORD10865,2024-08-17,Customer_428,Mouse,north ,Sneha,9,12000,108000,Shipped,cash 
+ORD10866,2025-02-12,Customer_253,Headset,east,Karan,3,800,2400,Shipped,cash 
+ORD10867,2024-11-30,Customer_536,Speaker,South,Vikas,7,1200,8400,Delivered,Cash
+ORD10868,2025-12-11,Customer_547,Webcam,North,Neha,7,500,3500, Returned,Cash
+ORD10869,2024-01-18,Customer_174,Keyboard,East,Priya,3,1200,3600, Returned,Net Banking
+ORD10870,2024-07-09,Customer_317,Headset,east,Sneha,1,800,800,delivered,Net Banking
+ORD10871,2025-06-01,Customer_35,SSD,North,Vikas,7,25000,175000,delivered,cash 
+ORD10872,2025-07-31,Customer_307,Headset,north ,Priya,10,500,5000,Returned,Cash
+ORD10873,2024-09-18,Customer_176,Webcam,North,Rahul,2,800,1600,Returned,Net Banking
+ORD10874,2024-04-29,Customer_313,Headset, SOUTH,Karan,8,500,4000,Returned,cash 
+ORD10875,2025-08-15,Customer_393,Monitor,north ,Vikas,4,5000,20000,Shipped,Net Banking
+ORD10876,2025-10-30,Customer_493,SSD,South,Sneha,5,25000,125000, Returned,Net Banking
+ORD10877,2025-07-13,Customer_567,Monitor,South,Neha,5,25000,125000,Delivered,Cash
+ORD10878,2025-03-15,Customer_503,Printer,East,Karan,1,12000,12000,Returned,Net Banking
+ORD10879,2025-08-06,Customer_98,SSD, SOUTH,Karan,1,500,500, Returned,Debit Card
+ORD10879,07/05/2024,Customer_363,Monitor   , SOUTH,Karan,5,500,2500,Cancelled,Debit Card
+ORD10881,2025-05-19,Customer_429,Tablet,east,Priya,10,5000,50000, Returned,Cash
+ORD10882,2025-11-07,Customer_512,SSD,east,Rahul,9,500,4500,Shipped,Net Banking
+ORD10883,2025-03-17,Customer_503,Laptop,east,Neha,8,1200,9600, Returned,Credit Card
+ORD10884,2025-07-08,Customer_364,Monitor,East,Vikas,9,2500,, Returned,Credit Card
+ORD10885,2025-07-20,Customer_490,Webcam,East,Rahul,4,800,3200,delivered,Debit Card
+ORD10886,2024-07-22,Customer_234,Keyboard,east,Pooja,6,500,3000,delivered,UPI
+ORD10887,2024-07-23,Customer_422,SSD,South,Vikas,3,2500,7500,Returned,Net Banking
+ORD10888,32/13/2024,Customer_58,Tablet,north ,Neha,7,2500,17500, Returned,UPI
+ORD10889,2025-09-25,Customer_220,Monitor,North,Pooja,2,500,1000,Returned,UPI
+ORD10890,2024-06-05,Customer_278,SSD,East,Vikas,6,12000,72000,Shipped,Net Banking
+ORD10891,2025-10-21,,Printer,north ,Pooja,7,500,3500, Returned,Credit Card
+ORD10892,2025-08-19,Customer_198,Laptop,North,Karan,9,800,7200,Delivered,Cash
+ORD10893,2024-08-31,Customer_404,Mouse,East,Sneha,3,500,1500,Cancelled,cash 
+ORD10894,2025-06-23,Customer_403,Laptop,West,Pooja,9,1200,10800,Cancelled,Net Banking
+ORD10895,2024-02-27,Customer_537,Printer,East,Amit,5,500,2500,delivered,Net Banking
+ORD10896,2024-04-11,Customer_539,Webcam,north ,Sneha,2,5000,10000,Cancelled,Debit Card
+ORD10897,2024-06-06,Customer_574,Mouse,West,Vikas,8,1200,9600,Delivered,cash 
+ORD10898,2025-02-18,Customer_301,Monitor,north ,Neha,7,12000,84000,delivered,Cash
+ORD10899,2025-11-19,Customer_595,Tablet,east,Sneha,2,5000,10000,delivered,Debit Card
+ORD10900,2024-11-06,Customer_576,Mouse,North,Amit,8,25000,200000,Cancelled,cash 
+ORD10901,2025-10-05,Customer_564,Headset, SOUTH,Amit,9,500,4500,Cancelled,UPI
+ORD10902,2025-10-11,Customer_148,Speaker,north ,Neha,9,500,4500,delivered,UPI
+ORD10903,2025-10-16,Customer_338,Monitor,East,Priya,5,2500,12500,delivered,Credit Card
+ORD10904,2024-03-16,Customer_503,Laptop, SOUTH,Pooja,6,12000,72000,delivered,UPI
+ORD10905,2024-11-27,Customer_357,Webcam, SOUTH,Amit,1,5000,5000, Returned,UPI
+ORD10906,2024-12-31,Customer_197,Printer,East,Karan,2,5000,10000,Delivered,Credit Card
+ORD10907,2024-01-31,Customer_42,Laptop,South,Pooja,6,800,4800,Delivered,cash 
+ORD10908,2024-01-07,Customer_109,Monitor, SOUTH,Pooja,1,500,500, Returned,Cash
+ORD10909,2025-11-13,Customer_183,Tablet,east,Neha,5,12000,60000,Shipped,UPI
+ORD10910,2024-12-08,Customer_408,Headset,North,Priya,7,12000,#VALUE!,Returned,Credit Card
+ORD10911,2025-11-25,Customer_589,Headset, SOUTH,Pooja,7,12000,84000, Returned,Credit Card
+ORD10912,2025-05-04,Customer_396,Speaker, SOUTH,Priya,7,1200,8400,Delivered,Credit Card
+ORD10913,2025-07-08,Customer_254,SSD, SOUTH,Neha,10,5000,50000,Returned,Credit Card
+ORD10914,2024-08-15,Customer_384,Laptop,West,Priya,1,500,500,Delivered,UPI
+ORD10915,2025-09-20,Customer_259,Webcam,east,Priya,4,500,2000,Shipped,UPI
+ORD10916,2025-03-14,Customer_170,Keyboard,north ,Rahul,7,800,5600,Shipped,cash 
+ORD10917,2025-03-08,Customer_304,Tablet,West,Neha,3,1200,3600,delivered,Debit Card
+ORD10918,2024-06-25,Customer_560,Headset,north ,Pooja,10,800,8000,Returned,Cash
+ORD10919,2025-10-04,Customer_564,Monitor,east,Amit,3,12000,36000,Shipped,Cash
+ORD10919,2025-07-18,Customer_237,Laptop,East,Karan,2,800,1600,Shipped,Net Banking
+ORD10921,2024-11-26,Customer_138,Speaker, SOUTH,Sneha,10,800,8000,Delivered,Credit Card
+ORD10922,2025-08-13,Customer_159,SSD,East,Neha,1,12000,12000,Shipped,Net Banking
+ORD10923,2024-11-02,Customer_227,Headset,West,Sneha,2,500,1000,Delivered,Net Banking
+ORD10924,2024-08-20,    ,Headset   ,north ,Sneha,-8,500,-4000,Delivered,Net Banking
+ORD10925,2024-08-23,Customer_526,Laptop,east,Vikas,1,25000,25000,delivered,Debit Card
+ORD10926,2025-10-03,Customer_272,Tablet, SOUTH,Karan,1,800,800,delivered,Net Banking
+ORD10927,2024-05-11,Customer_37,Headset,North,Karan,1,800,800,Shipped,Credit Card
+ORD10928,2025-10-04,Customer_135,Headset, SOUTH,Amit,8,800,6400,Delivered,Credit Card
+ORD10929,2024-06-04,Customer_326,Mouse,east,Neha,4,25000,100000,Returned,Net Banking
+ORD10930,2024-12-03,Customer_479,Laptop,East,Priya,8,500,4000,Returned,UPI
+ORD10931,2025-05-11,Customer_158,Printer,north ,Rahul,5,2500,12500, Returned,Cash
+ORD10932,2025-03-12,Customer_450,Mouse,North,Vikas,9,500,4500,Shipped,Cash
+ORD10933,2025-03-19,Customer_56,Keyboard,East,Vikas,5,25000,125000,Shipped,Credit Card
+ORD10934,2024-11-29,Customer_530,Printer,east,Priya,2,800,1600,Shipped,UPI
+ORD10935,13/08/2025,Customer_300,SSD,north ,Vikas,7,800,5600,Shipped,Net Banking
+ORD10936,2024-11-24,Customer_501,Printer,east,Amit,9,1200,,Cancelled,Cash
+ORD10937,2025-12-18,Customer_83,Monitor,South,Neha,10,1200,12000, Returned,Credit Card
+ORD10938,2024-08-31,Customer_33,Tablet,West,Vikas,5,2500,12500,Shipped,Net Banking
+ORD10939,2025-01-19,Customer_474,Printer,east,Vikas,4,12000,48000,delivered,Credit Card
+ORD10940,2024-11-30,Customer_7,Webcam,East,Rahul,5,12000,60000,Delivered,Cash
+ORD10941,2025-10-01,Customer_227,Speaker,East,Rahul,8,800,6400, Returned,UPI
+ORD10942,2025-05-05,Customer_295,Monitor,West,Neha,3,1200,3600,Shipped,Net Banking
+ORD10943,2024-06-14,Customer_575,Mouse,east,Karan,2,5000,10000,Cancelled,UPI
+ORD10944,2025-06-08,Customer_194,Monitor,South,Karan,1,12000,12000,Returned,Credit Card
+ORD10945,2024-09-05,Customer_338,Webcam,West,Neha,10,2500,25000,Returned,Net Banking
+ORD10946,2025-04-05,Customer_542,Webcam,east,Karan,3,12000,36000,delivered,cash 
+ORD10947,2024-02-15,Customer_450,Tablet,north ,Neha,1,12000,12000,Returned,Debit Card
+ORD10948,2024-07-14,Customer_393,Speaker,North,Amit,4,12000,48000,Cancelled,UPI
+ORD10949,2025-09-21,Customer_103,Tablet,South,Rahul,9,12000,108000,Shipped,Net Banking
+ORD10950,2024-03-04,Customer_88,Laptop, SOUTH,Amit,2,1200,2400,Delivered,Cash
+ORD10951,2024-10-14,Customer_289,SSD,South,Vikas,2,5000,10000, Returned,Net Banking
+ORD10952,2024-06-22,Customer_480,Laptop, SOUTH,Amit,6,2500,15000,Shipped,Cash
+ORD10953,2025-09-10,Customer_300,Monitor,East,Sneha,4,5000,20000, Returned,Net Banking
+ORD10954,2025-08-28,Customer_60,Mouse,South,Amit,5,5000,25000,Shipped,Net Banking
+ORD10955,2024-11-27,Customer_119,SSD,north ,Pooja,1,1200,1200,Cancelled,Debit Card
+ORD10956,2025-07-30,Customer_598,Webcam,South,Neha,9,12000,108000,Cancelled,Net Banking
+ORD10957,2024-05-29,,Headset,West,Karan,2,800,1600, Returned,Debit Card
+ORD10958,2024-04-19,Customer_296,Keyboard,north ,Vikas,7,500,3500,Delivered,cash 
+ORD10959,2025-12-27,Customer_178,Tablet, SOUTH,Pooja,8,25000,200000,Returned,Credit Card
+ORD10959,2025-04-11,Customer_15,Laptop,east,Vikas,9,25000,225000,Returned,Net Banking
+ORD10961,2024-04-23,Customer_274,Monitor, SOUTH,Vikas,3,500,1500,Returned,Net Banking
+ORD10962,2025-01-04,Customer_191,Monitor,South,Vikas,6,1200,7200,Delivered,Debit Card
+ORD10963,2025-07-12,Customer_530,Monitor,north ,Vikas,2,5000,10000,Returned,Debit Card
+ORD10964,2025-04-15,Customer_349,Webcam,North,Karan,7,12000,84000,delivered,Net Banking
+ORD10965,2024-01-07,Customer_26,Speaker,north ,Vikas,8,12000,96000, Returned,cash 
+ORD10966,2025-06-04,Customer_496,Webcam,South,Karan,10,2500,25000,Delivered,Cash
+ORD10967,2025-10-25,Customer_212,Monitor,North,Vikas,10,1200,12000, Returned,Net Banking
+ORD10968,2024-01-04,Customer_259,Tablet   , SOUTH,Pooja,5,12000,60000,delivered,Debit Card
+ORD10969,2025-10-29,Customer_199,Printer,South,Vikas,8,800,6400,delivered,Credit Card
+ORD10970,2024-11-15,Customer_58,Monitor,East,Priya,4,12000,48000, Returned,UPI
+ORD10971,2025-09-21,Customer_510,SSD, SOUTH,Sneha,5,25000,125000,Returned,UPI
+ORD10972,2024-05-14,Customer_462,Speaker,east,Vikas,5,2500,12500,Returned,Cash
+ORD10973,2024-04-19,Customer_274,Monitor,South,Pooja,10,1200,12000,Returned,UPI
+ORD10974,2025-01-20,Customer_30,Headset,east,Amit,8,25000,200000,Returned,Debit Card
+ORD10975,2024-12-25,Customer_353,Printer,north ,Priya,5,500,2500,Cancelled,Cash
+ORD10976,2025-03-05,Customer_6,Tablet,North,Karan,1,25000,25000,Cancelled,Credit Card
+ORD10977,2025-02-12,Customer_305,Keyboard,East,Karan,9,12000,108000,Cancelled,UPI
+ORD10978,2024-08-24,Customer_366,Tablet,South,Rahul,8,12000,96000,Shipped,UPI
+ORD10979,2025-05-03,Customer_553,Webcam,East,Rahul,7,500,3500, Returned,UPI
+ORD10980,2024-09-13,Customer_68,Monitor,north ,Priya,4,800,3200,Delivered,Net Banking
+ORD10981,2025-12-21,Customer_373,Mouse,East,Pooja,7,12000,84000,Cancelled,Cash
+ORD10982,2025-05-01,Customer_516,Printer,West,Pooja,8,2500,20000,Returned,Cash
+ORD10983,2025-10-29,Customer_475,Tablet, SOUTH,Rahul,10,500,5000,delivered,Cash
+ORD10984,2024-07-31,Customer_454,Speaker,east,Pooja,9,5000,45000,delivered,UPI
+ORD10985,2024-02-27,Customer_120,Mouse,east,Amit,1,12000,12000, Returned,Cash
+ORD10986,2025-02-16,Customer_541,Monitor,West,Sneha,7,12000,84000, Returned,Cash
+ORD10987,2024-06-24,Customer_83,SSD,West,Priya,4,25000,100000,Cancelled,UPI
+ORD10988,2024-04-13,Customer_190,Monitor,South,Pooja,9,12000,, Returned,Net Banking
+ORD10989,2025-09-17,Customer_221,SSD,North,Karan,1,2500,2500,Delivered,cash 
+ORD10990,12/04/2025,,Headset,North,Neha,-1,12000,-12000,delivered,Cash
+ORD10991,2025-09-12,Customer_330,Speaker, SOUTH,Vikas,2,1200,2400,Delivered,Credit Card
+ORD10992,2024-01-24,Customer_525,Tablet,north ,Neha,4,5000,20000,Cancelled,Cash
+ORD10993,2025-12-23,Customer_513,Mouse,West,Amit,2,2500,5000,delivered,cash 
+ORD10994,2025-03-18,Customer_335,Monitor,South,Vikas,5,800,4000, Returned,Credit Card
+ORD10995,2024-08-02,Customer_575,Mouse,east,Karan,3,5000,15000,Cancelled,Credit Card
+ORD10996,2025-09-21,Customer_403,Webcam,north ,Pooja,9,12000,108000, Returned,Debit Card
+ORD10997,2025-09-27,Customer_459,Laptop,north ,Rahul,7,500,3500,Returned,UPI
+ORD10998,2024-09-24,Customer_414,SSD,South,Amit,1,1200,1200,Delivered,cash 
+ORD10999,32/13/2024,Customer_217,Laptop, SOUTH,Priya,10,2500,25000,delivered,UPI
+ORD10999,2025-08-17,Customer_483,Webcam,East,Vikas,9,2500,22500,Delivered,cash 
+ORD11001,2025-11-05,  Customer_204  ,Headset,east,Pooja,7,25000,#VALUE!,Shipped,UPI
+ORD11002,2024-01-18,Customer_298,Headset,east,Neha,1,5000,5000,Returned,Credit Card
+ORD11003,2025-05-07,Customer_523,Mouse,West,Rahul,7,2500,17500,Delivered,Net Banking
+ORD11004,2025-04-17,Customer_139,Speaker,West,Neha,2,800,1600,Returned,Debit Card
+ORD11005,2024-05-03,Customer_371,Tablet,East,Priya,7,12000,84000,Shipped,UPI
+ORD11006,2025-09-12,Customer_465,SSD,West,Priya,8,12000,96000, Returned,cash 
+ORD11007,2024-05-20,Customer_543,Webcam,North,Amit,3,25000,75000, Returned,UPI
+ORD11008,2024-01-09,Customer_139,SSD,east,Karan,1,12000,12000,Cancelled,cash 
+ORD11009,2025-12-12,Customer_441,SSD,East,Neha,4,1200,4800,delivered,Cash
+ORD11010,2025-09-07,Customer_126,Speaker,east,Vikas,2,500,1000,Delivered,Cash
+ORD11011,2025-03-26,Customer_485,Webcam,North,Karan,9,2500,22500,Cancelled,Net Banking
+ORD11012,2025-07-22,Customer_72,Tablet   ,North,Amit,2,500,1000,delivered,cash 
+ORD11013,2024-02-16,Customer_326,Keyboard,north ,Priya,4,800,3200,Shipped,Debit Card
+ORD11014,2024-12-16,Customer_543,Mouse,East,Rahul,6,5000,30000,Cancelled,UPI
+ORD11015,2025-10-03,Customer_242,Webcam,East,Neha,3,500,1500,Delivered,Debit Card
+ORD11016,2025-02-09,Customer_371,Webcam,South,Neha,10,500,5000,delivered,cash 
+ORD11017,2024-06-16,Customer_268,Webcam,North,Pooja,5,25000,125000,Returned,Net Banking
+ORD11018,2025-11-11,Customer_95,Printer,north ,Rahul,6,25000,150000,Cancelled,cash 
+ORD11019,2025-02-17,Customer_406,Speaker,North,Pooja,6,1200,7200,Shipped,Debit Card
+ORD11020,2025-12-15,Customer_82,Printer, SOUTH,Rahul,2,500,1000,Cancelled,Debit Card
+ORD11021,2025-09-23,Customer_591,Headset,East,Vikas,9,1200,10800,Cancelled,Net Banking
+ORD11022,2024-12-07,Customer_486,Monitor, SOUTH,Sneha,2,500,1000,delivered,UPI
+ORD11023,2024-10-24,,Printer,north ,Priya,2,1200,2400,Delivered,Credit Card
+ORD11024,2024-11-04,Customer_336,Mouse, SOUTH,Karan,3,800,2400,Shipped,Cash
+ORD11025,2024-06-17,Customer_169,Speaker,South,Amit,1,800,800,Returned,Credit Card
+ORD11026,2025-01-05,Customer_590,Keyboard,north ,Pooja,1,2500,2500, Returned,Cash
+ORD11027,2024-01-20,Customer_402,Webcam,North,Pooja,1,5000,5000,delivered,cash 
+ORD11028,2024-08-30,Customer_168,Speaker,West,Vikas,3,5000,15000,delivered,Cash
+ORD11029,2024-12-21,Customer_547,Tablet,East,Sneha,9,25000,225000,Delivered,Net Banking
+ORD11030,2025-06-02,Customer_479,Mouse,North,Rahul,1,800,800,Shipped,Cash
+ORD11031,2024-10-13,Customer_84,Webcam,South,Amit,5,12000,60000,Cancelled,cash 
+ORD11032,2024-04-14,Customer_308,Laptop,East,Neha,8,5000,40000, Returned,Credit Card
+ORD11033,2024-07-06,Customer_116,Laptop,east,Amit,4,800,3200,Returned,Cash
+ORD11034,2025-05-13,Customer_12,Printer,North,Vikas,10,25000,250000,Returned,UPI
+ORD11035,2024-01-29,Customer_423,Printer,East,Sneha,10,12000,120000,Cancelled,cash 
+ORD11036,2025-02-01,Customer_235,Headset,West,Vikas,1,25000,25000,Delivered,Net Banking
+ORD11037,2024-09-21,Customer_592,Headset,east,Amit,3,12000,36000, Returned,cash 
+ORD11038,2025-08-16,Customer_125,Keyboard,North,Karan,2,2500,5000, Returned,Net Banking
+ORD11039,2024-09-04,Customer_372,Laptop,West,Priya,5,500,2500,delivered,Credit Card
+ORD11039,2025-10-24,Customer_442,Speaker,East,Sneha,10,2500,,Returned,Net Banking
+ORD11041,2025-07-08,Customer_17,Webcam,North,Karan,7,500,3500,Delivered,Net Banking
+ORD11042,2024-07-27,Customer_45,Monitor,North,Sneha,6,12000,72000,Delivered,Credit Card
+ORD11043,2025-03-14,Customer_296,Webcam,South,Pooja,9,800,7200,delivered,Debit Card
+ORD11044,2024-04-12,Customer_20,Speaker,North,Priya,7,1200,8400, Returned,cash 
+ORD11045,23/08/2024,Customer_73,SSD,South,Pooja,1,25000,25000,Cancelled,Net Banking
+ORD11046,2024-11-20,Customer_388,Monitor,North,Vikas,1,1200,1200,Delivered,Credit Card
+ORD11047,2024-07-27,Customer_252,Speaker, SOUTH,Rahul,9,5000,45000, Returned,Net Banking
+ORD11048,2024-12-01,Customer_136,Mouse,east,Pooja,1,2500,2500,delivered,Credit Card
+ORD11049,2024-12-13,Customer_334,Headset,West,Neha,7,12000,84000, Returned,cash 
+ORD11050,2025-12-25,Customer_512,Tablet,East,Amit,6,5000,30000,Cancelled,Cash
+ORD11051,2024-04-26,Customer_144,Mouse, SOUTH,Priya,2,2500,5000,Shipped,Net Banking
+ORD11052,2025-10-26,Customer_123,Speaker,east,Priya,8,5000,40000, Returned,Credit Card
+ORD11053,2025-01-23,Customer_468,Headset, SOUTH,Priya,2,1200,2400,Returned,Debit Card
+ORD11054,2025-12-19,Customer_554,Laptop,West,Karan,4,500,2000,Shipped,UPI
+ORD11055,2024-07-04,Customer_466,Speaker,north ,Vikas,6,2500,15000,Delivered,cash 
+ORD11056,2025-05-08,,Webcam   , SOUTH,Karan,-6,2500,-15000,Cancelled,cash 
+ORD11057,2024-10-20,Customer_20,Printer,north ,Priya,10,800,8000,Returned,Debit Card
+ORD11058,2024-01-18,Customer_14,Monitor,east,Karan,6,500,3000,Returned,UPI
+ORD11059,2025-05-29,Customer_420,Printer,West,Amit,7,12000,84000, Returned,Debit Card
+ORD11060,2025-12-07,Customer_219,Webcam,West,Rahul,1,2500,2500,Shipped,Cash
+ORD11061,2024-03-26,Customer_307,Keyboard,South,Pooja,1,12000,12000,Returned,cash 
+ORD11062,2024-02-16,Customer_350,Tablet,East,Sneha,9,2500,22500,Delivered,Cash
+ORD11063,2024-04-19,Customer_258,Tablet,north ,Pooja,2,2500,5000,delivered,Cash
+ORD11064,2024-01-07,Customer_185,Headset,north ,Amit,8,1200,9600,delivered,cash 
+ORD11065,2024-04-12,Customer_189,Mouse,East,Pooja,10,2500,25000,delivered,Credit Card
+ORD11066,2025-03-01,Customer_356,Keyboard,North,Karan,5,5000,25000,delivered,Cash
+ORD11067,2025-03-05,Customer_226,Mouse,West,Priya,7,12000,84000,Returned,Debit Card
+ORD11068,2024-03-02,Customer_250,Printer,north ,Vikas,7,800,5600,delivered,Debit Card
+ORD11069,2024-08-24,Customer_573,Printer,east,Karan,5,25000,125000,delivered,UPI
+ORD11070,2025-07-17,Customer_440,SSD,north ,Amit,6,2500,15000, Returned,Credit Card
+ORD11071,2024-08-21,Customer_534,Mouse,South,Karan,6,800,4800,Delivered,Net Banking
+ORD11072,2025-10-09,Customer_411,Mouse,North,Neha,2,800,1600,Shipped,Cash
+ORD11073,2024-07-13,Customer_512,Laptop, SOUTH,Amit,8,5000,40000,delivered,Net Banking
+ORD11074,2024-05-04,Customer_252,Printer,North,Amit,2,800,1600,Shipped,UPI
+ORD11075,2024-08-01,Customer_415,Tablet, SOUTH,Rahul,2,500,1000,Returned,cash 
+ORD11076,2025-05-08,Customer_179,Headset,West,Priya,8,2500,20000,delivered,UPI
+ORD11077,2025-04-06,Customer_378,Tablet,West,Neha,1,5000,5000,Delivered,UPI
+ORD11078,2025-04-06,  Customer_491  ,Printer,north ,Pooja,3,12000,36000,delivered,cash 
+ORD11079,2024-10-04,Customer_189,SSD,east,Pooja,9,5000,45000,Cancelled,UPI
+ORD11079,2025-10-11,Customer_552,Laptop,North,Rahul,4,2500,10000,delivered,Cash
+ORD11081,2025-08-18,Customer_20,Headset,East,Amit,9,1200,10800,Delivered,cash 
+ORD11082,2024-11-15,Customer_22,Webcam,South,Vikas,6,500,3000, Returned,Credit Card
+ORD11083,2025-02-16,Customer_87,Headset,east,Priya,5,2500,12500,Delivered,Cash
+ORD11084,2025-09-14,Customer_407,Mouse,South,Amit,6,800,4800, Returned,Credit Card
+ORD11085,2024-11-13,Customer_286,Headset,north ,Karan,6,12000,72000,Delivered,cash 
+ORD11086,2024-10-14,Customer_560,Mouse,north ,Vikas,10,2500,25000,delivered,Debit Card
+ORD11087,2025-02-12,Customer_271,Laptop,South,Pooja,6,2500,15000,Shipped,Net Banking
+ORD11088,2025-07-20,Customer_99,Mouse,West,Amit,7,25000,175000, Returned,cash 
+ORD11089,2025-08-29,,Speaker,South,Karan,8,1200,9600,Shipped,Net Banking
+ORD11090,2025-07-11,Customer_118,Headset,West,Karan,3,2500,7500,Cancelled,UPI
+ORD11091,2024-04-27,Customer_22,Headset,South,Priya,8,800,6400,Returned,Net Banking
+ORD11092,2024-12-22,Customer_340,Mouse,East,Amit,9,25000,, Returned,UPI
+ORD11093,2025-06-23,Customer_62,Monitor,South,Pooja,8,25000,200000,Returned,Debit Card
+ORD11094,2024-05-10,Customer_392,Headset,North,Neha,9,12000,108000,delivered,cash 
+ORD11095,2024-11-23,Customer_350,Speaker,East,Neha,10,5000,50000,Returned,Debit Card
+ORD11096,2025-05-15,Customer_148,Keyboard,East,Neha,9,2500,22500,Shipped,Debit Card
+ORD11097,2024-03-24,Customer_141,Keyboard,West,Priya,1,2500,2500,Returned,Debit Card
+ORD11098,2025-12-29,Customer_68,Tablet,east,Pooja,3,25000,75000,Delivered,UPI
+ORD11099,2024-10-03,Customer_123,Headset,East,Karan,7,1200,8400,delivered,Credit Card
+ORD11100,11/06/2024,Customer_585,Laptop   ,North,Pooja,6,1200,7200,delivered,Cash
+ORD11101,2025-09-26,Customer_344,Webcam,north ,Amit,3,5000,15000,delivered,UPI
+ORD11102,2025-11-17,Customer_230,Webcam,east,Amit,5,25000,125000, Returned,Cash
+ORD11103,2024-07-20,Customer_60,Headset,West,Sneha,4,1200,4800,Shipped,Cash
+ORD11104,2025-06-27,Customer_537,Printer,South,Priya,4,2500,10000,Shipped,Net Banking
+ORD11105,2024-02-19,Customer_242,Printer,West,Rahul,2,800,1600,Delivered,Net Banking
+ORD11106,2024-07-30,Customer_515,Mouse,north ,Pooja,7,800,5600, Returned,cash 
+ORD11107,2025-10-17,Customer_395,Webcam,West,Rahul,7,12000,84000, Returned,Debit Card
+ORD11108,2024-06-07,Customer_540,Tablet,West,Rahul,6,500,3000,delivered,Cash
+ORD11109,2024-09-25,Customer_182,Keyboard,South,Rahul,4,25000,100000,Delivered,UPI
+ORD11110,32/13/2024,Customer_370,Monitor,north ,Vikas,2,1200,2400,Shipped,Cash
+ORD11111,2024-10-02,Customer_123,Speaker,north ,Rahul,7,2500,17500,Shipped,Net Banking
+ORD11112,2025-12-18,Customer_181,Laptop, SOUTH,Amit,7,5000,35000,delivered,Net Banking
+ORD11113,2025-08-21,Customer_274,SSD,West,Amit,7,25000,175000,Cancelled,Credit Card
+ORD11114,2025-07-31,Customer_8,Mouse,North,Amit,5,800,4000,Returned,UPI
+ORD11115,2025-01-06,Customer_93,Speaker,West,Amit,5,500,2500, Returned,UPI
+ORD11116,2024-09-15,Customer_111,Keyboard,east,Neha,8,12000,96000,Cancelled,cash 
+ORD11117,2025-09-11,Customer_460,Laptop, SOUTH,Pooja,10,12000,120000,Delivered,UPI
+ORD11118,2024-03-19,Customer_334,Printer,north ,Neha,1,800,800,Returned,UPI
+ORD11119,2024-07-30,Customer_485,Webcam,east,Priya,10,25000,250000, Returned,Debit Card
+ORD11119,2024-04-16,Customer_516,Tablet,East,Neha,10,1200,12000,Cancelled,Credit Card
+ORD11121,2024-05-20,Customer_248,Webcam,South,Amit,6,1200,7200, Returned,Credit Card
+ORD11122,2025-06-03,,Webcam,South,Pooja,-1,25000,-25000,Delivered,Net Banking
+ORD11123,2025-07-16,Customer_367,Mouse,East,Amit,2,12000,24000,delivered,cash 
+ORD11124,2024-05-26,Customer_529,SSD, SOUTH,Vikas,5,25000,125000,Cancelled,Debit Card
+ORD11125,2025-05-23,Customer_261,Tablet,east,Sneha,10,25000,250000,Returned,Net Banking
+ORD11126,2024-10-20,Customer_86,Mouse,North,Vikas,7,800,5600,Delivered,Net Banking
+ORD11127,2024-11-27,Customer_212,Tablet,north ,Pooja,8,1200,9600,Cancelled,UPI
+ORD11128,2025-05-14,Customer_197,Tablet,East,Priya,8,500,4000,Returned,cash 
+ORD11129,2025-06-13,Customer_49,Webcam,East,Sneha,5,5000,25000,Returned,Debit Card
+ORD11130,2025-05-06,Customer_364,Mouse,South,Sneha,7,2500,17500,Cancelled,Cash
+ORD11131,2024-01-17,Customer_181,Laptop,West,Vikas,6,25000,150000,Delivered,Debit Card
+ORD11132,2025-06-02,Customer_449,Keyboard,North,Karan,10,2500,25000,Delivered,Cash
+ORD11133,2025-08-29,Customer_255,SSD,east,Sneha,4,12000,48000,Cancelled,cash 
+ORD11134,2025-04-14,Customer_46,Headset,North,Amit,8,500,4000,Shipped,UPI
+ORD11135,2025-02-07,Customer_3,Headset,North,Amit,7,5000,35000,delivered,Net Banking
+ORD11136,2024-12-31,Customer_88,Monitor,South,Priya,10,12000,120000,Shipped,Cash
+ORD11137,2025-08-09,Customer_512,Mouse,East,Rahul,10,12000,120000,Returned,Debit Card
+ORD11138,2024-01-16,Customer_59,Speaker, SOUTH,Pooja,7,800,5600,Returned,cash 
+ORD11139,2025-11-25,Customer_424,Mouse,South,Rahul,9,500,4500,delivered,Debit Card
+ORD11140,2024-03-17,Customer_517,Headset,East,Rahul,4,5000,20000,Delivered,UPI
+ORD11141,2024-03-23,Customer_378,Webcam,East,Vikas,6,2500,15000,Delivered,Net Banking
+ORD11142,2025-06-12,Customer_378,Laptop, SOUTH,Amit,8,1200,9600,delivered,Cash
+ORD11143,2024-01-26,Customer_388,Mouse,East,Karan,4,2500,10000,Returned,Net Banking
+ORD11144,2024-05-15,Customer_373,Keyboard   , SOUTH,Rahul,8,25000,,delivered,Credit Card
+ORD11145,2024-11-19,Customer_505,SSD,West,Karan,8,800,6400,Cancelled,Cash
+ORD11146,2025-05-12,Customer_227,Keyboard,South,Karan,1,1200,1200,Delivered,UPI
+ORD11147,2024-02-07,Customer_524,SSD,South,Amit,8,1200,9600,Shipped,Net Banking
+ORD11148,2024-03-28,Customer_102,Speaker,West,Priya,4,500,2000,Shipped,Net Banking
+ORD11149,2024-02-02,Customer_532,Keyboard,South,Neha,10,5000,50000,Shipped,UPI
+ORD11150,2024-12-19,Customer_95,Webcam,East,Karan,5,12000,60000,Cancelled,UPI
+ORD11151,2024-03-03,Customer_18,SSD,north ,Priya,9,500,4500,Returned,Credit Card
+ORD11152,2024-04-24,Customer_32,SSD,South,Neha,7,1200,8400,Returned,Net Banking
+ORD11153,2025-05-01,Customer_154,Headset,South,Neha,3,25000,75000,delivered,Cash
+ORD11154,2025-12-11,Customer_282,Keyboard, SOUTH,Rahul,7,12000,84000,delivered,Credit Card
+ORD11155,08/07/2025,    ,SSD, SOUTH,Amit,6,25000,150000,Shipped,Net Banking
+ORD11156,2025-12-08,Customer_314,SSD,South,Vikas,9,500,4500,Shipped,Credit Card
+ORD11157,2025-01-06,Customer_286,Speaker,north ,Sneha,7,2500,17500,Returned,UPI
+ORD11158,2025-09-11,Customer_422,Monitor,east,Sneha,1,800,800,Delivered,Cash
+ORD11159,2024-08-02,Customer_592,Tablet,east,Priya,6,500,3000,delivered,cash 
+ORD11159,2025-02-23,Customer_392,Tablet, SOUTH,Rahul,4,2500,10000,Returned,UPI
+ORD11161,2024-09-09,Customer_133,Tablet,north ,Karan,9,12000,108000,Shipped,Credit Card
+ORD11162,2024-05-08,Customer_42,Webcam,West,Vikas,1,12000,12000,Cancelled,Debit Card
+ORD11163,2025-01-21,Customer_274,Printer,east,Karan,7,1200,8400,Cancelled,UPI
+ORD11164,2025-08-18,Customer_347,Laptop,north ,Priya,4,800,3200,Shipped,UPI
+ORD11165,2024-01-25,Customer_254,Tablet,South,Amit,1,1200,1200,Delivered,cash 
+ORD11166,2024-07-31,Customer_466,Mouse,West,Priya,7,25000,175000,Cancelled,cash 
+ORD11167,2024-08-15,Customer_215,SSD,east,Rahul,4,500,2000,Shipped,Cash
+ORD11168,2025-08-10,Customer_169,Headset,South,Karan,7,500,3500,Cancelled,Cash
+ORD11169,2025-05-01,Customer_558,Mouse, SOUTH,Priya,6,800,4800,Shipped,Debit Card
+ORD11170,2024-03-09,Customer_255,Monitor,East,Sneha,4,800,3200,Shipped,Debit Card
+ORD11171,2025-10-31,Customer_548,Laptop, SOUTH,Neha,8,5000,40000,Cancelled,UPI
+ORD11172,2025-06-09,Customer_133,SSD,east,Neha,6,1200,7200, Returned,Debit Card
+ORD11173,2024-06-02,Customer_569,Tablet,South,Priya,1,1200,1200,Cancelled,Cash
+ORD11174,2024-03-14,Customer_95,Speaker,east,Amit,5,800,4000,Shipped,Debit Card
+ORD11175,2024-06-22,Customer_74,Laptop, SOUTH,Rahul,3,2500,7500,Delivered,UPI
+ORD11176,2024-09-29,Customer_549,Laptop,north ,Neha,5,500,2500,Shipped,Net Banking
+ORD11177,2024-11-30,Customer_132,Speaker,north ,Sneha,3,800,2400,Cancelled,Net Banking
+ORD11178,2024-12-03,Customer_394,Laptop,east,Neha,10,1200,12000,Cancelled,UPI
+ORD11179,2024-08-17,Customer_35,Keyboard,North,Pooja,8,25000,200000,Cancelled,Credit Card
+ORD11180,2025-10-10,Customer_382,Tablet,East,Priya,3,25000,75000,delivered,UPI
+ORD11181,2024-11-21,Customer_345,Tablet, SOUTH,Amit,4,800,3200,Delivered,Credit Card
+ORD11182,2024-12-12,Customer_170,Monitor,north ,Vikas,10,12000,120000, Returned,Cash
+ORD11183,2024-07-16,Customer_561,Mouse, SOUTH,Neha,10,1200,#VALUE!,Returned,Net Banking
+ORD11184,2025-01-07,Customer_1,Mouse,North,Karan,3,5000,15000,Shipped,UPI
+ORD11185,2025-06-20,Customer_571,Printer,north ,Rahul,5,25000,125000,Delivered,UPI
+ORD11186,2025-07-05,Customer_94,Laptop, SOUTH,Neha,7,25000,175000,delivered,UPI
+ORD11187,2025-05-13,Customer_26,Printer, SOUTH,Amit,6,12000,72000, Returned,Credit Card
+ORD11188,2025-07-03,,Monitor   ,east,Neha,-5,12000,-60000,Returned,Credit Card
+ORD11189,2024-06-28,Customer_121,Keyboard,West,Neha,8,800,6400,Cancelled,Cash
+ORD11190,2024-10-10,Customer_494,Laptop,West,Vikas,1,500,500,delivered,Credit Card
+ORD11191,2024-07-16,Customer_510,Webcam,north ,Neha,3,2500,7500,Cancelled,Net Banking
+ORD11192,2025-05-04,Customer_432,Keyboard,north ,Neha,1,800,800, Returned,UPI
+ORD11193,2024-07-07,Customer_226,Printer,South,Pooja,1,12000,12000,delivered,Cash
+ORD11194,2025-04-16,Customer_426,Speaker,East,Amit,6,2500,15000,Delivered,Debit Card
+ORD11195,2024-03-11,Customer_66,Webcam,South,Sneha,5,800,4000,Delivered,cash 
+ORD11196,2025-06-15,Customer_487,Laptop,North,Amit,9,5000,, Returned,cash 
+ORD11197,2024-03-04,Customer_295,Laptop,north ,Pooja,8,2500,20000,delivered,Credit Card
+ORD11198,2025-12-16,Customer_444,Headset, SOUTH,Sneha,7,800,5600,Delivered,Credit Card
+ORD11199,2025-07-12,Customer_466,Keyboard,West,Pooja,3,2500,7500,Delivered,Net Banking
+ORD11199,2024-02-24,Customer_97,SSD,north ,Pooja,2,2500,5000,Delivered,Credit Card
+ORD11201,2025-01-17,Customer_301,Keyboard,East,Priya,1,2500,2500,Shipped,UPI
+ORD11202,2024-08-15,Customer_222,Laptop,north ,Neha,9,5000,45000,delivered,cash 
+ORD11203,2024-04-26,Customer_483,Printer,North,Rahul,8,500,4000, Returned,UPI
+ORD11204,2024-05-17,Customer_438,Webcam, SOUTH,Priya,5,12000,60000,Cancelled,UPI
+ORD11205,2025-11-30,Customer_492,Webcam,East,Rahul,4,25000,100000,delivered,cash 
+ORD11206,2024-03-25,Customer_596,Mouse,north ,Vikas,3,2500,7500, Returned,Net Banking
+ORD11207,2024-02-26,Customer_579,Headset,north ,Neha,8,500,4000,Delivered,Net Banking
+ORD11208,2024-06-27,Customer_510,Speaker,South,Karan,3,2500,7500,delivered,Net Banking
+ORD11209,2024-01-07,Customer_326,Printer,South,Vikas,7,12000,84000,Shipped,Credit Card
+ORD11210,21/01/2024,Customer_150,Printer, SOUTH,Neha,6,12000,72000,Returned,cash 
+ORD11211,2024-08-16,Customer_351,Keyboard,east,Karan,10,500,5000,Returned,Debit Card
+ORD11212,2025-02-22,Customer_556,Mouse,East,Neha,2,800,1600,Delivered,cash 
+ORD11213,2025-10-18,Customer_454,Keyboard,East,Pooja,7,800,5600,Delivered,Net Banking
+ORD11214,2025-11-19,Customer_540,Laptop, SOUTH,Priya,2,12000,24000,delivered,Credit Card
+ORD11215,2024-05-07,Customer_359,Tablet,east,Karan,10,2500,25000,delivered,Net Banking
+ORD11216,2025-11-25,Customer_419,Headset,West,Pooja,10,25000,250000,delivered,Cash
+ORD11217,2025-11-13,Customer_169,Monitor,East,Priya,6,800,4800,Returned,Debit Card
+ORD11218,2025-03-20,Customer_125,SSD,West,Rahul,8,1200,9600,Shipped,UPI
+ORD11219,2024-11-11,Customer_35,SSD, SOUTH,Amit,3,12000,36000,Shipped,UPI
+ORD11220,2025-12-27,Customer_63,SSD,South,Pooja,8,800,6400,Shipped,Net Banking
+ORD11221,32/13/2024,,Keyboard,east,Amit,7,2500,17500,Delivered,Credit Card
+ORD11222,2025-02-28,Customer_108,SSD,north ,Pooja,8,800,6400,Returned,Cash
+ORD11223,2025-11-21,Customer_152,Monitor,South,Amit,10,25000,250000,delivered,cash 
+ORD11224,2025-05-20,Customer_204,Laptop,South,Pooja,5,800,4000,Shipped,Debit Card
+ORD11225,2025-06-20,Customer_537,Headset,South,Karan,1,500,500,Delivered,cash 
+ORD11226,2025-12-13,Customer_582,Printer,East,Vikas,7,5000,35000,Returned,cash 
+ORD11227,2024-09-17,Customer_232,Monitor,South,Amit,10,500,5000, Returned,Credit Card
+ORD11228,2024-09-28,Customer_475,Laptop, SOUTH,Neha,10,2500,25000,delivered,Net Banking
+ORD11229,2024-04-22,Customer_494,Speaker,east,Sneha,5,25000,125000,Shipped,Debit Card
+ORD11230,2024-02-21,Customer_217,Keyboard,east,Neha,4,1200,4800,Returned,Net Banking
+ORD11231,2025-07-07,Customer_368,Monitor,east,Karan,2,800,1600,Shipped,Credit Card
+ORD11232,2025-05-05,  Customer_344  ,Mouse   ,West,Karan,9,800,7200,Delivered,cash 
+ORD11233,2025-02-27,Customer_260,Printer,West,Karan,4,1200,4800,delivered,Cash
+ORD11234,2024-10-09,Customer_402,Laptop,east,Sneha,5,500,2500,Returned,Credit Card
+ORD11235,2024-12-31,Customer_169,Printer,North,Pooja,3,25000,75000,delivered,UPI
+ORD11236,2024-12-02,Customer_493,Printer,South,Pooja,7,25000,175000, Returned,UPI
+ORD11237,2025-04-02,Customer_392,Headset,South,Vikas,8,800,6400,Cancelled,Credit Card
+ORD11238,2024-07-18,Customer_380,Headset,east,Priya,3,1200,3600, Returned,cash 
+ORD11239,2024-01-10,Customer_136,Keyboard,West,Pooja,7,500,3500,Cancelled,UPI
+ORD11239,2025-04-28,Customer_153,Monitor,north ,Pooja,6,25000,150000,Returned,cash 
+ORD11241,2025-12-30,Customer_235,Webcam,north ,Rahul,5,2500,12500,Returned,cash 
+ORD11242,2024-11-19,Customer_543,Headset,North,Priya,7,25000,175000,delivered,Net Banking
+ORD11243,2025-01-11,Customer_18,Monitor,West,Pooja,10,500,5000,delivered,Cash
+ORD11244,2025-11-30,Customer_411,Laptop,east,Sneha,8,1200,9600,Cancelled,Credit Card
+ORD11245,2025-01-12,Customer_423,Keyboard,east,Sneha,10,500,5000,Cancelled,Net Banking
+ORD11246,2025-05-26,Customer_75,Headset, SOUTH,Priya,8,25000,200000,Returned,UPI
+ORD11247,2025-04-17,Customer_255,Speaker, SOUTH,Sneha,8,500,4000,Delivered,UPI
+ORD11248,2024-05-19,Customer_296,Mouse,West,Sneha,5,800,,Delivered,UPI
+ORD11249,2025-11-29,Customer_311,Headset,north ,Rahul,9,1200,10800,Cancelled,cash 
+ORD11250,2024-01-16,Customer_270,Monitor,West,Neha,10,12000,120000,Returned,Cash
+ORD11251,2024-12-07,Customer_51,Tablet,north ,Pooja,1,25000,25000,Returned,Net Banking
+ORD11252,2025-03-14,Customer_200,Laptop,South,Pooja,4,500,2000,Returned,cash 
+ORD11253,2025-08-12,Customer_106,Mouse,West,Karan,3,500,1500,Returned,Cash
+ORD11254,2024-11-22,,Tablet,East,Karan,-3,12000,-36000,Returned,Net Banking
+ORD11255,2024-03-22,Customer_410,Webcam, SOUTH,Karan,10,25000,250000,Shipped,Debit Card
+ORD11256,2025-05-19,Customer_386,Keyboard,east,Sneha,6,800,4800,delivered,Cash
+ORD11257,2024-07-12,Customer_269,Laptop,east,Sneha,3,5000,15000,delivered,Cash
+ORD11258,2025-07-28,Customer_261,SSD,North,Amit,6,2500,15000,delivered,Cash
+ORD11259,2024-01-19,Customer_380,Printer, SOUTH,Priya,7,12000,84000, Returned,Credit Card
+ORD11260,2025-02-19,Customer_450,Tablet,West,Karan,4,2500,10000,Cancelled,Cash
+ORD11261,2024-04-26,Customer_50,SSD,East,Sneha,5,2500,12500,Returned,Credit Card
+ORD11262,2025-06-27,Customer_261,Webcam,South,Amit,1,800,800,delivered,UPI
+ORD11263,2025-01-10,Customer_426,Headset,North,Priya,2,12000,24000,Shipped,Debit Card
+ORD11264,2024-10-14,Customer_262,Mouse,East,Karan,7,1200,8400,Delivered,Net Banking
+ORD11265,10/06/2025,Customer_100,Printer,South,Sneha,2,12000,24000,Shipped,Debit Card
+ORD11266,2025-12-13,Customer_258,Monitor,north ,Sneha,6,2500,15000,delivered,cash 
+ORD11267,2025-01-03,Customer_424,Keyboard,East,Neha,5,800,4000,delivered,Cash
+ORD11268,2024-05-03,Customer_533,Keyboard,South,Neha,4,500,2000,Cancelled,Net Banking
+ORD11269,2024-02-25,Customer_560,Tablet,north ,Vikas,1,1200,1200,Returned,Cash
+ORD11270,2024-12-27,Customer_42,Printer,north ,Rahul,8,800,6400,Delivered,Debit Card
+ORD11271,2025-09-11,Customer_505,Headset,West,Pooja,1,800,800,delivered,Cash
+ORD11272,2024-11-13,Customer_43,Mouse,North,Neha,8,800,6400,Shipped,UPI
+ORD11273,2025-08-21,Customer_239,Monitor,South,Amit,3,800,2400,Returned,Debit Card
+ORD11274,2025-01-22,Customer_385,Headset, SOUTH,Pooja,2,800,#VALUE!,Delivered,UPI
+ORD11275,2024-04-01,Customer_21,Headset,East,Vikas,10,12000,120000,Returned,Debit Card
+ORD11276,2025-07-09,Customer_410,Printer   , SOUTH,Karan,2,5000,10000,Returned,Credit Card
+ORD11277,2025-04-26,Customer_449,Headset,North,Neha,6,5000,30000,Returned,Credit Card
+ORD11278,2025-04-04,Customer_385,Webcam,north ,Rahul,7,500,3500,Cancelled,UPI
+ORD11279,2024-09-08,Customer_206,Keyboard,South,Sneha,3,800,2400, Returned,Cash
+ORD11279,2024-02-03,Customer_504,Mouse,North,Neha,4,800,3200,Delivered,Debit Card
+ORD11281,2025-10-21,Customer_479,SSD,East,Priya,2,1200,2400,Cancelled,UPI
+ORD11282,2025-01-13,Customer_277,Monitor,South,Neha,3,5000,15000,Shipped,Net Banking
+ORD11283,2024-03-22,Customer_191,SSD,north ,Sneha,8,500,4000,Delivered,Cash
+ORD11284,2024-03-18,Customer_541,Mouse,north ,Rahul,4,2500,10000,Delivered,Cash
+ORD11285,2024-08-11,Customer_173,Keyboard,East,Karan,6,12000,72000,Shipped,Credit Card
+ORD11286,2024-03-23,Customer_162,Laptop,North,Pooja,6,12000,72000,Delivered,Cash
+ORD11287,2024-08-22,,Monitor,South,Sneha,3,12000,36000,delivered,UPI
+ORD11288,2024-01-02,Customer_148,Printer,South,Karan,8,500,4000,Returned,Debit Card
+ORD11289,2024-06-27,Customer_451,Keyboard, SOUTH,Priya,8,500,4000,Cancelled,Cash
+ORD11290,2025-12-13,Customer_44,Keyboard,east,Amit,9,25000,225000, Returned,Credit Card
+ORD11291,2025-01-07,Customer_263,Headset,east,Amit,8,25000,200000,Cancelled,Debit Card
+ORD11292,2025-10-27,Customer_33,SSD,east,Neha,9,12000,108000, Returned,cash 
+ORD11293,2024-08-25,Customer_537,Keyboard,north ,Vikas,6,800,4800,Delivered,Debit Card
+ORD11294,2025-09-25,Customer_20,Speaker, SOUTH,Amit,9,800,7200,Returned,Net Banking
+ORD11295,2024-05-05,Customer_544,Laptop,north ,Karan,1,25000,25000,delivered,UPI
+ORD11296,2024-07-26,Customer_345,Webcam,east,Vikas,5,2500,12500, Returned,Credit Card
+ORD11297,2025-01-19,Customer_14,Keyboard,West,Sneha,8,2500,20000,Delivered,Cash
+ORD11298,2025-01-08,Customer_322,Mouse,north ,Priya,3,5000,15000,delivered,Credit Card
+ORD11299,2025-06-08,Customer_279,Mouse,South,Neha,3,2500,7500,Cancelled,Cash
+ORD11300,2024-10-02,Customer_305,Tablet, SOUTH,Karan,3,500,,Cancelled,Cash
+ORD11301,2024-08-16,Customer_366,Mouse,north ,Neha,5,2500,12500,Cancelled,Credit Card
+ORD11302,2024-11-29,Customer_463,Mouse,north ,Karan,7,1200,8400,Shipped,cash 
+ORD11303,2025-02-06,Customer_586,Keyboard,North,Pooja,8,800,6400,delivered,cash 
+ORD11304,2025-12-08,Customer_560,Keyboard,North,Amit,4,1200,4800,Cancelled,Debit Card
+ORD11305,2024-10-18,Customer_406,Printer,East,Pooja,4,1200,4800,Shipped,UPI
+ORD11306,2025-09-25,Customer_411,Printer,West,Pooja,1,25000,25000,delivered,cash 
+ORD11307,2025-06-28,Customer_326,Headset,South,Vikas,6,500,3000,Shipped,Net Banking
+ORD11308,2024-02-10,Customer_324,SSD,east,Pooja,9,2500,22500, Returned,Net Banking
+ORD11309,2025-01-27,  Customer_185  ,SSD,North,Vikas,4,1200,4800,Shipped,UPI
+ORD11310,2024-08-09,Customer_401,Webcam,East,Pooja,7,2500,17500,delivered,Net Banking
+ORD11311,2025-02-25,Customer_460,Webcam,north ,Neha,3,2500,7500, Returned,Net Banking
+ORD11312,2024-02-13,Customer_384,Mouse,South,Pooja,3,500,1500,Returned,Credit Card
+ORD11313,2025-09-18,Customer_542,Keyboard,West,Pooja,6,12000,72000,Delivered,cash 
+ORD11314,2025-06-12,Customer_357,Webcam,North,Sneha,5,500,2500, Returned,UPI
+ORD11315,2024-12-06,Customer_178,Headset,east,Rahul,9,12000,108000,Cancelled,Debit Card
+ORD11316,2024-09-09,Customer_209,Laptop,North,Amit,8,2500,20000,Shipped,Debit Card
+ORD11317,2025-07-12,Customer_537,Monitor,North,Pooja,7,25000,175000,Returned,UPI
+ORD11318,2024-01-02,Customer_484,Printer,east,Neha,10,500,5000, Returned,Credit Card
+ORD11319,2024-07-26,Customer_573,SSD,West,Amit,6,2500,15000,Delivered,Debit Card
+ORD11319,30/07/2025,,Tablet   ,North,Karan,-9,800,-7200,Shipped,Net Banking
+ORD11321,2024-09-08,Customer_9,Monitor,West,Karan,10,2500,25000,Cancelled,UPI
+ORD11322,2024-05-26,Customer_239,Tablet,North,Rahul,6,800,4800,Returned,Credit Card
+ORD11323,2024-02-27,Customer_558,SSD, SOUTH,Vikas,6,500,3000,Returned,UPI
+ORD11324,2025-07-25,Customer_296,Headset, SOUTH,Priya,3,5000,15000,delivered,Cash
+ORD11325,2024-01-27,Customer_223,Headset,East,Priya,7,500,3500,delivered,Net Banking
+ORD11326,2025-03-19,Customer_241,Speaker,north ,Karan,4,5000,20000,Returned,cash 
+ORD11327,2025-06-13,Customer_79,Monitor,east,Sneha,10,1200,12000,Cancelled,Credit Card
+ORD11328,2025-04-24,Customer_419,Webcam,east,Neha,4,12000,48000,Shipped,Cash
+ORD11329,2024-05-08,Customer_513,Laptop, SOUTH,Rahul,3,2500,7500,Returned,Cash
+ORD11330,2025-09-13,Customer_132,SSD,north ,Pooja,4,800,3200,delivered,Cash
+ORD11331,2024-12-07,Customer_182,Headset, SOUTH,Vikas,1,2500,2500,Cancelled,Cash
+ORD11332,32/13/2024,Customer_60,Printer, SOUTH,Amit,3,12000,36000,Cancelled,Cash
+ORD11333,2025-12-26,Customer_209,Tablet,South,Priya,2,12000,24000,Shipped,Credit Card
+ORD11334,2024-11-18,Customer_80,Tablet, SOUTH,Neha,3,5000,15000,Delivered,Cash
+ORD11335,2025-09-13,Customer_258,Printer,North,Rahul,1,12000,12000, Returned,Net Banking
+ORD11336,2024-04-02,Customer_271,Tablet,east,Amit,4,1200,4800,Returned,Cash
+ORD11337,2024-06-10,Customer_353,Speaker,east,Priya,6,25000,150000,Cancelled,Net Banking
+ORD11338,2024-01-25,Customer_108,Monitor,North,Neha,10,12000,120000,Returned,Debit Card
+ORD11339,2024-01-30,Customer_185,Keyboard,North,Rahul,6,800,4800,delivered,Net Banking
+ORD11340,2025-03-19,Customer_302,Laptop,West,Karan,4,2500,10000,Shipped,Debit Card
+ORD11341,2024-04-05,Customer_335,Headset, SOUTH,Amit,7,12000,84000,Cancelled,Net Banking
+ORD11342,2024-04-21,Customer_123,Laptop,east,Karan,7,2500,17500,Returned,UPI
+ORD11343,2025-07-15,Customer_225,Headset,north ,Neha,1,500,500,Returned,Cash
+ORD11344,2024-07-18,Customer_383,Mouse, SOUTH,Neha,4,500,2000,Shipped,cash 
+ORD11345,2024-03-14,Customer_401,Laptop,West,Sneha,6,1200,7200,Shipped,Debit Card
+ORD11346,2025-04-11,Customer_356,Laptop,West,Pooja,8,2500,20000,Returned,cash 
+ORD11347,2024-09-07,Customer_209,Laptop,West,Priya,7,800,5600,delivered,UPI
+ORD11348,2025-01-10,Customer_150,Webcam,north ,Pooja,3,2500,7500, Returned,Debit Card
+ORD11349,2025-12-18,Customer_150,Keyboard,east,Vikas,8,2500,20000, Returned,cash 
+ORD11350,2025-04-13,Customer_139,Laptop,North,Vikas,7,5000,35000,delivered,Net Banking
+ORD11351,2025-05-31,Customer_373,Keyboard,East,Sneha,1,800,800,Shipped,Net Banking
+ORD11352,2024-12-25,Customer_585,Printer,East,Vikas,2,2500,,Delivered,Credit Card
+ORD11353,2024-06-15,,Keyboard,North,Priya,1,2500,2500,Cancelled,Cash
+ORD11354,2024-10-27,Customer_581,Printer, SOUTH,Vikas,6,800,4800,Shipped,Net Banking
+ORD11355,2024-12-09,Customer_9,Webcam,north ,Rahul,3,800,2400,Cancelled,Credit Card
+ORD11356,2025-05-17,Customer_25,Webcam,East,Sneha,8,12000,96000,Delivered,Debit Card
+ORD11357,2025-05-03,Customer_406,Speaker, SOUTH,Rahul,3,500,1500,Shipped,Cash
+ORD11358,2024-09-27,Customer_518,Keyboard,east,Rahul,6,2500,15000, Returned,Cash
+ORD11359,2025-07-05,Customer_518,Speaker,East,Neha,8,500,4000,delivered,cash 
+ORD11359,2025-12-12,Customer_90,Headset,North,Vikas,5,800,4000,Delivered,Credit Card
+ORD11361,2024-09-25,Customer_75,Speaker,West,Amit,6,25000,150000,Returned,cash 
+ORD11362,2024-11-26,Customer_3,Monitor,North,Amit,1,25000,25000,Shipped,Debit Card
+ORD11363,2024-10-20,Customer_428,Tablet,East,Rahul,7,12000,84000,Delivered,Net Banking
+ORD11364,2025-01-25,Customer_178,Speaker   ,North,Amit,7,800,5600,delivered,Credit Card
+ORD11365,2025-07-21,Customer_167,Laptop, SOUTH,Neha,7,12000,#VALUE!,Shipped,Cash
+ORD11366,2025-03-13,Customer_119,Keyboard,South,Vikas,5,12000,60000,delivered,UPI
+ORD11367,2025-04-29,Customer_484,Headset,East,Rahul,9,12000,108000, Returned,Cash
+ORD11368,2025-04-29,Customer_171,Printer,east,Neha,10,5000,50000,Delivered,Net Banking
+ORD11369,2024-02-06,Customer_215,Laptop,East,Pooja,5,12000,60000,Cancelled,Credit Card
+ORD11370,2024-06-04,Customer_560,Mouse,West,Pooja,1,12000,12000,Delivered,Net Banking
+ORD11371,2024-12-09,Customer_538,Mouse,East,Rahul,2,5000,10000,Delivered,Cash
+ORD11372,2024-09-26,Customer_352,SSD,east,Rahul,3,2500,7500,Delivered,Credit Card
+ORD11373,2025-06-10,Customer_583,Mouse,East,Neha,9,800,7200,delivered,Net Banking
+ORD11374,2025-05-31,Customer_60,Keyboard,East,Neha,2,25000,50000,Cancelled,Debit Card
+ORD11375,14/07/2025,Customer_392,Laptop,South,Rahul,10,12000,120000,Cancelled,Net Banking
+ORD11376,2024-11-02,Customer_48,Headset, SOUTH,Neha,9,12000,108000,Cancelled,Credit Card
+ORD11377,2024-06-05,Customer_74,Headset,West,Neha,8,500,4000,Shipped,Debit Card
+ORD11378,2024-05-09,Customer_420,Printer,east,Pooja,5,12000,60000,Shipped,Credit Card
+ORD11379,2024-04-03,Customer_316,Keyboard,north ,Vikas,3,12000,36000, Returned,Credit Card
+ORD11380,2025-06-24,Customer_371,Printer,east,Rahul,2,2500,5000,Delivered,Credit Card
+ORD11381,2025-01-04,Customer_245,Webcam,east,Amit,8,500,4000,Shipped,Cash
+ORD11382,2025-08-21,Customer_389,Speaker,north ,Rahul,2,2500,5000,Shipped,Credit Card
+ORD11383,2025-10-10,Customer_450,Laptop,north ,Amit,5,12000,60000,delivered,Debit Card
+ORD11384,2024-02-08,Customer_267,SSD,South,Rahul,4,12000,48000,Shipped,Credit Card
+ORD11385,2024-04-04,Customer_501,Printer,east,Pooja,10,1200,12000,delivered,Debit Card
+ORD11386,2025-05-05,    ,Mouse,North,Vikas,-3,800,-2400,delivered,Cash
+ORD11387,2024-08-05,Customer_217,Headset,West,Rahul,5,500,2500,Cancelled,Credit Card
+ORD11388,2024-01-23,Customer_536,Tablet,East,Karan,9,1200,10800, Returned,UPI
+ORD11389,2024-07-03,Customer_343,Headset,north ,Vikas,2,12000,24000,Delivered,Net Banking
+ORD11390,2024-08-02,Customer_34,Monitor,east,Karan,2,25000,50000,Returned,Credit Card
+ORD11391,2025-01-30,Customer_567,SSD,South,Amit,9,25000,225000, Returned,Debit Card
+ORD11392,2024-06-24,Customer_482,Keyboard,West,Neha,6,5000,30000,Delivered,Credit Card
+ORD11393,2024-05-22,Customer_130,Printer,north ,Sneha,9,1200,10800,Returned,cash 
+ORD11394,2024-07-24,Customer_286,SSD,east,Priya,2,500,1000, Returned,cash 
+ORD11395,2025-01-05,Customer_210,Headset,East,Priya,1,5000,5000,delivered,Credit Card
+ORD11396,2024-09-30,Customer_500,Mouse,east,Sneha,8,1200,9600,delivered,Net Banking
+ORD11397,2024-08-25,Customer_541,Keyboard,West,Pooja,7,2500,17500,Shipped,Net Banking
+ORD11398,2025-04-05,Customer_104,Printer,West,Neha,9,800,7200,Returned,Debit Card
+ORD11399,2024-01-23,Customer_580,Speaker, SOUTH,Pooja,1,800,800, Returned,UPI
+ORD11399,2025-08-17,Customer_56,Tablet,north ,Rahul,5,500,2500,Returned,Net Banking
+ORD11401,2024-02-01,Customer_259,SSD,North,Karan,2,800,1600, Returned,cash 
+ORD11402,2024-11-30,Customer_568,Tablet,East,Sneha,3,800,2400,delivered,Debit Card
+ORD11403,2024-01-18,Customer_377,Monitor,north ,Karan,8,800,6400,Delivered,cash 
+ORD11404,2024-09-06,Customer_593,Keyboard,West,Rahul,6,800,,Delivered,UPI
+ORD11405,2025-05-12,Customer_101,Printer,West,Priya,10,2500,25000,Returned,Credit Card
+ORD11406,2025-10-20,Customer_345,Keyboard,North,Karan,8,25000,200000,delivered,UPI
+ORD11407,2025-06-25,Customer_407,SSD,South,Vikas,7,25000,175000,Delivered,Cash
+ORD11408,2024-10-23,Customer_394,SSD   ,east,Vikas,6,1200,7200,Delivered,Net Banking
+ORD11409,2025-02-15,Customer_580,Keyboard,South,Priya,8,12000,96000,Cancelled,cash 
+ORD11410,2024-06-21,Customer_446,Printer,North,Rahul,7,12000,84000,Delivered,Credit Card
+ORD11411,2024-03-15,Customer_272,Tablet, SOUTH,Sneha,6,5000,30000,Delivered,Credit Card
+ORD11412,2025-08-16,Customer_212,SSD,north ,Priya,2,2500,5000,Delivered,Debit Card
+ORD11413,2024-02-27,Customer_142,Mouse,east,Karan,1,2500,2500,Cancelled,Cash
+ORD11414,2025-04-17,Customer_256,Monitor,North,Rahul,6,2500,15000,delivered,Cash
+ORD11415,2025-09-20,Customer_326,Headset,North,Pooja,1,1200,1200,Cancelled,Debit Card
+ORD11416,2024-01-21,Customer_200,Keyboard,East,Pooja,9,500,4500,Delivered,Credit Card
+ORD11417,2024-06-08,Customer_90,Headset,east,Priya,9,800,7200, Returned,cash 
+ORD11418,2024-08-25,Customer_322,Tablet,North,Pooja,8,12000,96000, Returned,cash 
+ORD11419,2024-10-28,,Printer,east,Pooja,4,1200,4800,delivered,UPI
+ORD11420,2024-08-02,Customer_347,Laptop,West,Pooja,2,500,1000,Returned,Credit Card
+ORD11421,2025-07-20,Customer_396,Keyboard,South,Karan,1,800,800,Cancelled,Net Banking
+ORD11422,2024-01-15,Customer_121,Printer,West,Priya,8,1200,9600,Delivered,Debit Card
+ORD11423,2024-04-26,Customer_554,Mouse,East,Amit,1,800,800, Returned,cash 
+ORD11424,2025-07-23,Customer_285,Headset,north ,Neha,9,5000,45000,Cancelled,Cash
+ORD11425,2024-12-18,Customer_327,Webcam,West,Neha,2,12000,24000,Shipped,cash 
+ORD11426,2024-05-25,Customer_193,Keyboard,North,Priya,8,12000,96000,Shipped,Net Banking
+ORD11427,2024-11-19,Customer_223,Headset,east,Sneha,8,800,6400,Returned,Debit Card
+ORD11428,2025-01-16,Customer_400,Monitor,North,Sneha,10,800,8000, Returned,Debit Card
+ORD11429,2025-11-28,Customer_246,Speaker,north ,Priya,10,800,8000,delivered,Debit Card
+ORD11430,29/12/2025,Customer_88,Keyboard,East,Amit,1,5000,5000,delivered,Debit Card
+ORD11431,2025-05-17,Customer_322,Keyboard,North,Amit,10,12000,120000, Returned,Net Banking
+ORD11432,2024-05-22,Customer_449,Printer, SOUTH,Amit,10,800,8000,Shipped,Credit Card
+ORD11433,2025-02-07,Customer_598,Printer,South,Priya,8,500,4000,Shipped,Cash
+ORD11434,2024-11-17,Customer_149,Keyboard, SOUTH,Amit,10,1200,12000,Cancelled,Debit Card
+ORD11435,2025-07-01,Customer_306,Laptop,north ,Neha,2,1200,2400,Returned,Debit Card
+ORD11436,2024-03-01,Customer_201,Webcam,East,Karan,1,1200,1200, Returned,UPI
+ORD11437,2024-12-05,Customer_595,Webcam,East,Karan,10,25000,250000,Shipped,Credit Card
+ORD11438,2025-06-10,Customer_523,Laptop, SOUTH,Vikas,7,5000,35000,Returned,Cash
+ORD11439,2024-07-28,Customer_447,Speaker,east,Amit,8,800,6400,Delivered,UPI
+ORD11439,2025-08-31,Customer_488,SSD, SOUTH,Karan,7,2500,17500,Cancelled,UPI
+ORD11441,2024-06-15,Customer_323,Keyboard,east,Amit,5,12000,60000, Returned,Cash
+ORD11442,2024-10-17,Customer_215,Laptop,North,Priya,9,500,4500,Delivered,cash 
+ORD11443,32/13/2024,Customer_325,Monitor,West,Priya,4,2500,10000,Returned,UPI
+ORD11444,2025-01-11,Customer_597,Headset,east,Pooja,9,25000,225000,Delivered,Debit Card
+ORD11445,2025-03-16,Customer_528,Speaker,West,Sneha,5,12000,60000,Shipped,Cash
+ORD11446,2024-09-18,Customer_579,Speaker,West,Priya,5,12000,60000,Cancelled,UPI
+ORD11447,2025-05-17,Customer_374,Tablet,West,Pooja,7,25000,175000,Shipped,Net Banking
+ORD11448,2024-05-29,Customer_572,Monitor,East,Priya,7,25000,175000, Returned,Cash
+ORD11449,2024-09-10,Customer_166,Keyboard, SOUTH,Vikas,8,2500,20000,Shipped,Net Banking
+ORD11450,2024-05-06,Customer_34,SSD,east,Rahul,8,25000,200000,Shipped,cash 
+ORD11451,2025-08-17,Customer_293,Headset, SOUTH,Karan,4,500,2000,Delivered,UPI
+ORD11452,2025-06-26,,Tablet   , SOUTH,Neha,-7,5000,-35000,Delivered,Cash
+ORD11453,2024-07-26,Customer_476,Speaker,East,Pooja,10,500,5000,Returned,Cash
+ORD11454,2024-07-04,Customer_322,Printer,North,Pooja,10,800,8000,Delivered,Credit Card
+ORD11455,2025-02-16,Customer_135,Monitor,West,Rahul,9,5000,45000,Shipped,UPI
+ORD11456,2024-08-29,Customer_80,Mouse,east,Rahul,1,800,,Delivered,Cash
+ORD11457,2025-10-18,Customer_211,SSD,east,Rahul,7,2500,17500,delivered,Debit Card
+ORD11458,2024-10-04,Customer_498,Tablet,South,Rahul,9,500,4500,Cancelled,Credit Card
+ORD11459,2024-03-23,Customer_235,Tablet,North,Priya,2,12000,24000,Delivered,UPI
+ORD11460,2024-04-02,Customer_149,Laptop,South,Karan,6,25000,150000,Cancelled,Credit Card
+ORD11461,2024-03-17,Customer_33,Headset,South,Pooja,7,5000,35000,delivered,Debit Card
+ORD11462,2025-12-01,Customer_490,Printer,East,Karan,7,2500,17500,Delivered,Debit Card
+ORD11463,2025-05-09,  Customer_251  ,Printer, SOUTH,Vikas,9,5000,45000,Delivered,UPI
+ORD11464,2024-03-11,Customer_128,Printer,West,Vikas,5,25000,125000,Delivered,Credit Card
+ORD11465,2025-10-29,Customer_187,Laptop,South,Karan,1,2500,2500,Returned,Cash
+ORD11466,2025-01-11,Customer_373,Headset,east,Pooja,8,800,6400, Returned,UPI
+ORD11467,2025-07-04,Customer_202,Laptop,east,Amit,8,800,6400, Returned,Debit Card
+ORD11468,2025-06-20,Customer_226,Speaker,West,Vikas,1,12000,12000,Cancelled,Debit Card
+ORD11469,2024-03-02,Customer_202,Laptop,West,Sneha,9,25000,225000,Cancelled,Debit Card
+ORD11470,2024-10-25,Customer_225,Monitor, SOUTH,Pooja,4,1200,4800,Shipped,Net Banking
+ORD11471,2025-02-17,Customer_438,Headset,North,Vikas,5,800,4000,Shipped,Credit Card
+ORD11472,2024-08-28,Customer_4,Webcam,north ,Neha,7,25000,175000,Cancelled,UPI
+ORD11473,2025-04-29,Customer_499,Keyboard,South,Amit,4,500,2000,Returned,Cash
+ORD11474,2025-08-18,Customer_140,Monitor,North,Amit,2,12000,24000,delivered,Cash
+ORD11475,2025-12-29,Customer_483,Headset,North,Pooja,6,25000,150000,Returned,Cash
+ORD11476,2025-06-27,Customer_188,Webcam,West,Neha,1,1200,1200,Cancelled,Debit Card
+ORD11477,2024-04-26,Customer_422,Speaker,East,Pooja,3,2500,7500,delivered,cash 
+ORD11478,2024-05-11,Customer_274,Laptop,North,Amit,6,2500,15000,Returned,cash 
+ORD11479,2024-12-19,Customer_147,Tablet,East,Vikas,10,500,5000,Delivered,Net Banking
+ORD11479,2024-09-24,Customer_76,Printer,South,Neha,10,500,5000,Returned,Credit Card
+ORD11481,2025-09-26,Customer_306,Monitor,West,Pooja,9,5000,45000,delivered,Cash
+ORD11482,2024-09-23,Customer_176,Laptop,north ,Karan,2,800,1600,Returned,cash 
+ORD11483,2024-07-25,Customer_55,Tablet, SOUTH,Sneha,9,800,7200,Returned,Debit Card
+ORD11484,2024-09-05,Customer_332,Printer,East,Karan,2,25000,50000,delivered,Debit Card
+ORD11485,23/12/2025,,Webcam,West,Neha,10,12000,120000,Cancelled,Net Banking
+ORD11486,2024-12-31,Customer_57,Monitor,West,Vikas,3,2500,7500,delivered,Credit Card
+ORD11487,2025-08-21,Customer_414,Tablet,South,Sneha,4,800,3200, Returned,Cash
+ORD11488,2024-06-21,Customer_49,Monitor,North,Neha,5,500,2500,delivered,Debit Card
+ORD11489,2024-08-13,Customer_536,Monitor, SOUTH,Pooja,5,2500,12500,Delivered,Net Banking
+ORD11490,2025-12-22,Customer_369,Monitor,east,Sneha,2,12000,24000,delivered,Cash
+ORD11491,2025-08-11,Customer_63,Laptop, SOUTH,Sneha,9,2500,22500,Cancelled,Net Banking
+ORD11492,2025-06-30,Customer_591,Laptop,North,Amit,5,12000,60000,Delivered,Net Banking
+ORD11493,2024-06-17,Customer_597,SSD,West,Amit,2,1200,2400,Shipped,UPI
+ORD11494,2025-02-20,Customer_507,Webcam,North,Priya,6,5000,30000,Returned,UPI
+ORD11495,2024-06-25,Customer_318,Headset,north ,Neha,3,800,2400,Cancelled,cash 
+ORD11496,2025-06-12,Customer_517,Headset   ,East,Vikas,9,12000,108000,Shipped,Debit Card
+ORD11497,2024-09-13,Customer_115,Tablet,north ,Amit,8,5000,40000,Cancelled,UPI
+ORD11498,2024-05-29,Customer_592,Printer,West,Karan,10,1200,12000,delivered,Net Banking
+ORD11499,2024-04-25,Customer_344,Monitor,South,Neha,5,12000,60000,Delivered,Cash
+ORD11500,2025-06-20,Customer_381,Mouse,West,Sneha,1,800,800,Returned,Credit Card
+ORD11501,2024-12-14,Customer_307,SSD,North,Neha,10,25000,250000,Returned,UPI
+ORD11502,2024-06-12,Customer_8,Printer, SOUTH,Neha,7,1200,8400,Shipped,Credit Card
+ORD11503,2025-10-26,Customer_564,Speaker,east,Karan,8,500,4000, Returned,cash 
+ORD11504,2025-09-03,Customer_322,Laptop,north ,Pooja,4,12000,48000,Returned,Debit Card
+ORD11505,2025-03-01,Customer_228,Monitor,South,Vikas,1,2500,2500,Shipped,UPI
+ORD11506,2024-04-10,Customer_426,Webcam,north ,Sneha,2,25000,50000,Shipped,UPI
+ORD11507,2025-03-15,Customer_153,Headset,West,Pooja,10,500,5000,Delivered,UPI
+ORD11508,2024-01-02,Customer_73,Headset, SOUTH,Vikas,2,2500,,Returned,UPI
+ORD11509,2024-01-28,Customer_265,Monitor, SOUTH,Vikas,7,800,5600, Returned,UPI
+ORD11510,2025-02-23,Customer_488,Headset,East,Priya,3,1200,3600,Returned,cash 
+ORD11511,2025-07-17,Customer_220,Webcam,South,Sneha,4,800,3200,Shipped,Credit Card
+ORD11512,2025-11-26,Customer_106,Laptop, SOUTH,Priya,8,2500,20000,Cancelled,Debit Card
+ORD11513,2024-05-27,Customer_599,Headset,South,Sneha,6,500,3000, Returned,UPI
+ORD11514,2024-08-17,Customer_90,Keyboard,east,Karan,5,800,4000,Cancelled,Net Banking
+ORD11515,2025-06-03,Customer_535,Mouse,north ,Rahul,6,2500,15000,Delivered,UPI
+ORD11516,2025-06-07,Customer_280,Monitor,East,Amit,5,1200,6000,delivered,Credit Card
+ORD11517,2025-03-07,Customer_221,Headset, SOUTH,Priya,2,25000,50000,Returned,UPI
+ORD11518,2024-03-31,,Monitor,east,Rahul,-7,12000,-84000,Delivered,UPI
+ORD11519,2024-12-21,Customer_173,Monitor, SOUTH,Neha,7,25000,175000,Delivered,Credit Card
+ORD11519,2025-08-21,Customer_228,Headset,north ,Karan,1,500,500,Cancelled,Debit Card
+ORD11521,2024-08-10,Customer_36,Laptop,North,Priya,9,12000,108000,Returned,UPI
+ORD11522,2025-08-01,Customer_576,Keyboard, SOUTH,Neha,6,12000,72000,Cancelled,Debit Card
+ORD11523,2025-04-18,Customer_491,Mouse,South,Vikas,8,12000,96000,Delivered,Debit Card
+ORD11524,2025-04-15,Customer_207,Webcam,North,Vikas,3,12000,36000,delivered,Credit Card
+ORD11525,2024-01-16,Customer_205,Printer,east,Rahul,6,25000,150000, Returned,cash 
+ORD11526,2024-09-24,Customer_579,Tablet,West,Karan,9,25000,225000,Cancelled,Credit Card
+ORD11527,2025-03-04,Customer_473,Laptop,West,Sneha,9,800,7200,delivered,Net Banking
+ORD11528,2025-12-18,Customer_207,Headset,North,Priya,5,1200,6000,Shipped,Net Banking
+ORD11529,2024-05-26,Customer_59,Monitor,north ,Neha,3,12000,36000,Shipped,Debit Card
+ORD11530,2024-11-17,Customer_539,Tablet,North,Karan,10,2500,25000,Shipped,Debit Card
+ORD11531,2024-03-12,Customer_594,Webcam, SOUTH,Pooja,9,5000,45000,Returned,cash 
+ORD11532,2024-10-10,Customer_63,Laptop,East,Vikas,5,12000,60000,delivered,Debit Card
+ORD11533,2025-07-30,Customer_421,Monitor,South,Sneha,9,800,7200,Delivered,Cash
+ORD11534,2025-07-28,Customer_50,Speaker,West,Rahul,9,1200,10800,Shipped,cash 
+ORD11535,2024-01-14,Customer_445,Monitor,North,Rahul,2,800,1600,Cancelled,Cash
+ORD11536,2025-04-30,Customer_480,Headset,South,Amit,2,12000,24000, Returned,Credit Card
+ORD11537,2025-09-09,Customer_151,Mouse,north ,Pooja,5,800,4000,Cancelled,Credit Card
+ORD11538,2024-12-12,Customer_50,Webcam,East,Rahul,4,1200,4800, Returned,Credit Card
+ORD11539,2025-10-15,Customer_385,Webcam,east,Amit,8,500,4000,Shipped,Cash
+ORD11540,15/01/2025,  Customer_105  ,Tablet   ,east,Rahul,7,500,3500,Returned,UPI
+ORD11541,2025-03-22,Customer_566,Laptop,East,Amit,6,25000,150000,Cancelled,Cash
+ORD11542,2024-01-01,Customer_417,Mouse,West,Pooja,4,500,2000,Cancelled,Cash
+ORD11543,2024-10-14,Customer_411,Keyboard,east,Priya,6,800,4800,Delivered,cash 
+ORD11544,2025-04-04,Customer_110,Monitor,north ,Pooja,10,1200,12000, Returned,Credit Card
+ORD11545,2025-06-24,Customer_90,SSD,east,Karan,7,500,3500,delivered,UPI
+ORD11546,2025-05-22,Customer_19,Laptop, SOUTH,Priya,9,1200,10800,Returned,Cash
+ORD11547,2024-08-15,Customer_119,Laptop,east,Pooja,8,2500,#VALUE!,Returned,Cash
+ORD11548,2025-08-03,Customer_420,Tablet,South,Vikas,3,5000,15000,Shipped,Net Banking
+ORD11549,2024-09-17,Customer_194,Keyboard,South,Sneha,7,25000,175000,Delivered,Net Banking
+ORD11550,2024-02-24,Customer_196,Speaker,east,Priya,7,800,5600, Returned,Debit Card
+ORD11551,2025-09-30,,Webcam,east,Sneha,6,1200,7200,Shipped,Debit Card
+ORD11552,2024-05-22,Customer_530,Mouse,West,Vikas,2,800,1600,delivered,Debit Card
+ORD11553,2024-01-30,Customer_343,Monitor,east,Amit,6,800,4800,delivered,cash 
+ORD11554,32/13/2024,Customer_45,Headset, SOUTH,Neha,10,800,8000,Delivered,Debit Card
+ORD11555,2025-08-04,Customer_445,Headset,West,Pooja,6,12000,72000,Cancelled,Credit Card
+ORD11556,2025-12-21,Customer_339,Webcam,north ,Neha,8,5000,40000,delivered,Cash
+ORD11557,2025-12-19,Customer_477,Webcam,West,Rahul,4,12000,48000, Returned,Cash
+ORD11558,2025-02-22,Customer_538,Monitor,east,Amit,8,1200,9600,Shipped,cash 
+ORD11559,2025-11-27,Customer_245,SSD,north ,Sneha,7,1200,8400,Shipped,cash 
+ORD11559,2025-03-30,Customer_492,Keyboard,South,Rahul,9,12000,,Delivered,Credit Card
+ORD11561,2024-07-24,Customer_560,Speaker,north ,Rahul,4,25000,100000,Delivered,Debit Card
+ORD11562,2025-04-20,Customer_184,Mouse,West,Neha,1,1200,1200,Returned,cash 
+ORD11563,2025-08-19,Customer_528,Headset,north ,Sneha,5,12000,60000,Returned,cash 
+ORD11564,2024-08-29,Customer_29,Mouse,North,Priya,5,12000,60000,delivered,UPI
+ORD11565,2025-10-29,Customer_498,Tablet,North,Vikas,7,500,3500,Delivered,cash 
+ORD11566,2024-02-02,Customer_477,Monitor,North,Karan,7,2500,17500,Returned,Net Banking
+ORD11567,2024-03-26,Customer_594,SSD,West,Amit,8,800,6400, Returned,cash 
+ORD11568,2024-04-06,Customer_452,Laptop,South,Sneha,6,25000,150000,Shipped,Net Banking
+ORD11569,2024-11-12,Customer_384,Monitor,East,Vikas,1,500,500,delivered,cash 
+ORD11570,2025-05-10,Customer_412,Monitor,North,Sneha,6,5000,30000,Returned,cash 
+ORD11571,2025-03-03,Customer_387,Headset,north ,Neha,9,500,4500,Cancelled,Cash
+ORD11572,2024-09-07,Customer_499,Webcam,North,Vikas,3,2500,7500,Cancelled,Credit Card
+ORD11573,2025-01-03,Customer_143,Printer,North,Pooja,8,12000,96000,delivered,cash 
+ORD11574,2024-11-23,Customer_560,SSD, SOUTH,Priya,10,1200,12000,Shipped,Net Banking
+ORD11575,2025-02-08,Customer_197,Keyboard,East,Neha,4,12000,48000,Cancelled,Debit Card
+ORD11576,2025-09-15,Customer_318,Laptop,East,Amit,6,12000,72000, Returned,cash 
+ORD11577,2024-07-15,Customer_70,Laptop,east,Neha,7,5000,35000,Returned,cash 
+ORD11578,2025-04-14,Customer_587,Printer,East,Neha,6,500,3000,Returned,Debit Card
+ORD11579,2025-12-26,Customer_324,Tablet,East,Karan,7,12000,84000,Delivered,Debit Card
+ORD11580,2024-06-22,Customer_202,Headset,North,Priya,4,2500,10000,delivered,UPI
+ORD11581,2025-03-13,Customer_319,Keyboard,east,Rahul,7,2500,17500,Returned,UPI
+ORD11582,2025-04-28,Customer_152,Mouse,north ,Priya,5,500,2500,Cancelled,cash 
+ORD11583,2025-05-30,Customer_300,Printer,North,Rahul,3,1200,3600,Delivered,Cash
+ORD11584,2025-04-12,,Speaker   ,East,Amit,-7,800,-5600,delivered,Debit Card
+ORD11585,2024-06-22,Customer_162,SSD,east,Neha,6,2500,15000, Returned,UPI
+ORD11586,2025-09-11,Customer_86,Headset,north ,Amit,7,2500,17500, Returned,Cash
+ORD11587,2024-09-25,Customer_320,Laptop,north ,Pooja,9,12000,108000, Returned,Cash
+ORD11588,2025-09-06,Customer_384,Webcam,east,Priya,10,5000,50000,Delivered,Credit Card
+ORD11589,2025-05-27,Customer_289,Laptop,West,Karan,8,12000,96000,Delivered,Net Banking
+ORD11590,2024-03-09,Customer_203,SSD,north ,Vikas,6,25000,150000, Returned,Debit Card
+ORD11591,2024-12-16,Customer_377,Speaker,South,Amit,2,12000,24000,delivered,cash 
+ORD11592,2025-07-10,Customer_124,Monitor,east,Priya,7,12000,84000,Shipped,Cash
+ORD11593,2025-04-23,Customer_364,SSD,South,Vikas,3,800,2400,Cancelled,UPI
+ORD11594,2025-12-05,Customer_5,Monitor,East,Priya,5,5000,25000,delivered,Cash
+ORD11595,06/10/2024,Customer_149,Printer,North,Priya,2,1200,2400,delivered,Net Banking
+ORD11596,2025-11-11,Customer_295,SSD,East,Amit,9,5000,45000,Shipped,Net Banking
+ORD11597,2025-03-13,Customer_443,Speaker,North,Rahul,7,12000,84000,Returned,Credit Card
+ORD11598,2024-01-07,Customer_153,SSD,East,Sneha,3,1200,3600,Shipped,Net Banking
+ORD11599,2025-01-12,Customer_181,Printer,east,Neha,5,1200,6000,Returned,Credit Card
+ORD11599,2024-06-27,Customer_561,Monitor,North,Amit,7,500,3500,Delivered,cash 
+ORD11601,2024-12-19,Customer_366,Tablet, SOUTH,Rahul,5,12000,60000,Delivered,Net Banking
+ORD11602,2024-12-30,Customer_481,Tablet,South,Rahul,4,2500,10000,delivered,Credit Card
+ORD11603,2024-04-01,Customer_387,Keyboard,East,Karan,2,800,1600,Shipped,Cash
+ORD11604,2024-12-20,Customer_350,Printer,South,Sneha,9,5000,45000,Cancelled,cash 
+ORD11605,2025-01-12,Customer_528,Speaker,North,Neha,8,25000,200000,Returned,Debit Card
+ORD11606,2025-02-22,Customer_245,Headset,east,Rahul,7,1200,8400,Delivered,UPI
+ORD11607,2024-09-29,Customer_295,Speaker,north ,Karan,2,800,1600, Returned,Debit Card
+ORD11608,2025-01-02,Customer_10,SSD,South,Amit,10,12000,120000,Shipped,cash 
+ORD11609,2025-02-10,Customer_528,Speaker,east,Rahul,6,25000,150000,Shipped,Credit Card
+ORD11610,2025-06-27,Customer_104,Monitor,South,Neha,2,1200,2400,Delivered,UPI
+ORD11611,2025-04-29,Customer_158,Keyboard,north ,Neha,6,2500,15000,Shipped,Debit Card
+ORD11612,2025-03-03,Customer_387,Webcam,West,Priya,4,1200,,Delivered,UPI
+ORD11613,2025-11-03,Customer_165,Headset,North,Vikas,4,2500,10000,Delivered,UPI
+ORD11614,2024-10-28,Customer_423,Mouse,north ,Pooja,4,500,2000, Returned,UPI
+ORD11615,2025-02-16,Customer_334,Tablet,north ,Rahul,5,800,4000,delivered,UPI
+ORD11616,2024-05-08,Customer_44,Keyboard,North,Rahul,2,2500,5000,Delivered,cash 
+ORD11617,2024-11-28,    ,Mouse,South,Sneha,7,5000,35000,Returned,Debit Card
+ORD11618,2024-02-19,Customer_193,Keyboard,East,Priya,10,12000,120000,Shipped,Debit Card
+ORD11619,2024-02-08,Customer_591,Keyboard,north ,Neha,10,5000,50000,Shipped,Debit Card
+ORD11620,2024-12-08,Customer_21,Webcam,East,Pooja,6,800,4800,Shipped,Credit Card
+ORD11621,2024-04-09,Customer_291,Keyboard,East,Priya,4,800,3200,Shipped,UPI
+ORD11622,2024-04-25,Customer_429,Monitor,North,Karan,8,12000,96000,Shipped,cash 
+ORD11623,2025-09-01,Customer_225,Speaker,North,Pooja,2,25000,50000,Shipped,Net Banking
+ORD11624,2025-07-24,Customer_88,Headset,North,Rahul,2,5000,10000,Shipped,Net Banking
+ORD11625,2025-05-27,Customer_169,Laptop,West,Sneha,2,800,1600,Cancelled,Credit Card
+ORD11626,2025-09-12,Customer_48,Webcam,north ,Rahul,10,12000,120000, Returned,Net Banking
+ORD11627,2025-01-25,Customer_588,Headset,North,Vikas,4,25000,100000,Returned,Net Banking
+ORD11628,2024-09-08,Customer_65,SSD   , SOUTH,Amit,6,800,4800,Delivered,Cash
+ORD11629,2024-06-15,Customer_327,Speaker,east,Pooja,3,2500,7500,Returned,Credit Card
+ORD11630,2025-04-20,Customer_316,Keyboard,east,Karan,7,12000,84000,delivered,UPI
+ORD11631,2024-04-28,Customer_270,Webcam,South,Sneha,6,500,3000,Delivered,cash 
+ORD11632,2025-02-06,Customer_112,Laptop,South,Amit,3,25000,75000,Returned,Cash
+ORD11633,2025-02-01,Customer_7,Monitor,South,Rahul,10,12000,120000, Returned,Net Banking
+ORD11634,2025-08-11,Customer_35,Tablet,South,Vikas,2,12000,24000,delivered,Cash
+ORD11635,2025-01-13,Customer_599,Speaker,east,Vikas,3,1200,3600,Cancelled,UPI
+ORD11636,2025-11-01,Customer_21,Keyboard, SOUTH,Amit,1,12000,12000,Cancelled,cash 
+ORD11637,2024-05-13,Customer_406,Headset, SOUTH,Neha,10,1200,12000,Returned,cash 
+ORD11638,2024-05-22,Customer_590,Tablet,South,Neha,5,25000,#VALUE!,Shipped,Credit Card
+ORD11639,2024-09-05,Customer_281,Headset,East,Neha,5,2500,12500, Returned,Credit Card
+ORD11639,2025-06-02,Customer_147,Tablet, SOUTH,Neha,8,500,4000,Cancelled,Debit Card
+ORD11641,2024-07-17,Customer_457,SSD, SOUTH,Neha,3,1200,3600,delivered,Cash
+ORD11642,2024-04-26,Customer_253,Headset,East,Priya,7,25000,175000,Returned,cash 
+ORD11643,2025-01-17,Customer_269,Monitor,South,Priya,10,500,5000,Delivered,Net Banking
+ORD11644,2024-11-06,Customer_161,Webcam,north ,Amit,3,500,1500,Returned,Net Banking
+ORD11645,2025-07-15,Customer_146,Tablet,east,Amit,6,2500,15000,delivered,Debit Card
+ORD11646,2024-06-05,Customer_235,Speaker,North,Rahul,10,800,8000, Returned,Debit Card
+ORD11647,2024-12-21,Customer_550,Laptop,north ,Neha,7,800,5600,Delivered,Cash
+ORD11648,2024-04-19,Customer_422,Speaker, SOUTH,Karan,9,12000,108000,Returned,UPI
+ORD11649,2024-03-29,Customer_108,Printer,north ,Rahul,1,5000,5000,Cancelled,cash 
+ORD11650,03/03/2025,,Printer,East,Vikas,-7,12000,-84000,delivered,cash 
+ORD11651,2025-08-21,Customer_541,Monitor, SOUTH,Neha,4,12000,48000,Returned,Debit Card
+ORD11652,2025-10-09,Customer_266,SSD,North,Rahul,4,800,3200,Delivered,Credit Card
+ORD11653,2024-11-07,Customer_61,Headset, SOUTH,Neha,9,2500,22500,delivered,cash 
+ORD11654,2024-10-17,Customer_324,Laptop, SOUTH,Pooja,6,800,4800,delivered,UPI
+ORD11655,2024-01-13,Customer_115,Webcam,East,Rahul,4,5000,20000,Delivered,UPI
+ORD11656,2024-11-23,Customer_306,Printer,North,Vikas,2,1200,2400, Returned,Cash
+ORD11657,2025-05-01,Customer_288,Printer,East,Sneha,4,25000,100000,Delivered,cash 
+ORD11658,2024-04-08,Customer_461,Mouse,South,Priya,2,800,1600,delivered,UPI
+ORD11659,2025-02-27,Customer_499,SSD,North,Sneha,8,5000,40000,delivered,UPI
+ORD11660,2025-04-10,Customer_546,SSD,South,Rahul,7,5000,35000,Shipped,cash 
+ORD11661,2024-06-25,Customer_91,Laptop, SOUTH,Karan,7,2500,17500,Shipped,Debit Card
+ORD11662,2024-09-19,Customer_358,SSD, SOUTH,Priya,7,5000,35000,Cancelled,Credit Card
+ORD11663,2024-01-26,Customer_503,Mouse,east,Rahul,6,2500,15000,delivered,cash 
+ORD11664,2025-05-23,Customer_19,Keyboard,North,Rahul,7,1200,,Shipped,Net Banking
+ORD11665,32/13/2024,Customer_102,Webcam,West,Priya,7,1200,8400,delivered,UPI
+ORD11666,2025-04-26,Customer_418,Mouse,South,Vikas,9,800,7200,delivered,cash 
+ORD11667,2025-06-02,Customer_158,Headset,East,Amit,6,2500,15000,Delivered,UPI
+ORD11668,2024-12-19,Customer_449,Headset,North,Pooja,6,25000,150000,Returned,cash 
+ORD11669,2025-03-19,Customer_596,Tablet,West,Sneha,10,5000,50000,Delivered,Credit Card
+ORD11670,2025-03-03,Customer_452,Headset,north ,Sneha,5,25000,125000,Cancelled,cash 
+ORD11671,2025-09-23,Customer_22,Laptop,north ,Sneha,6,1200,7200,Returned,Credit Card
+ORD11672,2024-01-24,Customer_363,Monitor   ,east,Pooja,8,5000,40000,Cancelled,cash 
+ORD11673,2025-10-25,Customer_16,Printer,East,Priya,2,25000,50000,Returned,Cash
+ORD11674,2025-10-09,Customer_203,Webcam,east,Sneha,8,5000,40000,Cancelled,Debit Card
+ORD11675,2024-09-02,Customer_327,Laptop,West,Amit,6,500,3000,Shipped,cash 
+ORD11676,2025-11-02,Customer_283,SSD,North,Amit,9,5000,45000,delivered,Debit Card
+ORD11677,2025-06-16,Customer_350,Monitor, SOUTH,Sneha,7,5000,35000,Delivered,Cash
+ORD11678,2024-06-20,Customer_53,Printer,West,Sneha,7,25000,175000,delivered,Debit Card
+ORD11679,2024-12-24,Customer_195,Webcam,West,Karan,4,12000,48000,Cancelled,Cash
+ORD11679,2024-05-04,Customer_38,SSD,South,Neha,1,5000,5000,Delivered,UPI
+ORD11681,2024-01-19,Customer_585,Monitor,north ,Neha,2,500,1000,Delivered,cash 
+ORD11682,2024-11-30,Customer_131,Laptop,north ,Sneha,1,2500,2500,Cancelled,Cash
+ORD11683,2024-11-24,,Keyboard,South,Priya,2,2500,5000,Cancelled,Credit Card
+ORD11684,2025-05-08,Customer_103,Webcam,South,Neha,7,2500,17500,Shipped,Credit Card
+ORD11685,2025-05-22,Customer_37,Webcam,east,Vikas,4,5000,20000,Returned,Cash
+ORD11686,2025-07-19,Customer_571,Headset,East,Rahul,6,800,4800, Returned,UPI
+ORD11687,2024-03-22,Customer_217,Headset,North,Pooja,5,500,2500,Returned,Credit Card
+ORD11688,2024-10-23,Customer_464,Printer,West,Pooja,2,1200,2400,Shipped,Net Banking
+ORD11689,2024-02-12,Customer_292,Webcam,north ,Vikas,8,1200,9600, Returned,Cash
+ORD11690,2024-08-24,Customer_472,Webcam,West,Amit,1,5000,5000, Returned,Net Banking
+ORD11691,2024-11-19,Customer_407,Mouse,north ,Sneha,3,2500,7500,Cancelled,cash 
+ORD11692,2025-01-22,Customer_190,Speaker,West,Sneha,8,12000,96000,Cancelled,Cash
+ORD11693,2024-04-28,Customer_416,Mouse, SOUTH,Neha,1,12000,12000,Shipped,Cash
+ORD11694,2025-11-29,  Customer_164  ,Keyboard,West,Priya,1,2500,2500,delivered,cash 
+ORD11695,2024-01-11,Customer_315,Keyboard,east,Vikas,4,12000,48000,delivered,Credit Card
+ORD11696,2025-09-16,Customer_17,Monitor,East,Karan,7,500,3500, Returned,Debit Card
+ORD11697,2024-05-20,Customer_128,Monitor,North,Rahul,1,1200,1200, Returned,Debit Card
+ORD11698,2025-09-10,Customer_458,Laptop,East,Karan,3,25000,75000, Returned,Cash
+ORD11699,2024-06-09,Customer_16,Webcam,West,Pooja,5,12000,60000,Delivered,Net Banking
+ORD11700,2024-09-05,Customer_407,Printer,East,Sneha,3,500,1500,Delivered,Cash
+ORD11701,2025-03-31,Customer_256,Monitor,West,Pooja,10,12000,120000,Delivered,cash 
+ORD11702,2024-08-05,Customer_20,Printer,West,Priya,4,2500,10000,Returned,Credit Card
+ORD11703,2025-12-07,Customer_107,Keyboard,West,Priya,10,500,5000,Returned,Net Banking
+ORD11704,2024-11-15,Customer_465,SSD,West,Vikas,5,800,4000,Shipped,Debit Card
+ORD11705,22/03/2025,Customer_545,Laptop,East,Pooja,3,25000,75000,Cancelled,UPI
+ORD11706,2025-11-27,Customer_532,Speaker,South,Amit,8,800,6400,delivered,Cash
+ORD11707,2024-02-17,Customer_112,Monitor,North,Karan,10,12000,120000,Returned,Cash
+ORD11708,2024-01-12,Customer_560,Tablet,South,Sneha,9,2500,22500,Delivered,Credit Card
+ORD11709,2024-06-05,Customer_48,Keyboard,North,Amit,3,12000,36000,Cancelled,Debit Card
+ORD11710,2024-09-29,Customer_339,Speaker,West,Vikas,1,25000,25000,Delivered,cash 
+ORD11711,2025-08-28,Customer_113,Laptop,North,Pooja,6,25000,150000,Shipped,Cash
+ORD11712,2025-12-02,Customer_154,Webcam, SOUTH,Neha,1,800,800,Cancelled,Credit Card
+ORD11713,2024-07-16,Customer_375,Speaker,East,Sneha,7,12000,84000, Returned,cash 
+ORD11714,2024-08-24,Customer_189,Speaker, SOUTH,Karan,10,500,5000,Returned,cash 
+ORD11715,2025-01-31,Customer_348,Headset,north ,Pooja,5,2500,12500,Returned,Net Banking
+ORD11716,2025-05-30,,SSD   ,West,Vikas,-3,5000,,Returned,UPI
+ORD11717,2024-02-16,Customer_394,SSD,North,Amit,8,800,6400,Shipped,Cash
+ORD11718,2024-07-11,Customer_124,SSD,North,Pooja,10,1200,12000,Delivered,cash 
+ORD11719,2025-04-04,Customer_269,Webcam, SOUTH,Rahul,7,1200,8400, Returned,cash 
+ORD11719,2024-04-28,Customer_5,Tablet,North,Rahul,7,2500,17500,Cancelled,Cash
+ORD11721,2025-12-25,Customer_588,SSD, SOUTH,Sneha,1,500,500,delivered,Cash
+ORD11722,2024-10-14,Customer_85,Laptop,North,Vikas,6,800,4800, Returned,UPI
+ORD11723,2024-06-15,Customer_397,Laptop,South,Amit,1,1200,1200,Delivered,Debit Card
+ORD11724,2025-08-31,Customer_328,SSD,north ,Karan,5,1200,6000,delivered,Credit Card
+ORD11725,2024-06-04,Customer_555,Laptop,South,Rahul,7,2500,17500,Shipped,Debit Card
+ORD11726,2024-03-26,Customer_169,Monitor, SOUTH,Pooja,9,12000,108000,Cancelled,Net Banking
+ORD11727,2025-07-14,Customer_127,Speaker, SOUTH,Vikas,10,5000,50000, Returned,cash 
+ORD11728,2024-12-24,Customer_535,Printer,North,Priya,5,12000,60000,Shipped,Net Banking
+ORD11729,2025-07-02,Customer_416,Laptop,South,Pooja,1,2500,#VALUE!,Delivered,cash 
+ORD11730,2024-08-01,Customer_383,Webcam,North,Vikas,10,1200,12000, Returned,Net Banking
+ORD11731,2025-08-10,Customer_239,Printer,North,Neha,6,1200,7200,Shipped,Credit Card
+ORD11732,2024-06-23,Customer_347,Printer,South,Pooja,1,12000,12000,Delivered,Cash
+ORD11733,2025-05-02,Customer_506,Monitor, SOUTH,Vikas,9,1200,10800,delivered,cash 
+ORD11734,2025-02-20,Customer_299,SSD,West,Sneha,8,500,4000, Returned,cash 
+ORD11735,2025-06-14,Customer_97,Speaker, SOUTH,Sneha,1,500,500, Returned,Credit Card
+ORD11736,2025-05-24,Customer_338,Mouse,north ,Pooja,1,5000,5000, Returned,Debit Card
+ORD11737,2025-12-30,Customer_502,Headset,east,Rahul,3,25000,75000,delivered,Cash
+ORD11738,2025-07-28,Customer_182,Speaker,north ,Karan,2,5000,10000,Shipped,Cash
+ORD11739,2024-11-03,Customer_311,Laptop,East,Priya,4,1200,4800,Returned,Credit Card
+ORD11740,2025-08-10,Customer_92,Tablet,east,Priya,9,25000,225000,Returned,UPI
+ORD11741,2024-12-19,Customer_308,Printer,East,Amit,4,2500,10000,delivered,Net Banking
+ORD11742,2024-09-26,Customer_207,Printer,north ,Neha,2,5000,10000, Returned,Cash
+ORD11743,2025-09-03,Customer_99,Printer,West,Sneha,5,2500,12500,delivered,Cash
+ORD11744,2025-01-26,Customer_138,SSD,north ,Neha,5,800,4000,Delivered,Credit Card
+ORD11745,2025-11-17,Customer_197,Monitor,East,Amit,10,2500,25000,Shipped,Credit Card
+ORD11746,2024-05-04,Customer_291,Keyboard,east,Sneha,10,25000,250000, Returned,Cash
+ORD11747,2024-11-19,Customer_75,Webcam,South,Priya,1,1200,1200,Delivered,cash 
+ORD11748,2024-06-07,Customer_144,SSD,North,Sneha,3,800,2400,delivered,UPI
+ORD11749,2024-07-18,,Mouse,North,Priya,2,800,1600, Returned,Net Banking
+ORD11750,2024-06-13,Customer_362,Keyboard,North,Rahul,8,800,6400,delivered,Debit Card
+ORD11751,2025-11-12,Customer_282,Keyboard,east,Neha,4,2500,10000,Delivered,Debit Card
+ORD11752,2024-10-19,Customer_112,Webcam,North,Neha,6,800,4800,Delivered,Debit Card
+ORD11753,2024-06-05,Customer_368,Keyboard,north ,Rahul,8,500,4000,Shipped,Net Banking
+ORD11754,2025-06-23,Customer_479,Monitor,East,Rahul,4,500,2000, Returned,Credit Card
+ORD11755,2024-08-13,Customer_530,Mouse,north ,Sneha,3,1200,3600,Shipped,UPI
+ORD11756,2025-08-29,Customer_114,Webcam, SOUTH,Vikas,5,5000,25000,delivered,Debit Card
+ORD11757,2024-06-25,Customer_574,Monitor,East,Pooja,2,800,1600,Delivered,Net Banking
+ORD11758,2025-02-07,Customer_506,Webcam, SOUTH,Rahul,6,500,3000,delivered,Credit Card
+ORD11759,2024-04-22,Customer_595,Tablet,East,Rahul,9,5000,45000,delivered,Cash
+ORD11759,30/11/2025,Customer_172,Printer   , SOUTH,Sneha,8,1200,9600,Delivered,Credit Card
+ORD11761,2025-06-16,Customer_59,Tablet,East,Vikas,5,800,4000,Shipped,Credit Card
+ORD11762,2025-01-05,Customer_107,Monitor,West,Neha,10,25000,250000,Delivered,Cash
+ORD11763,2025-03-27,Customer_112,Keyboard,east,Neha,2,2500,5000,delivered,UPI
+ORD11764,2025-04-23,Customer_322,Laptop,West,Amit,2,12000,24000,Returned,UPI
+ORD11765,2025-06-26,Customer_222,Keyboard,North,Pooja,2,5000,10000,Returned,Debit Card
+ORD11766,2024-04-28,Customer_599,Speaker,East,Rahul,8,2500,20000,Delivered,Cash
+ORD11767,2024-12-30,Customer_551,Laptop,north ,Karan,7,500,3500,Cancelled,cash 
+ORD11768,2025-07-18,Customer_344,Mouse,North,Neha,5,25000,,Returned,Credit Card
+ORD11769,2025-02-05,Customer_317,Printer,West,Priya,4,25000,100000,Cancelled,Debit Card
+ORD11770,2025-12-21,Customer_463,Webcam,north ,Karan,5,5000,25000,Returned,cash 
+ORD11771,2025-03-16,  Customer_349  ,Tablet,North,Rahul,3,25000,75000,Shipped,UPI
+ORD11772,2024-08-27,Customer_153,Keyboard,South,Vikas,6,12000,72000,Shipped,UPI
+ORD11773,2025-09-19,Customer_79,SSD, SOUTH,Neha,9,2500,22500, Returned,cash 
+ORD11774,2025-01-27,Customer_213,Mouse, SOUTH,Sneha,4,800,3200,Shipped,UPI
+ORD11775,2025-10-11,Customer_447,Webcam,West,Vikas,10,2500,25000, Returned,cash 
+ORD11776,32/13/2024,Customer_451,Keyboard,east,Karan,7,1200,8400,Delivered,Credit Card
+ORD11777,2025-05-14,Customer_578,Tablet, SOUTH,Amit,6,25000,150000, Returned,Debit Card
+ORD11778,2024-07-02,Customer_513,Laptop,East,Vikas,10,5000,50000,Delivered,UPI
+ORD11779,2024-07-23,Customer_94,Mouse,East,Pooja,6,800,4800,delivered,Credit Card
+ORD11780,2025-09-17,Customer_550,Speaker,South,Pooja,3,800,2400,Returned,cash 
+ORD11781,2024-07-07,Customer_171,Headset,West,Pooja,10,12000,120000,Shipped,Debit Card
+ORD11782,2025-05-09,,Laptop, SOUTH,Amit,-6,5000,-30000,Delivered,UPI
+ORD11783,2025-06-08,Customer_496,Webcam,North,Vikas,4,5000,20000,delivered,cash 
+ORD11784,2025-04-29,Customer_373,Monitor,West,Amit,10,2500,25000,Delivered,Cash
+ORD11785,2025-09-12,Customer_340,Monitor,East,Karan,10,12000,120000,Cancelled,Cash
+ORD11786,2024-08-29,Customer_248,Monitor,east,Amit,8,500,4000, Returned,Credit Card
+ORD11787,2024-06-05,Customer_506,Monitor,South,Neha,9,12000,108000, Returned,cash 
+ORD11788,2025-03-13,Customer_176,Headset,North,Amit,6,25000,150000,delivered,Net Banking
+ORD11789,2025-04-26,Customer_297,Laptop,East,Amit,6,800,4800,Delivered,Debit Card
+ORD11790,2025-04-12,Customer_5,Speaker,North,Sneha,7,2500,17500,delivered,Credit Card
+ORD11791,2025-10-13,Customer_474,Headset, SOUTH,Amit,4,1200,4800,Delivered,cash 
+ORD11792,2025-08-22,Customer_366,Monitor,West,Vikas,7,1200,8400,Delivered,Cash
+ORD11793,2025-09-26,Customer_145,Tablet,South,Neha,6,12000,72000,Returned,Cash
+ORD11794,2025-09-13,Customer_316,Laptop, SOUTH,Amit,9,5000,45000,Shipped,Debit Card
+ORD11795,2025-08-04,Customer_440,Monitor,South,Priya,8,500,4000,Returned,Credit Card
+ORD11796,2025-07-26,Customer_193,Mouse,north ,Sneha,5,5000,25000,Returned,Cash
+ORD11797,2025-01-18,Customer_375,Monitor,East,Sneha,2,2500,5000,Returned,UPI
+ORD11798,2025-11-30,Customer_309,Tablet,north ,Amit,9,800,7200,Returned,UPI
+ORD11799,2025-09-17,Customer_463,Tablet, SOUTH,Pooja,4,800,3200,Shipped,cash 
+ORD11799,2025-10-31,Customer_199,Tablet,West,Priya,5,5000,25000,delivered,Net Banking
+ORD11801,2024-09-07,Customer_300,Keyboard,north ,Rahul,9,5000,45000,Delivered,Debit Card
+ORD11802,2025-10-29,Customer_456,Mouse,north ,Pooja,6,25000,150000,Cancelled,Credit Card
+ORD11803,2024-08-31,Customer_53,Laptop, SOUTH,Rahul,5,2500,12500, Returned,Credit Card
+ORD11804,2024-05-23,Customer_150,Keyboard   ,South,Neha,6,5000,30000,Shipped,Net Banking
+ORD11805,2025-07-17,Customer_85,Printer,South,Sneha,2,800,1600,Cancelled,Credit Card
+ORD11806,2025-09-11,Customer_23,Webcam,East,Pooja,3,2500,7500, Returned,Cash
+ORD11807,2024-09-12,Customer_356,Keyboard,East,Karan,6,25000,150000,Cancelled,Credit Card
+ORD11808,2025-04-24,Customer_429,SSD,West,Pooja,4,5000,20000,Cancelled,Net Banking
+ORD11809,2025-06-28,Customer_303,Tablet, SOUTH,Priya,6,12000,72000,delivered,Cash
+ORD11810,2024-12-15,Customer_179,Tablet,West,Neha,3,2500,7500, Returned,Credit Card
+ORD11811,2025-06-30,Customer_63,Speaker,North,Priya,9,800,7200, Returned,Credit Card
+ORD11812,2024-12-06,Customer_587,Keyboard, SOUTH,Neha,5,2500,12500,delivered,Debit Card
+ORD11813,2024-12-02,Customer_350,Printer,South,Neha,3,500,1500,Shipped,UPI
+ORD11814,2025-09-27,Customer_489,Laptop,north ,Pooja,2,500,1000,Cancelled,Net Banking
+ORD11815,20/12/2024,,Mouse,north ,Sneha,7,1200,8400,Returned,Credit Card
+ORD11816,2024-03-12,Customer_101,Headset,North,Amit,2,2500,5000,delivered,cash 
+ORD11817,2024-08-12,Customer_127,Tablet,north ,Priya,1,800,800, Returned,Cash
+ORD11818,2024-10-30,Customer_69,Monitor,north ,Rahul,4,2500,10000,Returned,Net Banking
+ORD11819,2024-02-16,Customer_327,Headset, SOUTH,Amit,5,500,2500,Delivered,Debit Card
+ORD11820,2024-09-24,Customer_540,Keyboard,South,Sneha,9,12000,,delivered,cash 
+ORD11821,2024-05-02,Customer_11,Speaker,West,Neha,9,25000,225000,Delivered,UPI
+ORD11822,2025-12-23,Customer_177,Keyboard,South,Rahul,9,12000,108000,Shipped,Credit Card
+ORD11823,2025-05-02,Customer_357,Webcam,West,Pooja,9,2500,22500, Returned,cash 
+ORD11824,2025-08-25,Customer_445,Monitor,North,Priya,10,12000,120000,Shipped,UPI
+ORD11825,2025-02-02,Customer_298,Headset,North,Rahul,2,1200,2400,delivered,cash 
+ORD11826,2025-11-11,Customer_118,Headset,East,Rahul,6,25000,150000, Returned,Debit Card
+ORD11827,2025-11-08,Customer_554,Mouse,north ,Pooja,4,500,2000,Returned,Credit Card
+ORD11828,2024-08-05,Customer_581,Tablet,South,Neha,2,25000,50000,delivered,UPI
+ORD11829,2024-05-11,Customer_516,Printer,North,Amit,2,1200,2400, Returned,Debit Card
+ORD11830,2024-07-25,Customer_179,Headset,South,Rahul,2,800,1600,Shipped,Cash
+ORD11831,2025-12-11,Customer_153,Printer,North,Vikas,3,12000,36000,Delivered,Credit Card
+ORD11832,2025-02-11,Customer_232,Printer,East,Priya,5,1200,6000,Cancelled,Debit Card
+ORD11833,2024-09-19,Customer_5,Webcam,East,Neha,5,25000,125000,Delivered,Credit Card
+ORD11834,2025-05-11,Customer_396,Printer,East,Vikas,7,5000,35000,Delivered,Credit Card
+ORD11835,2024-05-29,Customer_515,Headset,north ,Vikas,10,800,8000,Delivered,cash 
+ORD11836,2024-06-14,Customer_159,Laptop,North,Karan,6,800,4800,Delivered,UPI
+ORD11837,2025-03-16,Customer_237,SSD,East,Priya,10,500,5000,Returned,UPI
+ORD11838,2024-12-03,Customer_418,Webcam,north ,Sneha,1,2500,2500,Delivered,Debit Card
+ORD11839,2025-05-07,Customer_465,Tablet,South,Pooja,3,500,1500, Returned,cash 
+ORD11839,2024-10-05,Customer_581,Laptop,North,Karan,3,2500,7500,Returned,UPI
+ORD11841,2024-01-04,Customer_295,Webcam,east,Neha,3,25000,75000, Returned,Credit Card
+ORD11842,2025-12-25,Customer_553,Keyboard,East,Amit,2,25000,50000,Delivered,UPI
+ORD11843,2024-11-26,Customer_391,Laptop,East,Vikas,2,1200,2400, Returned,Credit Card
+ORD11844,2024-01-05,Customer_293,Laptop,South,Vikas,10,12000,120000,delivered,UPI
+ORD11845,2025-11-10,Customer_298,Mouse,North,Pooja,3,500,1500,Shipped,Debit Card
+ORD11846,2025-05-15,Customer_393,Laptop,east,Karan,9,2500,22500,Shipped,cash 
+ORD11847,2025-07-24,Customer_199,Webcam,North,Neha,5,12000,60000,Cancelled,Net Banking
+ORD11848,2025-07-23,    ,SSD   ,West,Priya,-10,12000,-120000,Cancelled,Net Banking
+ORD11849,2025-01-09,Customer_297,Keyboard,South,Priya,1,800,800,Shipped,Debit Card
+ORD11850,2024-12-22,Customer_546,Tablet,north ,Amit,8,2500,20000,Delivered,Debit Card
+ORD11851,2024-09-25,Customer_536,Webcam,West,Sneha,5,500,2500,delivered,Credit Card
+ORD11852,2024-02-15,Customer_299,Mouse, SOUTH,Priya,8,800,6400,Cancelled,Credit Card
+ORD11853,2025-08-24,Customer_307,Webcam,East,Neha,5,25000,125000,Shipped,Net Banking
+ORD11854,2025-09-09,Customer_287,Mouse,east,Sneha,7,12000,84000,Delivered,Cash
+ORD11855,2025-11-16,Customer_115,Printer,north ,Sneha,7,500,3500,Delivered,cash 
+ORD11856,2025-06-22,Customer_459,Printer, SOUTH,Sneha,1,500,500,Shipped,UPI
+ORD11857,2024-11-22,Customer_43,Laptop,north ,Priya,4,5000,20000,Cancelled,UPI
+ORD11858,2025-09-06,Customer_532,Laptop, SOUTH,Sneha,3,2500,7500, Returned,Cash
+ORD11859,2025-10-20,Customer_381,Printer,South,Sneha,9,12000,108000, Returned,Net Banking
+ORD11860,2025-08-12,Customer_330,Mouse,north ,Rahul,9,25000,225000, Returned,Credit Card
+ORD11861,2025-06-07,Customer_523,SSD,North,Rahul,1,5000,5000, Returned,Cash
+ORD11862,2025-02-08,Customer_423,SSD,east,Priya,6,5000,30000,Shipped,Credit Card
+ORD11863,2024-04-06,Customer_589,Tablet,West,Amit,8,1200,9600,Cancelled,cash 
+ORD11864,2024-02-28,Customer_118,Mouse, SOUTH,Vikas,8,25000,200000,delivered,UPI
+ORD11865,2024-08-27,Customer_124,Headset,South,Amit,6,500,3000,Cancelled,UPI
+ORD11866,2025-02-16,Customer_62,Speaker, SOUTH,Sneha,3,500,1500,Returned,Cash
+ORD11867,2024-07-14,Customer_260,Headset,north ,Vikas,2,5000,10000,Shipped,Debit Card
+ORD11868,2025-06-17,Customer_166,SSD,South,Amit,6,500,3000,Cancelled,Net Banking
+ORD11869,2024-08-13,Customer_232,Mouse,West,Karan,7,2500,17500,delivered,Debit Card
+ORD11870,21/05/2025,Customer_436,Printer,East,Karan,6,12000,72000,Delivered,Credit Card
+ORD11871,2025-10-08,Customer_27,SSD,north ,Amit,9,5000,45000,Delivered,cash 
+ORD11872,2024-12-17,Customer_67,Headset,East,Rahul,8,12000,,delivered,UPI
+ORD11873,2024-12-14,Customer_543,Headset, SOUTH,Karan,10,2500,25000, Returned,Credit Card
+ORD11874,2024-11-04,Customer_81,Tablet,North,Priya,7,1200,8400,delivered,Debit Card
+ORD11875,2024-01-27,Customer_175,Speaker,north ,Rahul,3,12000,36000,delivered,Cash
+ORD11876,2025-05-10,Customer_14,SSD,East,Pooja,7,12000,84000,Cancelled,UPI
+ORD11877,2024-07-14,Customer_463,Headset,East,Rahul,9,1200,10800,Delivered,Credit Card
+ORD11878,2024-05-11,Customer_230,SSD,North,Neha,5,2500,12500,Cancelled,Cash
+ORD11879,2025-06-18,Customer_486,SSD,South,Neha,7,25000,175000,Delivered,cash 
+ORD11879,2024-04-10,Customer_284,Keyboard, SOUTH,Pooja,3,500,1500,delivered,Net Banking
+ORD11881,2024-03-28,,Speaker,North,Rahul,10,500,5000, Returned,UPI
+ORD11882,2024-03-04,Customer_4,SSD, SOUTH,Amit,7,500,3500,Delivered,Net Banking
+ORD11883,2025-10-30,Customer_584,Tablet,North,Amit,7,500,3500,Shipped,Debit Card
+ORD11884,2024-08-30,Customer_248,Tablet,South,Neha,1,1200,1200,delivered,cash 
+ORD11885,2025-01-01,Customer_499,Keyboard,north ,Priya,9,1200,10800,Delivered,cash 
+ORD11886,2024-08-06,Customer_306,Webcam,North,Vikas,8,5000,40000,Cancelled,Debit Card
+ORD11887,32/13/2024,Customer_262,Speaker,east,Rahul,6,25000,150000,Returned,Credit Card
+ORD11888,2024-11-04,Customer_107,Printer,east,Sneha,6,2500,15000,delivered,UPI
+ORD11889,2025-10-25,Customer_35,Tablet,north ,Rahul,4,5000,20000,Delivered,cash 
+ORD11890,2025-09-09,Customer_399,Printer, SOUTH,Karan,3,5000,15000,Returned,Net Banking
+ORD11891,2025-01-23,Customer_429,Laptop,east,Priya,10,1200,12000, Returned,cash 
+ORD11892,2025-11-21,Customer_81,Printer   ,West,Rahul,6,12000,72000,Delivered,Net Banking
+ORD11893,2024-08-19,Customer_522,Headset,east,Pooja,8,800,6400,Cancelled,Debit Card
+ORD11894,2024-06-27,Customer_18,Webcam,North,Sneha,2,500,1000, Returned,cash 
+ORD11895,2024-02-23,Customer_454,Headset,North,Karan,4,500,2000,Returned,Net Banking
+ORD11896,2024-01-16,Customer_427,Speaker,West,Pooja,10,25000,250000,Delivered,Net Banking
+ORD11897,2024-11-12,Customer_457,SSD,east,Vikas,6,5000,30000,delivered,Debit Card
+ORD11898,2025-10-04,Customer_249,Laptop,North,Vikas,9,500,4500,Cancelled,Net Banking
+ORD11899,2025-01-26,Customer_343,Printer,east,Amit,3,800,2400,Shipped,Net Banking
+ORD11900,2025-01-03,Customer_558,SSD,North,Pooja,3,12000,36000,Cancelled,cash 
+ORD11901,2025-09-15,Customer_457,Mouse,East,Amit,4,500,2000,Cancelled,Net Banking
+ORD11902,2024-04-05,Customer_340,SSD,east,Rahul,8,12000,96000, Returned,Net Banking
+ORD11903,2024-08-06,Customer_365,Printer,South,Amit,3,500,1500,Shipped,UPI
+ORD11904,2025-08-03,Customer_370,Mouse, SOUTH,Vikas,2,1200,2400,Returned,UPI
+ORD11905,2024-01-10,Customer_406,Headset,West,Vikas,5,25000,125000,Cancelled,Cash
+ORD11906,2025-05-11,Customer_160,Webcam,South,Neha,1,5000,5000,Delivered,Debit Card
+ORD11907,2025-03-08,Customer_565,Printer,east,Neha,5,12000,60000,Shipped,Net Banking
+ORD11908,2025-03-15,Customer_586,Laptop,East,Pooja,2,500,1000,Delivered,Debit Card
+ORD11909,2025-05-08,Customer_529,Headset, SOUTH,Pooja,8,5000,40000,Shipped,Cash
+ORD11910,2025-04-16,Customer_223,Headset,South,Neha,2,500,1000, Returned,Net Banking
+ORD11911,2025-08-21,Customer_267,Laptop, SOUTH,Neha,9,1200,#VALUE!,delivered,Credit Card
+ORD11912,2024-09-07,Customer_511,Laptop,north ,Sneha,9,800,7200,Delivered,Debit Card
+ORD11913,2024-02-22,Customer_528,Headset,West,Karan,4,2500,10000,Cancelled,Credit Card
+ORD11914,2024-09-20,,Speaker,east,Pooja,-7,800,-5600,delivered,Debit Card
+ORD11915,2024-08-02,Customer_526,Speaker,north ,Karan,5,12000,60000,Shipped,Debit Card
+ORD11916,2024-05-09,Customer_546,Laptop, SOUTH,Neha,1,12000,12000,Cancelled,Net Banking
+ORD11917,2025-09-10,Customer_46,SSD,South,Vikas,2,800,1600,Delivered,UPI
+ORD11918,2025-01-27,Customer_502,Tablet,north ,Pooja,7,5000,35000,Shipped,UPI
+ORD11919,2024-03-10,Customer_505,Headset,South,Sneha,9,2500,22500,delivered,cash 
+ORD11919,2025-01-16,Customer_223,Keyboard, SOUTH,Pooja,10,1200,12000, Returned,cash 
+ORD11921,2024-05-07,Customer_535,Printer,South,Karan,7,5000,35000,Returned,Cash
+ORD11922,2024-03-30,Customer_134,Mouse,West,Sneha,8,1200,9600,Returned,UPI
+ORD11923,2024-06-28,Customer_221,Keyboard,South,Neha,2,500,1000,Returned,Net Banking
+ORD11924,2024-08-06,Customer_146,Printer,North,Karan,8,5000,,Cancelled,Credit Card
+ORD11925,18/07/2024,  Customer_11  ,Speaker,east,Rahul,5,5000,25000,Delivered,Debit Card
+ORD11926,2025-08-07,Customer_188,Monitor,West,Rahul,9,1200,10800,delivered,Credit Card
+ORD11927,2024-11-09,Customer_162,Webcam, SOUTH,Pooja,4,5000,20000,Shipped,cash 
+ORD11928,2025-06-06,Customer_54,Headset,north ,Neha,9,25000,225000,Shipped,Debit Card
+ORD11929,2025-05-02,Customer_562,Speaker,West,Rahul,2,25000,50000,Returned,Credit Card
+ORD11930,2025-08-03,Customer_265,Printer, SOUTH,Priya,6,25000,150000,Shipped,Credit Card
+ORD11931,2024-08-03,Customer_83,Keyboard,South,Rahul,1,5000,5000,Cancelled,Credit Card
+ORD11932,2025-01-30,Customer_304,Headset,east,Neha,4,1200,4800,Returned,Credit Card
+ORD11933,2025-06-08,Customer_120,SSD,West,Amit,10,5000,50000,Shipped,Credit Card
+ORD11934,2024-03-11,Customer_552,Tablet,North,Vikas,2,500,1000,delivered,UPI
+ORD11935,2025-03-06,Customer_63,Monitor, SOUTH,Neha,10,2500,25000,Delivered,Debit Card
+ORD11936,2024-11-18,Customer_412,Tablet   ,North,Karan,2,1200,2400,delivered,UPI
+ORD11937,2024-11-25,Customer_176,Keyboard,north ,Priya,10,1200,12000, Returned,Cash
+ORD11938,2025-08-05,Customer_364,Monitor,South,Rahul,10,5000,50000,Cancelled,UPI
+ORD11939,2025-03-03,Customer_359,Laptop, SOUTH,Priya,6,800,4800,Cancelled,Debit Card
+ORD11940,2025-09-29,Customer_396,Monitor,West,Rahul,7,5000,35000,Returned,UPI
+ORD11941,2025-08-31,Customer_323,Laptop,West,Pooja,4,2500,10000,delivered,Credit Card
+ORD11942,2024-10-21,Customer_294,SSD,South,Vikas,1,500,500,Cancelled,cash 
+ORD11943,2024-04-23,Customer_491,Keyboard, SOUTH,Vikas,5,12000,60000,Shipped,UPI
+ORD11944,2025-08-11,Customer_558,Headset,east,Sneha,9,1200,10800, Returned,Cash
+ORD11945,2025-03-11,Customer_562,Printer,east,Rahul,9,2500,22500,Returned,Debit Card
+ORD11946,2024-11-11,Customer_41,Headset,North,Karan,6,2500,15000,Delivered,Debit Card
+ORD11947,2024-01-26,,Webcam,West,Amit,8,500,4000, Returned,Debit Card
+ORD11948,2024-09-06,Customer_219,Keyboard,east,Neha,8,800,6400,Returned,Cash
+ORD11949,2025-12-29,Customer_78,Webcam,east,Amit,8,500,4000,Shipped,Net Banking
+ORD11950,2025-09-07,Customer_297,Tablet,east,Neha,8,5000,40000,Returned,Debit Card
+ORD11951,2025-01-21,Customer_74,Keyboard,North,Vikas,6,1200,7200,delivered,Credit Card
+ORD11952,2024-10-07,Customer_71,Monitor,east,Vikas,7,1200,8400,Cancelled,UPI
+ORD11953,2025-06-23,Customer_137,SSD, SOUTH,Pooja,8,500,4000, Returned,UPI
+ORD11954,2024-02-20,Customer_72,Headset,North,Karan,10,5000,50000,delivered,cash 
+ORD11955,2025-05-20,Customer_398,Webcam,North,Amit,6,12000,72000,Delivered,Debit Card
+ORD11956,2024-09-01,Customer_323,Speaker,North,Karan,5,1200,6000,Delivered,UPI
+ORD11957,2025-08-09,Customer_257,Tablet,West,Rahul,8,1200,9600,delivered,UPI
+ORD11958,2025-11-14,Customer_485,Headset,East,Neha,1,5000,5000,Returned,Cash
+ORD11959,2025-02-15,Customer_590,SSD,South,Vikas,10,800,8000,Shipped,Debit Card
+ORD11959,2024-01-13,Customer_584,Printer,north ,Pooja,4,1200,4800, Returned,Debit Card
+ORD11961,2024-05-17,Customer_452,Keyboard,east,Vikas,1,5000,5000,Shipped,Cash
+ORD11962,2024-05-01,Customer_201,Monitor,north ,Pooja,4,12000,48000,Delivered,Debit Card
+ORD11963,2025-06-07,Customer_239,Printer, SOUTH,Amit,10,800,8000,Cancelled,Debit Card
+ORD11964,2025-09-05,Customer_290,SSD, SOUTH,Sneha,4,25000,100000,Returned,Credit Card
+ORD11965,2025-01-18,Customer_338,Tablet,east,Pooja,5,500,2500,Cancelled,Net Banking
+ORD11966,2024-06-26,Customer_206,Headset,east,Amit,10,12000,120000,Returned,UPI
+ORD11967,2025-04-13,Customer_226,Printer,South,Vikas,9,2500,22500,Returned,UPI
+ORD11968,2024-07-19,Customer_47,Headset, SOUTH,Neha,7,25000,175000,Shipped,Debit Card
+ORD11969,2025-08-04,Customer_402,Mouse,east,Priya,5,1200,6000, Returned,Credit Card
+ORD11970,2025-09-24,Customer_589,Mouse,east,Rahul,5,12000,60000,delivered,cash 
+ORD11971,2025-07-05,Customer_508,Webcam,east,Karan,6,500,3000, Returned,cash 
+ORD11972,2025-12-31,Customer_467,Monitor, SOUTH,Karan,6,1200,7200,Shipped,UPI
+ORD11973,2025-06-20,Customer_291,Laptop, SOUTH,Karan,2,5000,10000,Returned,Net Banking
+ORD11974,2024-11-11,Customer_289,Printer,West,Priya,1,800,800,delivered,UPI
+ORD11975,2025-05-12,Customer_453,SSD,South,Priya,10,12000,120000,Shipped,cash 
+ORD11976,2024-08-03,Customer_299,Laptop,West,Vikas,9,2500,,Cancelled,Debit Card
+ORD11977,2024-11-16,Customer_347,Keyboard,East,Karan,4,25000,100000,delivered,Cash
+ORD11978,2025-10-03,Customer_475,SSD,West,Neha,4,25000,100000, Returned,UPI
+ORD11979,2025-05-24,Customer_200,Webcam,north ,Amit,5,12000,60000,delivered,UPI
+ORD11980,28/09/2025,,Webcam   ,West,Neha,-2,2500,-5000,Shipped,Cash
+ORD11981,2024-06-22,Customer_462,Speaker,East,Amit,3,500,1500,Delivered,Credit Card
+ORD11982,2025-08-22,Customer_134,Printer,North,Priya,1,5000,5000,Shipped,cash 
+ORD11983,2024-06-26,Customer_94,Webcam,East,Sneha,6,5000,30000, Returned,Debit Card
+ORD11984,2025-01-09,Customer_502,Speaker,East,Sneha,3,5000,15000,Returned,Debit Card
+ORD11985,2024-01-11,Customer_433,Monitor,east,Pooja,1,1200,1200, Returned,cash 
+ORD11986,2024-08-17,Customer_76,Keyboard,north ,Neha,2,2500,5000,Cancelled,Credit Card
+ORD11987,2024-10-24,Customer_328,Mouse, SOUTH,Priya,4,2500,10000,Delivered,Credit Card
+ORD11988,2025-04-06,Customer_226,Headset,East,Rahul,5,500,2500,Returned,Net Banking
+ORD11989,2024-07-25,Customer_340,Webcam,north ,Sneha,7,500,3500,Shipped,cash 
+ORD11990,2025-12-20,Customer_539,Laptop,East,Pooja,8,5000,40000,delivered,Debit Card
+ORD11991,2025-10-26,Customer_281,Printer,West,Rahul,7,2500,17500,Shipped,Net Banking
+ORD11992,2025-07-01,Customer_397,Speaker, SOUTH,Neha,3,500,1500,Returned,Debit Card
+ORD11993,2025-06-25,Customer_534,Monitor,East,Pooja,6,800,4800,Shipped,Net Banking
+ORD11994,2025-11-17,Customer_382,Keyboard,West,Neha,2,1200,2400,Delivered,Cash
+ORD11995,2024-01-15,Customer_75,Webcam, SOUTH,Pooja,7,800,5600,Cancelled,cash 
+ORD11996,2024-10-23,Customer_395,Printer,South,Karan,2,12000,24000,Delivered,cash 
+ORD11997,2025-03-16,Customer_229,Laptop,North,Neha,4,12000,48000, Returned,cash 
+ORD11998,32/13/2024,Customer_295,Webcam,North,Neha,5,25000,125000,Shipped,cash 
+ORD11999,2024-02-09,Customer_41,Monitor,North,Vikas,4,1200,4800,Cancelled,Cash
